@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trivit</string>
+
+    <!-- Navigation -->
+    <string name="settings">Settings</string>
+    <string name="done">Done</string>
+
+    <!-- Empty State -->
+    <string name="no_trivits_yet">No Trivits Yet</string>
+    <string name="tap_plus_to_create">Tap + to create your first tally counter</string>
+
+    <!-- Trivit Actions -->
+    <string name="new_trivit">New Trivit</string>
+    <string name="rename">Rename</string>
+    <string name="change_color">Change Color</string>
+    <string name="reset_count">Reset Count</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+
+    <!-- Settings Sections -->
+    <string name="general">General</string>
+    <string name="color_scheme">Color Scheme</string>
+    <string name="about">About</string>
+    <string name="data">Data</string>
+
+    <!-- Settings General -->
+    <string name="haptic_feedback">Haptic Feedback</string>
+    <string name="palette">Palette</string>
+    <string name="hide_counter_when_expanded">Hide Counter When Expanded</string>
+
+    <!-- Settings About -->
+    <string name="version">Version</string>
+    <string name="rate_on_play_store">Rate on Play Store</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="open_source">Open Source</string>
+    <string name="source_code">Source Code</string>
+    <string name="report_translation_issue">Report Translation Issue</string>
+
+    <!-- Settings Data -->
+    <string name="reset_all_trivits">Reset All Trivits</string>
+
+    <!-- Color Scheme Names -->
+    <string name="vibrant">Vibrant</string>
+    <string name="pastel">Pastel</string>
+    <string name="monochrome">Monochrome</string>
+    <string name="ocean">Ocean</string>
+    <string name="sunset">Sunset</string>
+    <string name="forest">Forest</string>
+    <string name="candy">Candy</string>
+    <string name="earth">Earth</string>
+
+    <!-- Deleted Items -->
+    <string name="deleted_items">Deleted Items</string>
+    <string name="recently_deleted">Recently Deleted</string>
+    <string name="no_deleted_items">No Deleted Items</string>
+    <string name="deleted_items_hint">Items you delete will appear here for 30 days</string>
+    <string name="deleted_items_instructions">Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently.</string>
+    <string name="empty_trash">Empty Trash</string>
+    <string name="restore">Restore</string>
+
+    <!-- Undo Toast -->
+    <string name="deleted_format">Deleted \"%1$s\"</string>
+    <string name="undo">Undo</string>
+
+    <!-- Tutorial -->
+    <string name="welcome_to_trivit">Welcome to Trivit</string>
+    <string name="tutorial_add">Tap + to add a new counter</string>
+    <string name="tutorial_reorder">Long press and drag to reorder</string>
+    <string name="tutorial_options">Long press a counter for more options</string>
+    <string name="got_it">Got it</string>
+
+    <!-- Context Menu -->
+    <string name="statistics">Statistics</string>
+    <string name="history">History</string>
+
+    <!-- Example Trivit Names - Healthy habits -->
+    <string name="example_glasses_of_water">Glasses of water</string>
+    <string name="example_fruits_eaten">Fruits eaten today</string>
+    <string name="example_vegetables">Vegetables conquered</string>
+    <string name="example_hours_sleep">Hours of sleep</string>
+    <string name="example_steps_walked">Steps walked</string>
+    <string name="example_pushups">Push-ups done</string>
+    <string name="example_minutes_exercised">Minutes exercised</string>
+    <string name="example_healthy_snacks">Healthy snacks</string>
+    <string name="example_deep_breaths">Deep breaths taken</string>
+
+    <!-- Example Trivit Names - Fun & silly -->
+    <string name="example_said_wow">Times I said \'wow\'</string>
+    <string name="example_cookies">Cookies in my tummy</string>
+    <string name="example_silly_dances">Silly dances performed</string>
+    <string name="example_dad_jokes">Dad jokes survived</string>
+    <string name="example_pillows">Pillows fluffed</string>
+    <string name="example_socks">Socks matched</string>
+    <string name="example_clouds">Clouds that look like animals</string>
+    <string name="example_dog_tail">Times the dog wagged its tail</string>
+    <string name="example_sneezes">Sneezes today</string>
+    <string name="example_yawns">Yawns caught from others</string>
+    <string name="example_high_fives">High fives given</string>
+    <string name="example_bubbles">Bubbles blown</string>
+    <string name="example_puddles">Puddles jumped in</string>
+    <string name="example_funny_faces">Funny faces made</string>
+    <string name="example_shower_songs">Songs sung in shower</string>
+    <string name="example_forgot_room">Times I forgot why I walked into a room</string>
+    <string name="example_dinosaur">Dinosaur facts learned</string>
+    <string name="example_cards">Cards stacked before falling</string>
+    <string name="example_grapes">Grapes caught in mouth</string>
+    <string name="example_paper_airplanes">Paper airplanes launched</string>
+
+    <!-- Example Trivit Names - Productivity -->
+    <string name="example_books_read">Books read</string>
+    <string name="example_pages">Pages finished</string>
+    <string name="example_tasks">Tasks completed</string>
+    <string name="example_ideas">Ideas had</string>
+    <string name="example_problems">Problems solved</string>
+    <string name="example_focus">Minutes of focus</string>
+    <string name="example_emails">Emails conquered</string>
+    <string name="example_meetings">Meetings survived</string>
+
+    <!-- Example Trivit Names - Kindness & gratitude -->
+    <string name="example_hugs">Hugs given</string>
+    <string name="example_thank_yous">Thank yous said</string>
+    <string name="example_smiles">Smiles shared</string>
+    <string name="example_compliments">Compliments given</string>
+    <string name="example_kindness">Acts of kindness</string>
+    <string name="example_friends">Friends helped</string>
+    <string name="example_doors">Doors held open</string>
+
+    <!-- Example Trivit Names - Learning -->
+    <string name="example_new_words">New words learned</string>
+    <string name="example_questions">Questions asked</string>
+    <string name="example_facts">Facts discovered</string>
+    <string name="example_languages">Languages practiced</string>
+    <string name="example_puzzles">Puzzles solved</string>
+</resources>
