@@ -177,32 +177,61 @@ struct TrivitRowView: View {
                 Spacer()
             }
 
-            // Tally marks (or empty space if count is 0)
-            HStack {
-                if trivit.count > 0 {
-                    TallyMarksView(count: trivit.count, useChinese: trivit.title.hasPrefix("_"))
+            // Tally marks with minus button
+            ZStack(alignment: .bottomTrailing) {
+                // Tally marks - tappable to increment
+                HStack {
+                    if trivit.count > 0 {
+                        TallyMarksView(count: trivit.count, useChinese: trivit.title.hasPrefix("_"))
+                    }
+                    Spacer()
                 }
-                Spacer()
+                .padding(.horizontal, 16)
+                .padding(.vertical, 10)
+                .frame(minHeight: 36)
+                .contentShape(Rectangle())
+                .onTapGesture {
+                    trivit.increment(in: modelContext)
+                    HapticsService.shared.impact(.light)
+                    WatchSyncService.shared.syncTrivitToWatch(trivit)
+
+                    // Track increment
+                    AnalyticsService.shared.trackIncrement(
+                        trivitId: trivit.id.uuidString,
+                        title: trivit.title,
+                        newCount: trivit.count,
+                        source: .phone
+                    )
+                }
+
+                // Minus button
+                if trivit.count > 0 {
+                    Button {
+                        trivit.decrement(in: modelContext)
+                        HapticsService.shared.impact(.light)
+                        WatchSyncService.shared.syncTrivitToWatch(trivit)
+
+                        // Track decrement
+                        AnalyticsService.shared.trackDecrement(
+                            trivitId: trivit.id.uuidString,
+                            title: trivit.title,
+                            newCount: trivit.count,
+                            source: .phone
+                        )
+                    } label: {
+                        Image(systemName: "minus")
+                            .font(.system(size: 14, weight: .bold))
+                            .foregroundColor(.white.opacity(0.9))
+                            .frame(width: 36, height: 36)
+                            .background(backgroundColor.opacity(0.6))
+                            .clipShape(Circle())
+                    }
+                    .padding(.trailing, 12)
+                    .padding(.bottom, 6)
+                }
             }
-            .padding(.horizontal, 16)
-            .padding(.vertical, 10)
-            .frame(minHeight: 36)
         }
         .background(tallyBackgroundColor)
-        .contentShape(Rectangle())
-        .onTapGesture {
-            trivit.increment(in: modelContext)
-            HapticsService.shared.impact(.light)
-            WatchSyncService.shared.syncTrivitToWatch(trivit)
-
-            // Track increment
-            AnalyticsService.shared.trackIncrement(
-                trivitId: trivit.id.uuidString,
-                title: trivit.title,
-                newCount: trivit.count,
-                source: .phone
-            )
-        }
     }
 
     // MARK: - Swipe Gesture
