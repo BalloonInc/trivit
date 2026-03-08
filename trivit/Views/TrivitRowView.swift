@@ -13,7 +13,6 @@ struct TrivitRowView: View {
     @Environment(\.modelContext) private var modelContext
     @AppStorage("hideCounterWhenExpanded") private var hideCounterWhenExpanded = true
     @State private var isEditing = false
-    @State private var dragOffset: CGFloat = 0
     @State private var showingStatistics = false
     @State private var showingHistory = false
     @State private var hasHandledStartEditing = false
@@ -33,18 +32,8 @@ struct TrivitRowView: View {
         backgroundColor.opacity(0.55)
     }
 
-    private let deleteThreshold: CGFloat = -200
-
     var body: some View {
-        ZStack {
-            // Swipe background
-            swipeBackground
-
-            // Main content
-            mainContent
-                .offset(x: dragOffset)
-                .simultaneousGesture(swipeGesture)
-        }
+        mainContent
         .contentShape(Rectangle())
         .contextMenu { contextMenuItems }
         .sheet(isPresented: $showingStatistics) {
@@ -76,21 +65,6 @@ struct TrivitRowView: View {
                 }
             }
         }
-    }
-
-    // MARK: - Swipe Background
-
-    private var swipeBackground: some View {
-        HStack {
-            Spacer()
-            Image(systemName: "trash.fill")
-                .font(.system(size: 24, weight: .bold))
-                .foregroundColor(.white)
-                .opacity(dragOffset < deleteThreshold ? 1.0 : 0.4)
-                .padding(.trailing, 24)
-        }
-        .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(Color.red.opacity(dragOffset < deleteThreshold ? 1.0 : 0.7))
     }
 
     // MARK: - Main Content
@@ -224,28 +198,6 @@ struct TrivitRowView: View {
             }
         }
         .background(tallyBackgroundColor)
-    }
-
-    // MARK: - Swipe Gesture
-
-    private var swipeGesture: some Gesture {
-        DragGesture(minimumDistance: 20, coordinateSpace: .local)
-            .onChanged { value in
-                let horizontal = abs(value.translation.width)
-                let vertical = abs(value.translation.height)
-                if horizontal > vertical && value.translation.width < 0 {
-                    dragOffset = value.translation.width
-                }
-            }
-            .onEnded { _ in
-                if dragOffset < deleteThreshold {
-                    HapticsService.shared.notification(.warning)
-                    onDelete()
-                }
-                withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
-                    dragOffset = 0
-                }
-            }
     }
 
     // MARK: - Context Menu

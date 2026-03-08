@@ -81,7 +81,15 @@ struct TrivitListView: View {
     @State private var deletedTrivit: Trivit?
     @State private var showUndoToast = false
     @State private var editingTrivitId: UUID?
-    @AppStorage("hasSeenTutorial") private var hasSeenTutorial = false
+    @AppStorage("tutorialSeenForVersion") private var tutorialSeenForVersion = ""
+
+    private var hasSeenTutorial: Bool {
+        tutorialSeenForVersion == currentAppVersion
+    }
+
+    private var currentAppVersion: String {
+        Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? ""
+    }
 
     var body: some View {
         NavigationStack {
@@ -155,7 +163,7 @@ struct TrivitListView: View {
 
                 Button {
                     withAnimation {
-                        hasSeenTutorial = true
+                        tutorialSeenForVersion = currentAppVersion
                     }
                     HapticsService.shared.impact(.light)
                 } label: {
