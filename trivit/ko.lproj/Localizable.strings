@@ -92,6 +92,18 @@
 "Yes" = "예";
 "Your feedback (optional)" = "피드백 (선택사항)";
 
+/* Tutorial */
+"Welcome to Trivit" = "Trivit에 오신 것을 환영합니다";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "+ 눌러서 카운터 추가. 탭해서 숫자 올리기. 놀랍죠.";
+"That minus button? It does exactly what you think." = "마이너스 버튼? 생각하는 그대로입니다.";
+"Long press anything. Secrets await." = "아무거나 길게 누르세요. 비밀이 기다려요.";
+"Swipe left to banish a counter forever." = "왼쪽으로 스와이프하면 카운터가 영원히 사라져요.";
+"Yeah, I know how to use a counter app, thx" = "네, 카운터 앱 쓸 줄 알아요, 고마워요";
+"Tap + to add a new counter" = "+를 탭하여 새 카운터 추가";
+"Long press and drag to reorder" = "길게 누른 후 드래그하여 순서 변경";
+"Long press a counter for more options" = "카운터를 길게 눌러 더 많은 옵션 보기";
+"Got it" = "알겠습니다";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "물 마신 잔 수";
 "Fruits eaten today" = "오늘 먹은 과일";

@@ -92,6 +92,18 @@
 "Yes" = "是";
 "Your feedback (optional)" = "您的回饋（可選）";
 
+/* Tutorial */
+"Welcome to Trivit" = "歡迎使用 Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "點 + 新增計數器。點擊它增加數字。驚不驚喜。";
+"That minus button? It does exactly what you think." = "減號按鈕？功能和你想的一樣。";
+"Long press anything. Secrets await." = "長按任何東西。驚喜等著你。";
+"Swipe left to banish a counter forever." = "向左滑動永久刪除計數器。";
+"Yeah, I know how to use a counter app, thx" = "是的，我知道怎麼用計數器app，謝謝";
+"Tap + to add a new counter" = "點擊 + 新增計數器";
+"Long press and drag to reorder" = "長按拖動可重新排序";
+"Long press a counter for more options" = "長按計數器查看更多選項";
+"Got it" = "知道了";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "喝了幾杯水";
 "Fruits eaten today" = "今天吃的水果";

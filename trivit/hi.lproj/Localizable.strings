@@ -92,6 +92,18 @@
 "Yes" = "हां";
 "Your feedback (optional)" = "आपकी प्रतिक्रिया (वैकल्पिक)";
 
+/* Tutorial */
+"Welcome to Trivit" = "Trivit में आपका स्वागत है";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "काउंटर जोड़ने के लिए + टैप करें। नंबर बढ़ाने के लिए टैप करें। दिमाग हिल गया?";
+"That minus button? It does exactly what you think." = "वो माइनस बटन? बिल्कुल वही करता है जो आप सोच रहे हैं।";
+"Long press anything. Secrets await." = "किसी भी चीज़ पर लॉन्ग प्रेस करें। रहस्य इंतज़ार कर रहे हैं।";
+"Swipe left to banish a counter forever." = "हमेशा के लिए हटाने के लिए बाईं ओर स्वाइप करें।";
+"Yeah, I know how to use a counter app, thx" = "हाँ, मुझे पता है काउंटर ऐप कैसे इस्तेमाल करते हैं, शुक्रिया";
+"Tap + to add a new counter" = "नया काउंटर जोड़ने के लिए + टैप करें";
+"Long press and drag to reorder" = "क्रम बदलने के लिए लॉन्ग प्रेस करें और खींचें";
+"Long press a counter for more options" = "अधिक विकल्पों के लिए काउंटर पर लॉन्ग प्रेस करें";
+"Got it" = "समझ गया";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "पानी के गिलास";
 "Fruits eaten today" = "आज खाए गए फल";

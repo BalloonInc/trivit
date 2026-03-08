@@ -126,7 +126,7 @@ struct TrivitListView: View {
 
             // Tutorial content
             VStack(spacing: 32) {
-                Text("Welcome to Trivit")
+                Text(NSLocalizedString("Welcome to Trivit", comment: ""))
                     .font(.title)
                     .fontWeight(.bold)
                     .foregroundColor(.white)
@@ -134,17 +134,22 @@ struct TrivitListView: View {
                 VStack(alignment: .leading, spacing: 24) {
                     TutorialTipRow(
                         icon: "plus.circle.fill",
-                        text: "Tap + to add a new counter"
+                        text: NSLocalizedString("Tap + to add a counter. Tap it to make the number go up. Mind = blown.", comment: "")
                     )
 
                     TutorialTipRow(
-                        icon: "arrow.up.arrow.down",
-                        text: "Long press and drag to reorder"
+                        icon: "minus.circle.fill",
+                        text: NSLocalizedString("That minus button? It does exactly what you think.", comment: "")
                     )
 
                     TutorialTipRow(
-                        icon: "hand.tap.fill",
-                        text: "Long press a counter for more options"
+                        icon: "sparkles",
+                        text: NSLocalizedString("Long press anything. Secrets await.", comment: "")
+                    )
+
+                    TutorialTipRow(
+                        icon: "hand.point.left.fill",
+                        text: NSLocalizedString("Swipe left to banish a counter forever.", comment: "")
                     )
                 }
 
@@ -154,8 +159,8 @@ struct TrivitListView: View {
                     }
                     HapticsService.shared.impact(.light)
                 } label: {
-                    Text("Got it")
-                        .font(.headline)
+                    Text(NSLocalizedString("Yeah, I know how to use a counter app, thx", comment: ""))
+                        .font(.subheadline)
                         .foregroundColor(.white)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 14)

@@ -92,6 +92,18 @@
 "Yes" = "Ya";
 "Your feedback (optional)" = "Masukan Anda (opsional)";
 
+/* Tutorial */
+"Welcome to Trivit" = "Selamat Datang di Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Ketuk + untuk menambah penghitung. Ketuk untuk menambah angka. Luar biasa.";
+"That minus button? It does exactly what you think." = "Tombol minus? Fungsinya persis seperti yang kamu pikirkan.";
+"Long press anything. Secrets await." = "Tekan lama di mana saja. Kejutan menanti.";
+"Swipe left to banish a counter forever." = "Geser ke kiri untuk menghapus penghitung selamanya.";
+"Yeah, I know how to use a counter app, thx" = "Ya, aku tahu cara pakai aplikasi penghitung, makasih";
+"Tap + to add a new counter" = "Ketuk + untuk menambah penghitung baru";
+"Long press and drag to reorder" = "Tekan lama dan seret untuk mengatur ulang";
+"Long press a counter for more options" = "Tekan lama penghitung untuk opsi lainnya";
+"Got it" = "Mengerti";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Gelas air minum";
 "Fruits eaten today" = "Buah dimakan hari ini";

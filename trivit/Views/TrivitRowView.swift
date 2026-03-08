@@ -33,7 +33,6 @@ struct TrivitRowView: View {
         backgroundColor.opacity(0.55)
     }
 
-    private let decrementThreshold: CGFloat = -60
     private let deleteThreshold: CGFloat = -200
 
     var body: some View {
@@ -84,21 +83,14 @@ struct TrivitRowView: View {
     private var swipeBackground: some View {
         HStack {
             Spacer()
-            if dragOffset < deleteThreshold {
-                Image(systemName: "trash.fill")
-                    .font(.system(size: 24, weight: .bold))
-                    .foregroundColor(.white)
-                    .padding(.trailing, 24)
-            } else {
-                Image(systemName: "minus")
-                    .font(.system(size: 24, weight: .bold))
-                    .foregroundColor(.white)
-                    .opacity(dragOffset < decrementThreshold ? 1.0 : 0.4)
-                    .padding(.trailing, 24)
-            }
+            Image(systemName: "trash.fill")
+                .font(.system(size: 24, weight: .bold))
+                .foregroundColor(.white)
+                .opacity(dragOffset < deleteThreshold ? 1.0 : 0.4)
+                .padding(.trailing, 24)
         }
         .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(dragOffset < deleteThreshold ? Color.red : backgroundColor.opacity(0.7))
+        .background(Color.red.opacity(dragOffset < deleteThreshold ? 1.0 : 0.7))
     }
 
     // MARK: - Main Content
@@ -247,22 +239,8 @@ struct TrivitRowView: View {
             }
             .onEnded { _ in
                 if dragOffset < deleteThreshold {
-                    // Delete
                     HapticsService.shared.notification(.warning)
                     onDelete()
-                } else if dragOffset < decrementThreshold && trivit.count > 0 {
-                    // Decrement
-                    trivit.decrement(in: modelContext)
-                    HapticsService.shared.impact(.light)
-                    WatchSyncService.shared.syncTrivitToWatch(trivit)
-
-                    // Track decrement
-                    AnalyticsService.shared.trackDecrement(
-                        trivitId: trivit.id.uuidString,
-                        title: trivit.title,
-                        newCount: trivit.count,
-                        source: .phone
-                    )
                 }
                 withAnimation(.spring(response: 0.3, dampingFraction: 0.7)) {
                     dragOffset = 0

@@ -92,6 +92,18 @@
 "Yes" = "Evet";
 "Your feedback (optional)" = "Geri bildiriminiz (isteğe bağlı)";
 
+/* Tutorial */
+"Welcome to Trivit" = "Trivit'e Hoş Geldiniz";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Sayaç eklemek için +'ya dokun. Sayıyı artırmak için dokun. Çığır açan.";
+"That minus button? It does exactly what you think." = "Eksi düğmesi? Tam da düşündüğün şeyi yapıyor.";
+"Long press anything. Secrets await." = "Herhangi bir şeye uzun bas. Sürprizler bekliyor.";
+"Swipe left to banish a counter forever." = "Bir sayacı sonsuza kadar silmek için sola kaydır.";
+"Yeah, I know how to use a counter app, thx" = "Evet, sayaç uygulaması kullanmayı biliyorum, sağ ol";
+"Tap + to add a new counter" = "Yeni sayaç eklemek için +'ya dokun";
+"Long press and drag to reorder" = "Sıralamak için uzun bas ve sürükle";
+"Long press a counter for more options" = "Daha fazla seçenek için sayaca uzun bas";
+"Got it" = "Anladım";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Bardak su";
 "Fruits eaten today" = "Bugün yenen meyveler";

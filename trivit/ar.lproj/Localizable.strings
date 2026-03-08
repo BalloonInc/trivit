@@ -92,6 +92,18 @@
 "Yes" = "نعم";
 "Your feedback (optional)" = "ملاحظاتك (اختياري)";
 
+/* Tutorial */
+"Welcome to Trivit" = "مرحباً بك في Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "اضغط + لإضافة عداد. اضغط عليه لزيادة الرقم. عبقرية، نعلم.";
+"That minus button? It does exactly what you think." = "زر الناقص؟ يفعل بالضبط ما تتوقعه.";
+"Long press anything. Secrets await." = "اضغط مطولاً على أي شيء. مفاجآت بانتظارك.";
+"Swipe left to banish a counter forever." = "اسحب لليسار لحذف عداد للأبد.";
+"Yeah, I know how to use a counter app, thx" = "أجل، أعرف كيف أستخدم تطبيق عداد، شكراً";
+"Tap + to add a new counter" = "اضغط + لإضافة عداد جديد";
+"Long press and drag to reorder" = "اضغط مطولاً واسحب لإعادة الترتيب";
+"Long press a counter for more options" = "اضغط مطولاً على عداد لمزيد من الخيارات";
+"Got it" = "فهمت";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "أكواب الماء";
 "Fruits eaten today" = "فواكه أكلتها اليوم";

@@ -59,6 +59,11 @@
 
 /* Tutorial */
 "Welcome to Trivit" = "Welcome to Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Tap + to add a counter. Tap it to make the number go up. Mind = blown.";
+"That minus button? It does exactly what you think." = "That minus button? It does exactly what you think.";
+"Long press anything. Secrets await." = "Long press anything. Secrets await.";
+"Swipe left to banish a counter forever." = "Swipe left to banish a counter forever.";
+"Yeah, I know how to use a counter app, thx" = "Yeah, I know how to use a counter app, thx";
 "Tap + to add a new counter" = "Tap + to add a new counter";
 "Long press and drag to reorder" = "Long press and drag to reorder";
 "Long press a counter for more options" = "Long press a counter for more options";

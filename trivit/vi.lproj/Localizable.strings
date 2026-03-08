@@ -92,6 +92,18 @@
 "Yes" = "Có";
 "Your feedback (optional)" = "Phản hồi của bạn (tùy chọn)";
 
+/* Tutorial */
+"Welcome to Trivit" = "Chào mừng đến với Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Nhấn + để thêm bộ đếm. Nhấn để tăng số. Đỉnh cao công nghệ.";
+"That minus button? It does exactly what you think." = "Nút trừ? Nó làm đúng những gì bạn nghĩ.";
+"Long press anything. Secrets await." = "Nhấn giữ bất cứ thứ gì. Bất ngờ đang chờ.";
+"Swipe left to banish a counter forever." = "Vuốt sang trái để xóa bộ đếm mãi mãi.";
+"Yeah, I know how to use a counter app, thx" = "Ừ, tôi biết cách dùng app đếm rồi, cảm ơn";
+"Tap + to add a new counter" = "Nhấn + để thêm bộ đếm mới";
+"Long press and drag to reorder" = "Nhấn giữ và kéo để sắp xếp lại";
+"Long press a counter for more options" = "Nhấn giữ bộ đếm để xem thêm tùy chọn";
+"Got it" = "Đã hiểu";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Cốc nước đã uống";
 "Fruits eaten today" = "Trái cây ăn hôm nay";

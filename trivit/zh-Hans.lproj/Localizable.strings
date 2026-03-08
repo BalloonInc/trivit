@@ -110,6 +110,11 @@
 
 /* Tutorial */
 "Welcome to Trivit" = "欢迎使用 Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "点 + 添加计数器。点击它增加数字。震撼吧。";
+"That minus button? It does exactly what you think." = "减号按钮？功能和你想的一样。";
+"Long press anything. Secrets await." = "长按任何东西。惊喜等着你。";
+"Swipe left to banish a counter forever." = "向左滑动永久删除计数器。";
+"Yeah, I know how to use a counter app, thx" = "是的，我知道怎么用计数器app，谢谢";
 "Tap + to add a new counter" = "点击 + 添加新计数器";
 "Long press and drag to reorder" = "长按拖动可重新排序";
 "Long press a counter for more options" = "长按计数器查看更多选项";

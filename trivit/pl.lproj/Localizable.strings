@@ -92,6 +92,18 @@
 "Yes" = "Tak";
 "Your feedback (optional)" = "Twoja opinia (opcjonalnie)";
 
+/* Tutorial */
+"Welcome to Trivit" = "Witaj w Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Dotknij +, żeby dodać licznik. Dotknij go, żeby zwiększyć liczbę. Rewelacja.";
+"That minus button? It does exactly what you think." = "Przycisk minus? Robi dokładnie to, co myślisz.";
+"Long press anything. Secrets await." = "Przytrzymaj cokolwiek. Czekają niespodzianki.";
+"Swipe left to banish a counter forever." = "Przesuń w lewo, żeby usunąć licznik na zawsze.";
+"Yeah, I know how to use a counter app, thx" = "Tak, wiem jak używać aplikacji do liczenia, dzięki";
+"Tap + to add a new counter" = "Dotknij + aby dodać nowy licznik";
+"Long press and drag to reorder" = "Przytrzymaj i przeciągnij, aby zmienić kolejność";
+"Long press a counter for more options" = "Przytrzymaj licznik, aby zobaczyć więcej opcji";
+"Got it" = "Rozumiem";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Szklanki wody";
 "Fruits eaten today" = "Owoce zjedzone dziś";

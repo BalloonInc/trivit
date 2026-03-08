@@ -92,6 +92,18 @@
 "Yes" = "Да";
 "Your feedback (optional)" = "Ваш отзыв (необязательно)";
 
+/* Tutorial */
+"Welcome to Trivit" = "Добро пожаловать в Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Нажми + чтобы добавить счётчик. Нажми на него, чтобы увеличить число. Гениально.";
+"That minus button? It does exactly what you think." = "Кнопка минус? Делает именно то, что ты думаешь.";
+"Long press anything. Secrets await." = "Долгое нажатие на что угодно. Сюрпризы ждут.";
+"Swipe left to banish a counter forever." = "Свайп влево, чтобы удалить счётчик навсегда.";
+"Yeah, I know how to use a counter app, thx" = "Да, я знаю, как пользоваться приложением-счётчиком, спасибо";
+"Tap + to add a new counter" = "Нажмите + чтобы добавить новый счётчик";
+"Long press and drag to reorder" = "Долгое нажатие и перетаскивание для изменения порядка";
+"Long press a counter for more options" = "Долгое нажатие на счётчик для дополнительных опций";
+"Got it" = "Понятно";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Стаканов воды";
 "Fruits eaten today" = "Фруктов съедено сегодня";

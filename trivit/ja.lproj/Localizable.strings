@@ -110,6 +110,11 @@
 
 /* Tutorial */
 "Welcome to Trivit" = "Trivitへようこそ";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "＋をタップしてカウンターを追加。タップで数字が増えます。画期的でしょ。";
+"That minus button? It does exactly what you think." = "マイナスボタン？想像通りの機能です。";
+"Long press anything. Secrets await." = "何でも長押ししてみて。秘密が待ってるよ。";
+"Swipe left to banish a counter forever." = "左にスワイプでカウンターを永久追放。";
+"Yeah, I know how to use a counter app, thx" = "うん、カウンターアプリの使い方は知ってるよ、ありがと";
 "Tap + to add a new counter" = "+ をタップして新しいカウンターを追加";
 "Long press and drag to reorder" = "長押ししてドラッグで並べ替え";
 "Long press a counter for more options" = "長押しでオプションを表示";

@@ -92,6 +92,18 @@
 "Yes" = "ใช่";
 "Your feedback (optional)" = "ความคิดเห็นของคุณ (ไม่บังคับ)";
 
+/* Tutorial */
+"Welcome to Trivit" = "ยินดีต้อนรับสู่ Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "แตะ + เพื่อเพิ่มตัวนับ แตะเพื่อเพิ่มตัวเลข สุดยอดเลย";
+"That minus button? It does exactly what you think." = "ปุ่มลบ? ทำตามที่คุณคิดเป๊ะ";
+"Long press anything. Secrets await." = "กดค้างที่อะไรก็ได้ เซอร์ไพรส์รอคุณอยู่";
+"Swipe left to banish a counter forever." = "เลื่อนซ้ายเพื่อลบตัวนับตลอดกาล";
+"Yeah, I know how to use a counter app, thx" = "ใช่ ฉันรู้วิธีใช้แอปนับเลข ขอบคุณ";
+"Tap + to add a new counter" = "แตะ + เพื่อเพิ่มตัวนับใหม่";
+"Long press and drag to reorder" = "กดค้างแล้วลากเพื่อจัดเรียงใหม่";
+"Long press a counter for more options" = "กดค้างที่ตัวนับเพื่อดูตัวเลือกเพิ่มเติม";
+"Got it" = "เข้าใจแล้ว";
+
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "แก้วน้ำที่ดื่ม";
 "Fruits eaten today" = "ผลไม้ที่กินวันนี้";
