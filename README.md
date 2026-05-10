@@ -1,5 +1,11 @@
 # Trivit
 
+<p align="center">
+  <a href="https://apps.apple.com/app/trivit/id960459126"><img alt="App Store" src="https://img.shields.io/badge/App_Store-Download-007AFF?style=flat-square&logo=apple&logoColor=white" /></a>
+  <a href="https://ballooninc.be"><img alt="Website" src="https://img.shields.io/badge/Website-ballooninc.be-2E7D32?style=flat-square" /></a>
+  <a href="https://github.com/BalloonInc/trivit/issues"><img alt="Issues" src="https://img.shields.io/github/issues/BalloonInc/trivit?style=flat-square" /></a>
+</p>
+
 A tally counter for iOS and watchOS. Tap to count up, swipe to count down,
 swipe across to reset. Comes in 10 flat colors. No analytics, no accounts,
 no dependencies.
