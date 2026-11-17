@@ -129,7 +129,7 @@ struct TrivitListView: View {
     private var tutorialOverlay: some View {
         ZStack {
             // Semi-transparent dark background
-            Color.black.opacity(0.75)
+            Color.black.opacity(0.9)
                 .ignoresSafeArea()
 
             // Tutorial content
@@ -232,6 +232,7 @@ struct TrivitListView: View {
                 .multilineTextAlignment(.center)
         }
         .padding()
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
     }
 
     private var trivitList: some View {
