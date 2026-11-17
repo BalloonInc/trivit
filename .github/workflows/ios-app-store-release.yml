@@ -1,6 +1,8 @@
 name: App Store Release
 
-# Fully automated App Store release with AI-generated release notes
+# App Store release: uploads metadata for an existing build.
+# Defaults are conservative: no AI copy, the App Store description is never
+# overwritten, and nothing is submitted for review unless explicitly requested.
 # Uses shared workflow from ios-infra
 
 on:
@@ -20,20 +22,25 @@ on:
         type: boolean
         default: true
       generate_description:
-        description: 'AI-generate description'
+        description: 'AI-generate a description draft (only uploaded if upload_description is also set)'
         required: false
         type: boolean
-        default: true
+        default: false
+      upload_description:
+        description: 'Upload fastlane description.txt (OVERWRITES the App Store description)'
+        required: false
+        type: boolean
+        default: false
       generate_release_notes:
         description: 'Generate release notes with AI (from commits since last release)'
         required: false
         type: boolean
-        default: true
+        default: false
       submit_for_review:
         description: 'Submit to App Store review'
         required: false
         type: boolean
-        default: true
+        default: false
 
 permissions:
   actions: read
@@ -51,6 +58,7 @@ jobs:
       build_number: ${{ inputs.build_number }}
       generate_screenshots: ${{ inputs.generate_screenshots }}
       generate_description: ${{ inputs.generate_description }}
+      upload_description: ${{ inputs.upload_description }}
       generate_release_notes: ${{ inputs.generate_release_notes }}
       submit_for_review: ${{ inputs.submit_for_review }}
     secrets:
