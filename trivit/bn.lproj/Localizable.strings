@@ -41,56 +41,21 @@
 /* Settings - Data */
 "Reset All Trivits" = "সব কাউন্টার রিসেট করুন";
 
-/* Color Scheme Names */
-"Vibrant" = "প্রাণবন্ত";
-"Pastel" = "প্যাস্টেল";
-"Monochrome" = "একরঙা";
-"Ocean" = "সমুদ্র";
-"Sunset" = "সূর্যাস্ত";
-"Forest" = "বন";
-"Candy" = "ক্যান্ডি";
-"Earth" = "পৃথিবী";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "প্রসারিত হলে কাউন্টার লুকান";
 
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "আপনি কি সব কাউন্টার মুছতে চান?";
-"Are you sure you want to reset '%@'?" = "আপনি কি '%@' রিসেট করতে চান?";
-"Are you sure you want to reset all counts to 0?" = "আপনি কি সব গণনা 0 তে রিসেট করতে চান?";
-"Blue" = "নীল";
-"Cannot add" = "যোগ করা যাচ্ছে না";
-"Color - %@" = "রং - %@";
-"Days in prison" = "জেলে দিন";
-"Default" = "ডিফল্ট";
-"Delete all Trivits" = "সব কাউন্টার মুছুন";
-"Drinks" = "পানীয়";
-"Feedback" = "ফিডব্যাক";
-"Get started!" = "শুরু করুন!";
-"Give your Trivit a name" = "আপনার কাউন্টারের নাম দিন";
-"Got it." = "বুঝেছি।";
-"Green" = "সবুজ";
-"I am missing some things..." = "কিছু জিনিস মিসিং মনে হচ্ছে...";
-"I don't get it." = "বুঝতে পারছি না।";
-"I like what I see." = "আমার ভালো লাগছে।";
-"I've seen better, I've seen worse." = "ঠিকঠাক আছে।";
-"No" = "না";
-"Off" = "বন্ধ";
-"On" = "চালু";
-"Open or close your new Trivit with a single tap" = "একটি ট্যাপে কাউন্টার খুলুন বা বন্ধ করুন";
-"Please finish editing the title first." = "অনুগ্রহ করে আগে শিরোনাম সম্পাদনা শেষ করুন।";
-"Red" = "লাল";
-"Remove all" = "সব সরান";
-"Reset Trivit" = "কাউন্টার রিসেট";
-"Reset all" = "সব রিসেট";
-"Reset all Trivits" = "সব কাউন্টার রিসেট";
-"Tap an image to rate:" = "রেট করতে ছবিতে ট্যাপ করুন:";
-"Tap the minus to decrease the count, hold long to reset" = "গণনা কমাতে মাইনাসে ট্যাপ করুন, রিসেট করতে দীর্ঘক্ষণ চাপুন";
-"Tap the pen to add a new Trivit" = "নতুন কাউন্টার যোগ করতে পেনে ট্যাপ করুন";
-"Tap to increase the count" = "গণনা বাড়াতে ট্যাপ করুন";
-"This is the best app ever!" = "এটি সেরা অ্যাপ!";
-"Tutorial" = "টিউটোরিয়াল";
-"Vibration - %@" = "কম্পন - %@";
-"Went swimming this year" = "এই বছর সাঁতার";
-"Yes" = "হ্যাঁ";
-"Your feedback (optional)" = "আপনার মতামত (ঐচ্ছিক)";
+/* Deleted Items */
+"Deleted Items" = "মুছে ফেলা আইটেম";
+"Recently Deleted" = "সম্প্রতি মুছে ফেলা";
+"No Deleted Items" = "কোনো মুছে ফেলা আইটেম নেই";
+"Items you delete will appear here for 30 days" = "আপনি যা মুছবেন তা ৩০ দিনের জন্য এখানে দেখা যাবে";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "৩০ দিন পর আইটেম স্থায়ীভাবে মুছে যায়। ফিরিয়ে আনতে ডানে সোয়াইপ করুন, স্থায়ীভাবে মুছতে বাঁয়ে সোয়াইপ করুন।";
+"Empty Trash" = "ট্র্যাশ খালি করুন";
+"Restore" = "ফিরিয়ে আনুন";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" মুছে ফেলা হয়েছে";
+"Undo" = "পূর্বাবস্থায় ফেরান";
 
 /* Tutorial */
 "Welcome to Trivit" = "Trivit-এ স্বাগতম";
@@ -103,6 +68,53 @@
 "Long press and drag to reorder" = "পুনরায় সাজাতে লং প্রেস করে টানুন";
 "Long press a counter for more options" = "আরো অপশনের জন্য কাউন্টারে লং প্রেস করুন";
 "Got it" = "বুঝেছি";
+
+/* Context Menu */
+"Statistics" = "পরিসংখ্যান";
+"History" = "ইতিহাস";
+"Open Source" = "ওপেন সোর্স";
+"Source Code" = "সোর্স কোড";
+"Report Translation Issue" = "অনুবাদ সমস্যা রিপোর্ট করুন";
+"Support" = "সহায়তা";
+"Cancel" = "বাতিল";
+
+/* Watch Sync */
+"Watch Sync" = "ওয়াচ সিঙ্ক";
+"Watch Paired" = "ওয়াচ যুক্ত";
+"Watch Reachable" = "ওয়াচ সংযুক্ত";
+"Sync to Watch" = "ওয়াচে সিঙ্ক করুন";
+"Not reachable" = "সংযুক্ত নয়";
+
+/* Info Section */
+"Info" = "তথ্য";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "এখনো কোনো ইতিহাস নেই";
+"Tally events will appear here as you use the counter." = "কাউন্টার ব্যবহার করলে গণনার ইভেন্ট এখানে দেখা যাবে।";
+"Delete Events" = "ইভেন্ট মুছুন";
+"Today" = "আজ";
+"Yesterday" = "গতকাল";
+
+/* Statistics View */
+"Total" = "মোট";
+"Current Streak" = "বর্তমান ধারা";
+"Longest Streak" = "দীর্ঘতম ধারা";
+"Days Tracked" = "ট্র্যাক করা দিন";
+"Activity by Hour" = "ঘণ্টা অনুযায়ী কার্যকলাপ";
+"Activity by Day of Week" = "সপ্তাহের দিন অনুযায়ী কার্যকলাপ";
+"Monthly Trend" = "মাসিক প্রবণতা";
+"Last 30 Days" = "গত ৩০ দিন";
+
+/* Color Scheme Names */
+"Vibrant" = "প্রাণবন্ত";
+"Pastel" = "প্যাস্টেল";
+"Monochrome" = "একরঙা";
+"Ocean" = "সমুদ্র";
+"Sunset" = "সূর্যাস্ত";
+"Forest" = "বন";
+"Candy" = "ক্যান্ডি";
+"Earth" = "পৃথিবী";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "গ্লাস পানি";
@@ -162,3 +174,44 @@
 "Facts discovered" = "তথ্য আবিষ্কার";
 "Languages practiced" = "ভাষা অনুশীলন";
 "Puzzles solved" = "ধাঁধা সমাধান";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "আপনি কি সব কাউন্টার মুছতে চান?";
+"Are you sure you want to reset '%@'?" = "আপনি কি '%@' রিসেট করতে চান?";
+"Are you sure you want to reset all counts to 0?" = "আপনি কি সব গণনা 0 তে রিসেট করতে চান?";
+"Blue" = "নীল";
+"Cannot add" = "যোগ করা যাচ্ছে না";
+"Color - %@" = "রং - %@";
+"Days in prison" = "জেলে দিন";
+"Default" = "ডিফল্ট";
+"Delete all Trivits" = "সব কাউন্টার মুছুন";
+"Drinks" = "পানীয়";
+"Feedback" = "ফিডব্যাক";
+"Get started!" = "শুরু করুন!";
+"Give your Trivit a name" = "আপনার কাউন্টারের নাম দিন";
+"Got it." = "বুঝেছি।";
+"Green" = "সবুজ";
+"I am missing some things..." = "কিছু জিনিস মিসিং মনে হচ্ছে...";
+"I don't get it." = "বুঝতে পারছি না।";
+"I like what I see." = "আমার ভালো লাগছে।";
+"I've seen better, I've seen worse." = "ঠিকঠাক আছে।";
+"No" = "না";
+"Off" = "বন্ধ";
+"On" = "চালু";
+"Open or close your new Trivit with a single tap" = "একটি ট্যাপে কাউন্টার খুলুন বা বন্ধ করুন";
+"Please finish editing the title first." = "অনুগ্রহ করে আগে শিরোনাম সম্পাদনা শেষ করুন।";
+"Red" = "লাল";
+"Remove all" = "সব সরান";
+"Reset Trivit" = "কাউন্টার রিসেট";
+"Reset all" = "সব রিসেট";
+"Reset all Trivits" = "সব কাউন্টার রিসেট";
+"Tap an image to rate:" = "রেট করতে ছবিতে ট্যাপ করুন:";
+"Tap the minus to decrease the count, hold long to reset" = "গণনা কমাতে মাইনাসে ট্যাপ করুন, রিসেট করতে দীর্ঘক্ষণ চাপুন";
+"Tap the pen to add a new Trivit" = "নতুন কাউন্টার যোগ করতে পেনে ট্যাপ করুন";
+"Tap to increase the count" = "গণনা বাড়াতে ট্যাপ করুন";
+"This is the best app ever!" = "এটি সেরা অ্যাপ!";
+"Tutorial" = "টিউটোরিয়াল";
+"Vibration - %@" = "কম্পন - %@";
+"Went swimming this year" = "এই বছর সাঁতার";
+"Yes" = "হ্যাঁ";
+"Your feedback (optional)" = "আপনার মতামত (ঐচ্ছিক)";

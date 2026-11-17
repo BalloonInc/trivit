@@ -1,0 +1,36 @@
+Trivit je krásne jednoduchá aplikácia počítadla, ktorá vám pomáha sledovať čokoľvek vo vašom živote. Či už počítate návyky, tréningy, denné ciele alebo inventár, Trivit to robí jednoducho a príjemne.
+
+JEDNODUCHÉ A INTUITÍVNE
+Stačí ťuknúť a počítať. Žiadne zložité nastavenie, žiadna krivka učenia. Vytvorte nové počítadlo za pár sekúnd a okamžite začnite sledovať. Čisté rozhranie bez rušivých prvkov vás drží sústredených na to, čo je dôležité.
+
+APLIKÁCIA PRE APPLE WATCH
+Sledujte svoje počítadlá priamo z zápästia s úplne novou aplikáciou Apple Watch. Vaše počty sa okamžite synchronizujú medzi iPhone a Apple Watch, takže ste vždy aktuálni bez ohľadu na to, aké zariadenie používate.
+
+KRÁSNE FAREBNÉ TÉMY
+Vyberte si z 8 živých farebných tém na prispôsobenie svojich počítadiel. Každé počítadlo dostane svoju vlastnú charakteristickú farbu, čo uľahčuje identifikáciu na prvý pohľad. Farebný, plochý dizajn je krásny aj funkčný.
+
+POČÍTAJTE ČOKOĽVEK
+- Denné návyky a rutiny
+- Opakovania a série pri tréningu
+- Inventárne počítanie
+- Vedenie skóre pri hrách
+- Pozorovanie vtákov alebo divokej zveri
+- Vypité poháre vody
+- Kroky k cieľu
+- Čokoľvek iné, čo potrebujete počítať!
+
+SYNCHRONIZÁCIA NA VŠETKÝCH ZARIADENIACH
+Vaše počítadlá sa automaticky synchronizujú na všetkých zariadeniach pomocou iCloudu. Začnite počítať na iPhone a pokračujte na Apple Watch alebo naopak. Vaše dáta sú vždy s vami.
+
+SÚKROMIE NA PRVOM MIESTE
+Vaše dáta zostávajú na vašich zariadeniach a vo vašom osobnom účte iCloud. Nezhromažďujeme žiadne osobné informácie a neexistuje žiadna analytika ani sledovanie. Vaše počty sú vaša vec.
+
+BEZ REKLÁM, BEZ PREDPLATNÉHO
+Trivit je úplne zadarmo bez reklám, bez nákupov v aplikácii a bez predplatného. Jednoducho skvelá aplikácia, ktorá robí to, čo sľubuje.
+
+OTVORENÝ ZDROJOVÝ KÓD
+Trivit je open source! Môžete si prezrieť kód, navrhnúť vylepšenia alebo prispieť na GitHube na https://github.com/BalloonInc/trivit-ios
+
+Verzia 5.0 je kompletné prepísanie s využitím najnovšej technológie SwiftUI od Apple, ponúkajúce vylepšený výkon a prepracovaný používateľský zážitok pri zachovaní jednoduchosti, ktorá robí Trivit výnimočným.
+
+Stiahnite si Trivit ešte dnes a začnite počítať to, na čom vám záleží.

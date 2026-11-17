@@ -1,0 +1,36 @@
+Trivit je prekrasno jednostavna aplikacija za brojanje koja vam pomaže pratiti bilo što u životu. Bilo da brojite navike, treninge, dnevne ciljeve ili inventar, Trivit to čini lakim i ugodnim.
+
+JEDNOSTAVNO I INTUITIVNO
+Samo dodirnite za brojanje. Bez kompliciranog postavljanja, bez krivulje učenja. Stvorite novi brojač u sekundama i odmah počnite pratiti. Čisto sučelje bez ometanja drži vas fokusiranima na ono što je važno.
+
+APPLE WATCH APLIKACIJA
+Pratite svoje brojače izravno s ručnog zgloba s potpuno novom Apple Watch aplikacijom. Vaši brojevi se trenutno sinkroniziraju između iPhonea i Apple Watcha, tako da ste uvijek ažurni bez obzira koji uređaj koristite.
+
+PREKRASNE TEME U BOJI
+Birajte između 8 živopisnih tema u boji za personalizaciju svojih brojača. Svaki brojač dobiva svoju prepoznatljivu boju, što olakšava identifikaciju na prvi pogled. Šareni, ravni dizajn je i lijep i funkcionalan.
+
+BROJITE BILO ŠTO
+- Dnevne navike i rutine
+- Ponavljanja i serije vježbi
+- Inventurno brojanje
+- Vođenje rezultata u igrama
+- Promatranje ptica ili divljih životinja
+- Popijene čaše vode
+- Koraci prema cilju
+- Sve ostalo što trebate brojiti!
+
+SINKRONIZACIJA NA SVIM UREĐAJIMA
+Vaši brojači se automatski sinkroniziraju na svim uređajima putem iClouda. Počnite brojiti na iPhoneu i nastavite na Apple Watchu, ili obrnuto. Vaši podaci su uvijek s vama.
+
+PRIVATNOST NA PRVOM MJESTU
+Vaši podaci ostaju na vašim uređajima i na vašem osobnom iCloud računu. Ne prikupljamo nikakve osobne podatke, nema analitike ni praćenja. Vaši brojevi su vaša stvar.
+
+BEZ REKLAMA, BEZ PRETPLATA
+Trivit je potpuno besplatan bez reklama, bez kupnji unutar aplikacije i bez pretplata. Samo sjajna aplikacija koja radi ono što obećava.
+
+OTVORENI KOD
+Trivit je otvorenog koda! Možete pregledati kod, predložiti poboljšanja ili doprinijeti na GitHubu na https://github.com/BalloonInc/trivit-ios
+
+Verzija 5.0 je potpuno novi kod korištenjem Appleove najnovije SwiftUI tehnologije, pružajući poboljšane performanse i profinjeno korisničko iskustvo uz zadržavanje jednostavnosti koja Trivit čini sjajnim.
+
+Preuzmite Trivit danas i počnite brojiti ono što vam je važno.

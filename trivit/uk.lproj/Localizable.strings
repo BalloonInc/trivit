@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Налаштування";
+"Done" = "Готово";
+
+/* Empty State */
+"No Trivits Yet" = "Поки що немає лічильників";
+"Tap + to create your first tally counter" = "Натисніть + щоб створити перший лічильник";
+
+/* Trivit Actions */
+"New Trivit" = "Новий лічильник";
+"Rename" = "Перейменувати";
+"Change Color" = "Змінити колір";
+"Reset Count" = "Скинути рахунок";
+"Delete" = "Видалити";
+"Title" = "Назва";
+
+/* Settings - Sections */
+"General" = "Загальне";
+"Color Scheme" = "Кольорова схема";
+"Sync Info" = "Синхронізація";
+"About" = "Про додаток";
+"Data" = "Дані";
+
+/* Settings - General */
+"Haptic Feedback" = "Тактильний відгук";
+"Palette" = "Палітра";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Синхронізовано лічильників";
+"Last Sync" = "Остання синхронізація";
+"Device" = "Пристрій";
+
+/* Settings - About */
+"Version" = "Версія";
+"Rate on App Store" = "Оцінити в App Store";
+"Send Feedback" = "Надіслати відгук";
+
+/* Settings - Data */
+"Reset All Trivits" = "Скинути всі лічильники";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Приховати лічильник при розгортанні";
+
+/* Deleted Items */
+"Deleted Items" = "Видалені";
+"Recently Deleted" = "Нещодавно видалені";
+"No Deleted Items" = "Немає видалених";
+"Items you delete will appear here for 30 days" = "Видалені елементи зберігатимуться тут 30 днів";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Елементи остаточно видаляються через 30 днів. Свайп вправо — відновити, свайп вліво — видалити назавжди.";
+"Empty Trash" = "Очистити кошик";
+"Restore" = "Відновити";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Видалено \"%@\"";
+"Undo" = "Скасувати";
+
+/* Tutorial */
+"Welcome to Trivit" = "Ласкаво просимо до Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Натисни + щоб додати лічильник. Натисни на нього, щоб збільшити число. Геніально.";
+"That minus button? It does exactly what you think." = "Кнопка мінус? Робить саме те, що ти думаєш.";
+"Long press anything. Secrets await." = "Довге натискання на будь-що. Сюрпризи чекають.";
+"Swipe left to banish a counter forever." = "Свайп вліво, щоб видалити лічильник назавжди.";
+"Yeah, I know how to use a counter app, thx" = "Так, я знаю, як користуватися лічильником, дякую";
+"Tap + to add a new counter" = "Натисніть + щоб додати новий лічильник";
+"Long press and drag to reorder" = "Довге натискання і перетягування для зміни порядку";
+"Long press a counter for more options" = "Довге натискання на лічильник для додаткових опцій";
+"Got it" = "Зрозуміло";
+
+/* Context Menu */
+"Statistics" = "Статистика";
+"History" = "Історія";
+"Open Source" = "Відкритий код";
+"Source Code" = "Вихідний код";
+"Report Translation Issue" = "Повідомити про помилку перекладу";
+"Support" = "Підтримка";
+"Cancel" = "Скасувати";
+
+/* Watch Sync */
+"Watch Sync" = "Синхронізація з годинником";
+"Watch Paired" = "Годинник підключено";
+"Watch Reachable" = "Годинник доступний";
+"Sync to Watch" = "Синхронізувати з годинником";
+"Not reachable" = "Недоступний";
+
+/* Info Section */
+"Info" = "Інформація";
+"Trivits" = "Лічильники";
+
+/* History View */
+"No History Yet" = "Поки що немає історії";
+"Tally events will appear here as you use the counter." = "Тут зʼявлятимуться події в міру використання лічильника.";
+"Delete Events" = "Видалити події";
+"Today" = "Сьогодні";
+"Yesterday" = "Вчора";
+
+/* Statistics View */
+"Total" = "Усього";
+"Current Streak" = "Поточна серія";
+"Longest Streak" = "Найдовша серія";
+"Days Tracked" = "Днів відстежено";
+"Activity by Hour" = "Активність за годинами";
+"Activity by Day of Week" = "Активність за днями тижня";
+"Monthly Trend" = "Місячний тренд";
+"Last 30 Days" = "Останні 30 днів";
+
+/* Color Scheme Names */
+"Vibrant" = "Яскраві";
+"Pastel" = "Пастельні";
+"Monochrome" = "Монохром";
+"Ocean" = "Океан";
+"Sunset" = "Захід сонця";
+"Forest" = "Ліс";
+"Candy" = "Цукерки";
+"Earth" = "Земля";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Склянок води";
+"Fruits eaten today" = "Фруктів з'їдено сьогодні";
+"Vegetables conquered" = "Овочів підкорено";
+"Hours of sleep" = "Годин сну";
+"Steps walked" = "Кроків пройдено";
+"Push-ups done" = "Віджимань зроблено";
+"Minutes exercised" = "Хвилин зарядки";
+"Healthy snacks" = "Корисних перекусів";
+"Deep breaths taken" = "Глибоких вдихів";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Разів сказав «вау»";
+"Cookies in my tummy" = "Печива в животі";
+"Silly dances performed" = "Кумедних танців станцьовано";
+"Dad jokes survived" = "Татових жартів пережито";
+"Pillows fluffed" = "Подушок збито";
+"Socks matched" = "Шкарпеток знайдено в пару";
+"Clouds that look like animals" = "Хмар, схожих на тварин";
+"Times the dog wagged its tail" = "Разів собака виляв хвостом";
+"Sneezes today" = "Чхань сьогодні";
+"Yawns caught from others" = "Позіхань підхоплено від інших";
+"High fives given" = "Дай п'ять!";
+"Bubbles blown" = "Бульбашок надуто";
+"Puddles jumped in" = "Калюж перестрибнуто";
+"Funny faces made" = "Кумедних пик скорчено";
+"Songs sung in shower" = "Пісень заспівано у душі";
+"Times I forgot why I walked into a room" = "Разів забув, навіщо зайшов у кімнату";
+"Dinosaur facts learned" = "Фактів про динозаврів дізнано";
+"Cards stacked before falling" = "Карт складено до падіння";
+"Grapes caught in mouth" = "Виноградин спіймано ротом";
+"Paper airplanes launched" = "Паперових літачків запущено";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Книжок прочитано";
+"Pages finished" = "Сторінок прочитано";
+"Tasks completed" = "Завдань виконано";
+"Ideas had" = "Ідей народилося";
+"Problems solved" = "Проблем вирішено";
+"Minutes of focus" = "Хвилин концентрації";
+"Emails conquered" = "Листів підкорено";
+"Meetings survived" = "Нарад пережито";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Обіймів подаровано";
+"Thank yous said" = "Дякую сказано";
+"Smiles shared" = "Усмішок подаровано";
+"Compliments given" = "Компліментів сказано";
+"Acts of kindness" = "Добрих справ";
+"Friends helped" = "Друзям допомог";
+"Doors held open" = "Дверей притримано";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Нових слів вивчено";
+"Questions asked" = "Питань поставлено";
+"Facts discovered" = "Фактів відкрито";
+"Languages practiced" = "Мов практиковано";
+"Puzzles solved" = "Головоломок розв'язано";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Ви впевнені, що хочете видалити всі лічильники?";
+"Are you sure you want to reset '%@'?" = "Ви впевнені, що хочете скинути '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Ви впевнені, що хочете скинути всі лічильники до 0?";
+"Blue" = "Синій";
+"Cannot add" = "Неможливо додати";
+"Color - %@" = "Колір - %@";
+"Days in prison" = "Днів у в'язниці";
+"Default" = "За замовчуванням";
+"Delete all Trivits" = "Видалити всі лічильники";
+"Drinks" = "Напої";
+"Feedback" = "Відгук";
+"Get started!" = "Почати!";
+"Give your Trivit a name" = "Дайте назву лічильнику";
+"Got it." = "Зрозумів.";
+"Green" = "Зелений";
+"I am missing some things..." = "Мені бракує деяких речей...";
+"I don't get it." = "Не розумію.";
+"I like what I see." = "Мені подобається.";
+"I've seen better, I've seen worse." = "Бачив і краще, і гірше.";
+"No" = "Ні";
+"Off" = "Вимк";
+"On" = "Увімк";
+"Open or close your new Trivit with a single tap" = "Відкрийте або закрийте лічильник одним дотиком";
+"Please finish editing the title first." = "Спочатку завершіть редагування назви.";
+"Red" = "Червоний";
+"Remove all" = "Видалити все";
+"Reset Trivit" = "Скинути лічильник";
+"Reset all" = "Скинути все";
+"Reset all Trivits" = "Скинути всі лічильники";
+"Tap an image to rate:" = "Натисніть на зображення для оцінки:";
+"Tap the minus to decrease the count, hold long to reset" = "Натисніть мінус для зменшення, утримуйте для скидання";
+"Tap the pen to add a new Trivit" = "Натисніть на перо для додавання лічильника";
+"Tap to increase the count" = "Натисніть для збільшення";
+"This is the best app ever!" = "Це найкращий додаток!";
+"Tutorial" = "Навчання";
+"Vibration - %@" = "Вібрація - %@";
+"Went swimming this year" = "Плавання цього року";
+"Yes" = "Так";
+"Your feedback (optional)" = "Ваш відгук (необов'язково)";

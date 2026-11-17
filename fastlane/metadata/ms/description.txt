@@ -1,0 +1,36 @@
+Trivit ialah aplikasi pembilang tali yang cantik dan ringkas yang membantu anda menjejak apa sahaja dalam hidup anda. Sama ada anda mengira tabiat, senaman, matlamat harian atau inventori, Trivit menjadikannya mudah dan menyeronokkan.
+
+RINGKAS DAN INTUITIF
+Hanya ketik untuk mengira. Tiada persediaan rumit, tiada keluk pembelajaran. Cipta pembilang baharu dalam beberapa saat dan mula menjejak dengan segera. Antara muka yang bersih dan bebas gangguan memastikan anda fokus pada perkara penting.
+
+APLIKASI APPLE WATCH
+Jejak pembilang anda terus dari pergelangan tangan dengan aplikasi Apple Watch baharu. Kiraan anda disegerakkan serta-merta antara iPhone dan Apple Watch, jadi anda sentiasa terkini tidak kira peranti mana yang anda guna.
+
+TEMA WARNA YANG CANTIK
+Pilih daripada 8 tema warna yang meriah untuk memperibadikan pembilang anda. Setiap pembilang mendapat warna tersendiri, memudahkan pengenalpastian secara sekilas. Reka bentuk berwarna-warni dan rata ini cantik serta berfungsi.
+
+JEJAK APA SAHAJA
+- Tabiat dan rutin harian
+- Ulangan dan set senaman
+- Kiraan inventori
+- Pencatatan skor permainan
+- Pemerhatian burung atau hidupan liar
+- Gelas air yang diminum
+- Langkah ke arah matlamat
+- Apa sahaja yang perlu anda kira!
+
+SEGERAK MERENTAS SEMUA PERANTI
+Pembilang anda disegerakkan secara automatik merentas semua peranti menggunakan iCloud. Mula mengira di iPhone dan teruskan di Apple Watch, atau sebaliknya. Data anda sentiasa bersama anda.
+
+PRIVASI DIUTAMAKAN
+Data anda kekal di peranti anda dan akaun iCloud peribadi anda. Kami tidak mengumpul sebarang maklumat peribadi, dan tiada analitik atau penjejakan. Kiraan anda adalah urusan anda.
+
+TIADA IKLAN, TIADA LANGGANAN
+Trivit percuma sepenuhnya tanpa iklan, tanpa pembelian dalam aplikasi, dan tanpa langganan. Hanya aplikasi hebat yang melakukan apa yang dijanjikan.
+
+SUMBER TERBUKA
+Trivit adalah sumber terbuka! Anda boleh melihat kod, mencadangkan penambahbaikan, atau menyumbang di GitHub di https://github.com/BalloonInc/trivit-ios
+
+Versi 5.0 adalah penulisan semula lengkap menggunakan teknologi SwiftUI terbaharu Apple, memberikan prestasi yang lebih baik dan pengalaman pengguna yang halus sambil mengekalkan kesederhanaan yang menjadikan Trivit hebat.
+
+Muat turun Trivit hari ini dan mula mengira apa yang penting untuk anda.

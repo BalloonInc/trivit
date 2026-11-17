@@ -1,0 +1,36 @@
+Trivit adalah aplikasi penghitung tali yang indah dan sederhana yang membantu Anda melacak apa pun dalam hidup Anda. Baik Anda menghitung kebiasaan, olahraga, target harian, atau inventaris, Trivit membuatnya mudah dan menyenangkan.
+
+SEDERHANA DAN INTUITIF
+Cukup ketuk untuk menghitung. Tanpa pengaturan rumit, tanpa kurva pembelajaran. Buat penghitung baru dalam hitungan detik dan mulai melacak segera. Antarmuka yang bersih dan bebas gangguan membuat Anda tetap fokus pada yang penting.
+
+APLIKASI APPLE WATCH
+Lacak hitungan Anda langsung dari pergelangan tangan dengan aplikasi Apple Watch yang baru. Hitungan Anda langsung tersinkron antara iPhone dan Apple Watch, sehingga Anda selalu terbaru di perangkat mana pun.
+
+TEMA WARNA YANG INDAH
+Pilih dari 8 tema warna cerah untuk mempersonalisasi penghitung Anda. Setiap penghitung mendapat warna khasnya sendiri, memudahkan identifikasi sekilas. Desain berwarna dan datar yang indah sekaligus fungsional.
+
+HITUNG APA SAJA
+- Kebiasaan dan rutinitas harian
+- Repetisi dan set olahraga
+- Penghitungan inventaris
+- Pencatatan skor permainan
+- Pengamatan burung atau satwa liar
+- Gelas air yang diminum
+- Langkah menuju tujuan
+- Apa pun yang perlu Anda hitung!
+
+SINKRONISASI DI SEMUA PERANGKAT
+Penghitung Anda otomatis tersinkron di semua perangkat menggunakan iCloud. Mulai menghitung di iPhone dan lanjutkan di Apple Watch, atau sebaliknya. Data Anda selalu bersama Anda.
+
+PRIVASI UTAMA
+Data Anda tetap di perangkat Anda dan akun iCloud pribadi Anda. Kami tidak mengumpulkan informasi pribadi, dan tidak ada analitik atau pelacakan. Hitungan Anda adalah urusan Anda.
+
+TANPA IKLAN, TANPA LANGGANAN
+Trivit sepenuhnya gratis tanpa iklan, tanpa pembelian dalam aplikasi, dan tanpa langganan. Hanya aplikasi hebat yang melakukan apa yang dijanjikan.
+
+SUMBER TERBUKA
+Trivit adalah sumber terbuka! Anda dapat melihat kode, menyarankan perbaikan, atau berkontribusi di GitHub di https://github.com/BalloonInc/trivit-ios
+
+Versi 5.0 adalah penulisan ulang lengkap menggunakan teknologi SwiftUI terbaru Apple, memberikan performa yang lebih baik dan pengalaman pengguna yang halus sambil mempertahankan kesederhanaan yang membuat Trivit hebat.
+
+Unduh Trivit hari ini dan mulai menghitung apa yang penting bagi Anda.

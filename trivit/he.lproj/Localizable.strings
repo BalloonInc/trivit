@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "הגדרות";
+"Done" = "סיום";
+
+/* Empty State */
+"No Trivits Yet" = "אין עדיין Trivits";
+"Tap + to create your first tally counter" = "הקש + כדי ליצור את המונה הראשון שלך";
+
+/* Trivit Actions */
+"New Trivit" = "Trivit חדש";
+"Rename" = "שנה שם";
+"Change Color" = "שנה צבע";
+"Reset Count" = "אפס ספירה";
+"Delete" = "מחק";
+"Title" = "כותרת";
+
+/* Settings - Sections */
+"General" = "כללי";
+"Color Scheme" = "ערכת צבעים";
+"Sync Info" = "מידע סנכרון";
+"About" = "אודות";
+"Data" = "נתונים";
+
+/* Settings - General */
+"Haptic Feedback" = "משוב הפטי";
+"Palette" = "פלטה";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Trivits מסונכרנים";
+"Last Sync" = "סנכרון אחרון";
+"Device" = "מכשיר";
+
+/* Settings - About */
+"Version" = "גרסה";
+"Rate on App Store" = "דרג ב-App Store";
+"Send Feedback" = "שלח משוב";
+
+/* Settings - Data */
+"Reset All Trivits" = "אפס את כל ה-Trivits";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "הסתר מונה כשמורחב";
+
+/* Deleted Items */
+"Deleted Items" = "פריטים שנמחקו";
+"Recently Deleted" = "נמחקו לאחרונה";
+"No Deleted Items" = "אין פריטים שנמחקו";
+"Items you delete will appear here for 30 days" = "פריטים שתמחק יופיעו כאן למשך 30 יום";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "פריטים נמחקים לצמיתות אחרי 30 יום. החלק ימינה לשחזור, שמאלה למחיקה לצמיתות.";
+"Empty Trash" = "רוקן פח";
+"Restore" = "שחזר";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" נמחק";
+"Undo" = "בטל";
+
+/* Tutorial */
+"Welcome to Trivit" = "ברוכים הבאים ל-Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "הקש + כדי להוסיף מונה. הקש עליו כדי שהמספר יעלה. מוח = מפוצץ.";
+"That minus button? It does exactly what you think." = "כפתור המינוס? הוא עושה בדיוק מה שאתה חושב.";
+"Long press anything. Secrets await." = "לחיצה ארוכה על כל דבר. סודות מחכים.";
+"Swipe left to banish a counter forever." = "החלק שמאלה כדי לגרש מונה לנצח.";
+"Yeah, I know how to use a counter app, thx" = "כן, אני יודע איך להשתמש באפליקציית מונה, תודה";
+"Tap + to add a new counter" = "הקש + כדי להוסיף מונה חדש";
+"Long press and drag to reorder" = "לחיצה ארוכה וגרירה לשינוי סדר";
+"Long press a counter for more options" = "לחיצה ארוכה על מונה לאפשרויות נוספות";
+"Got it" = "הבנתי";
+
+/* Context Menu */
+"Statistics" = "סטטיסטיקה";
+"History" = "היסטוריה";
+"Open Source" = "קוד פתוח";
+"Source Code" = "קוד מקור";
+"Report Translation Issue" = "דווח על בעיית תרגום";
+"Support" = "תמיכה";
+"Cancel" = "ביטול";
+
+/* Watch Sync */
+"Watch Sync" = "סנכרון Watch";
+"Watch Paired" = "Watch מזווג";
+"Watch Reachable" = "Watch נגיש";
+"Sync to Watch" = "סנכרן ל-Watch";
+"Not reachable" = "לא נגיש";
+
+/* Info Section */
+"Info" = "מידע";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "אין עדיין היסטוריה";
+"Tally events will appear here as you use the counter." = "אירועי ספירה יופיעו כאן תוך כדי שימוש במונה.";
+"Delete Events" = "מחק אירועים";
+"Today" = "היום";
+"Yesterday" = "אתמול";
+
+/* Statistics View */
+"Total" = "סה\"כ";
+"Current Streak" = "רצף נוכחי";
+"Longest Streak" = "רצף ארוך ביותר";
+"Days Tracked" = "ימים במעקב";
+"Activity by Hour" = "פעילות לפי שעה";
+"Activity by Day of Week" = "פעילות לפי יום בשבוע";
+"Monthly Trend" = "מגמה חודשית";
+"Last 30 Days" = "30 הימים האחרונים";
+
+/* Color Scheme Names */
+"Vibrant" = "תוסס";
+"Pastel" = "פסטל";
+"Monochrome" = "חד-גוני";
+"Ocean" = "אוקיינוס";
+"Sunset" = "שקיעה";
+"Forest" = "יער";
+"Candy" = "סוכריות";
+"Earth" = "אדמה";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "כוסות מים";
+"Fruits eaten today" = "פירות שנאכלו היום";
+"Vegetables conquered" = "ירקות שהובסו";
+"Hours of sleep" = "שעות שינה";
+"Steps walked" = "צעדים שנעשו";
+"Push-ups done" = "שכיבות סמיכה";
+"Minutes exercised" = "דקות אימון";
+"Healthy snacks" = "חטיפים בריאים";
+"Deep breaths taken" = "נשימות עמוקות";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "פעמים שאמרתי 'וואו'";
+"Cookies in my tummy" = "עוגיות בבטן שלי";
+"Silly dances performed" = "ריקודים מטופשים שבוצעו";
+"Dad jokes survived" = "בדיחות אבא ששרדתי";
+"Pillows fluffed" = "כריות שניפחתי";
+"Socks matched" = "גרביים שהתאמתי";
+"Clouds that look like animals" = "עננים שנראים כמו חיות";
+"Times the dog wagged its tail" = "פעמים שהכלב כישכש בזנב";
+"Sneezes today" = "עיטושים היום";
+"Yawns caught from others" = "פיהוקים שנתפסו מאחרים";
+"High fives given" = "מחיאות כף גבוהות";
+"Bubbles blown" = "בועות שנופחו";
+"Puddles jumped in" = "שלוליות שקפצתי בהן";
+"Funny faces made" = "פרצופים מצחיקים שעשיתי";
+"Songs sung in shower" = "שירים שהושרו במקלחת";
+"Times I forgot why I walked into a room" = "פעמים ששכחתי למה נכנסתי לחדר";
+"Dinosaur facts learned" = "עובדות על דינוזאורים שלמדתי";
+"Cards stacked before falling" = "קלפים שנערמו לפני שנפלו";
+"Grapes caught in mouth" = "ענבים שנתפסו בפה";
+"Paper airplanes launched" = "מטוסי נייר ששוגרו";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "ספרים שנקראו";
+"Pages finished" = "דפים שהושלמו";
+"Tasks completed" = "משימות שהושלמו";
+"Ideas had" = "רעיונות שהיו";
+"Problems solved" = "בעיות שנפתרו";
+"Minutes of focus" = "דקות ריכוז";
+"Emails conquered" = "אימיילים שהובסו";
+"Meetings survived" = "פגישות ששרדתי";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "חיבוקים שניתנו";
+"Thank yous said" = "תודות שנאמרו";
+"Smiles shared" = "חיוכים ששותפו";
+"Compliments given" = "מחמאות שניתנו";
+"Acts of kindness" = "מעשי חסד";
+"Friends helped" = "חברים שעזרתי להם";
+"Doors held open" = "דלתות שהחזקתי פתוחות";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "מילים חדשות שנלמדו";
+"Questions asked" = "שאלות שנשאלו";
+"Facts discovered" = "עובדות שהתגלו";
+"Languages practiced" = "שפות שתורגלו";
+"Puzzles solved" = "חידות שנפתרו";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "בטוח שברצונך למחוק את כל ה-Trivits?";
+"Are you sure you want to reset '%@'?" = "בטוח שברצונך לאפס את '%@'?";
+"Are you sure you want to reset all counts to 0?" = "בטוח שברצונך לאפס את כל המונים ל-0?";
+"Blue" = "כחול";
+"Cannot add" = "לא ניתן להוסיף";
+"Color - %@" = "צבע - %@";
+"Days in prison" = "ימים בכלא";
+"Default" = "ברירת מחדל";
+"Delete all Trivits" = "מחק את כל ה-Trivits";
+"Drinks" = "משקאות";
+"Feedback" = "משוב";
+"Get started!" = "בואו נתחיל!";
+"Give your Trivit a name" = "תן שם ל-Trivit שלך";
+"Got it." = "הבנתי.";
+"Green" = "ירוק";
+"I am missing some things..." = "חסרים לי כמה דברים...";
+"I don't get it." = "אני לא מבין.";
+"I like what I see." = "אני אוהב את מה שאני רואה.";
+"I've seen better, I've seen worse." = "ככה ככה.";
+"No" = "לא";
+"Off" = "כבוי";
+"On" = "פעיל";
+"Open or close your new Trivit with a single tap" = "פתח או סגור את ה-Trivit החדש שלך בהקשה אחת";
+"Please finish editing the title first." = "אנא סיים לערוך את הכותרת קודם.";
+"Red" = "אדום";
+"Remove all" = "הסר הכל";
+"Reset Trivit" = "אפס Trivit";
+"Reset all" = "אפס הכל";
+"Reset all Trivits" = "אפס את כל ה-Trivits";
+"Tap an image to rate:" = "הקש על תמונה כדי לדרג:";
+"Tap the minus to decrease the count, hold long to reset" = "הקש על מינוס כדי להפחית, לחיצה ארוכה לאיפוס";
+"Tap the pen to add a new Trivit" = "הקש על העט כדי להוסיף Trivit חדש";
+"Tap to increase the count" = "הקש כדי להגדיל";
+"This is the best app ever!" = "זו האפליקציה הכי טובה שיש!";
+"Tutorial" = "מדריך";
+"Vibration - %@" = "רטט - %@";
+"Went swimming this year" = "שחייה השנה";
+"Yes" = "כן";
+"Your feedback (optional)" = "המשוב שלך (אופציונלי)";

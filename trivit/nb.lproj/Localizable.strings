@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Innstillinger";
+"Done" = "Ferdig";
+
+/* Empty State */
+"No Trivits Yet" = "Ingen Trivits ennå";
+"Tap + to create your first tally counter" = "Trykk + for å opprette din første teller";
+
+/* Trivit Actions */
+"New Trivit" = "Ny Trivit";
+"Rename" = "Gi nytt navn";
+"Change Color" = "Endre farge";
+"Reset Count" = "Nullstill telling";
+"Delete" = "Slett";
+"Title" = "Tittel";
+
+/* Settings - Sections */
+"General" = "Generelt";
+"Color Scheme" = "Fargeskjema";
+"Sync Info" = "Synkroniseringsinfo";
+"About" = "Om";
+"Data" = "Data";
+
+/* Settings - General */
+"Haptic Feedback" = "Haptisk tilbakemelding";
+"Palette" = "Palett";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Synkroniserte Trivits";
+"Last Sync" = "Siste synkronisering";
+"Device" = "Enhet";
+
+/* Settings - About */
+"Version" = "Versjon";
+"Rate on App Store" = "Vurder i App Store";
+"Send Feedback" = "Send tilbakemelding";
+
+/* Settings - Data */
+"Reset All Trivits" = "Nullstill alle Trivits";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Skjul teller ved utvidelse";
+
+/* Deleted Items */
+"Deleted Items" = "Slettede elementer";
+"Recently Deleted" = "Nylig slettet";
+"No Deleted Items" = "Ingen slettede elementer";
+"Items you delete will appear here for 30 days" = "Elementer du sletter vises her i 30 dager";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Elementer slettes permanent etter 30 dager. Sveip høyre for å gjenopprette, sveip venstre for å slette permanent.";
+"Empty Trash" = "Tøm papirkurv";
+"Restore" = "Gjenopprett";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Slettet \"%@\"";
+"Undo" = "Angre";
+
+/* Tutorial */
+"Welcome to Trivit" = "Velkommen til Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Trykk + for å legge til en teller. Trykk på den for å telle opp. Sinn = sprengt.";
+"That minus button? It does exactly what you think." = "Den minusknappen? Den gjør akkurat det du tror.";
+"Long press anything. Secrets await." = "Langt trykk på hva som helst. Hemmeligheter venter.";
+"Swipe left to banish a counter forever." = "Sveip venstre for å forvise en teller for alltid.";
+"Yeah, I know how to use a counter app, thx" = "Ja, jeg vet hvordan man bruker en teller-app, takk";
+"Tap + to add a new counter" = "Trykk + for å legge til en ny teller";
+"Long press and drag to reorder" = "Langt trykk og dra for å endre rekkefølge";
+"Long press a counter for more options" = "Langt trykk på en teller for flere alternativer";
+"Got it" = "Skjønner";
+
+/* Context Menu */
+"Statistics" = "Statistikk";
+"History" = "Historikk";
+"Open Source" = "Åpen kildekode";
+"Source Code" = "Kildekode";
+"Report Translation Issue" = "Rapporter oversettingsfeil";
+"Support" = "Støtte";
+"Cancel" = "Avbryt";
+
+/* Watch Sync */
+"Watch Sync" = "Watch-synkronisering";
+"Watch Paired" = "Watch paret";
+"Watch Reachable" = "Watch tilgjengelig";
+"Sync to Watch" = "Synkroniser til Watch";
+"Not reachable" = "Ikke tilgjengelig";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Ingen historikk ennå";
+"Tally events will appear here as you use the counter." = "Tellerhendelser vises her etter hvert som du bruker telleren.";
+"Delete Events" = "Slett hendelser";
+"Today" = "I dag";
+"Yesterday" = "I går";
+
+/* Statistics View */
+"Total" = "Totalt";
+"Current Streak" = "Nåværende rekke";
+"Longest Streak" = "Lengste rekke";
+"Days Tracked" = "Dager sporet";
+"Activity by Hour" = "Aktivitet per time";
+"Activity by Day of Week" = "Aktivitet per ukedag";
+"Monthly Trend" = "Månedlig trend";
+"Last 30 Days" = "Siste 30 dager";
+
+/* Color Scheme Names */
+"Vibrant" = "Livlig";
+"Pastel" = "Pastell";
+"Monochrome" = "Monokrom";
+"Ocean" = "Hav";
+"Sunset" = "Solnedgang";
+"Forest" = "Skog";
+"Candy" = "Godteri";
+"Earth" = "Jord";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Glass vann";
+"Fruits eaten today" = "Frukter spist i dag";
+"Vegetables conquered" = "Grønnsaker beseiret";
+"Hours of sleep" = "Timer søvn";
+"Steps walked" = "Skritt gått";
+"Push-ups done" = "Armhevinger gjort";
+"Minutes exercised" = "Minutter trent";
+"Healthy snacks" = "Sunne snacks";
+"Deep breaths taken" = "Dype åndedrag tatt";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Ganger jeg sa 'wow'";
+"Cookies in my tummy" = "Kjeks i magen min";
+"Silly dances performed" = "Tåpelige danser utført";
+"Dad jokes survived" = "Pappavitser overlevd";
+"Pillows fluffed" = "Puter ristet";
+"Socks matched" = "Sokker matchet";
+"Clouds that look like animals" = "Skyer som ser ut som dyr";
+"Times the dog wagged its tail" = "Ganger hunden logret";
+"Sneezes today" = "Nys i dag";
+"Yawns caught from others" = "Gjesp smittet fra andre";
+"High fives given" = "High fives gitt";
+"Bubbles blown" = "Bobler blåst";
+"Puddles jumped in" = "Sølepytter hoppet i";
+"Funny faces made" = "Morsomme fjes laget";
+"Songs sung in shower" = "Sanger sunget i dusjen";
+"Times I forgot why I walked into a room" = "Ganger jeg glemte hvorfor jeg gikk inn i rommet";
+"Dinosaur facts learned" = "Dinosaurfakta lært";
+"Cards stacked before falling" = "Kort stablet før de falt";
+"Grapes caught in mouth" = "Druer fanget med munnen";
+"Paper airplanes launched" = "Papirfly sendt av gårde";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Bøker lest";
+"Pages finished" = "Sider fullført";
+"Tasks completed" = "Oppgaver fullført";
+"Ideas had" = "Idéer hatt";
+"Problems solved" = "Problemer løst";
+"Minutes of focus" = "Minutter med fokus";
+"Emails conquered" = "E-poster beseiret";
+"Meetings survived" = "Møter overlevd";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Klemmer gitt";
+"Thank yous said" = "Ganger sagt takk";
+"Smiles shared" = "Smil delt";
+"Compliments given" = "Komplimenter gitt";
+"Acts of kindness" = "Gode gjerninger";
+"Friends helped" = "Venner hjulpet";
+"Doors held open" = "Dører holdt åpne";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Nye ord lært";
+"Questions asked" = "Spørsmål stilt";
+"Facts discovered" = "Fakta oppdaget";
+"Languages practiced" = "Språk øvd";
+"Puzzles solved" = "Puslespill løst";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Er du sikker på at du vil slette alle Trivits?";
+"Are you sure you want to reset '%@'?" = "Er du sikker på at du vil nullstille '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Er du sikker på at du vil nullstille alle tellere til 0?";
+"Blue" = "Blå";
+"Cannot add" = "Kan ikke legge til";
+"Color - %@" = "Farge - %@";
+"Days in prison" = "Dager i fengsel";
+"Default" = "Standard";
+"Delete all Trivits" = "Slett alle Trivits";
+"Drinks" = "Drikker";
+"Feedback" = "Tilbakemelding";
+"Get started!" = "Kom i gang!";
+"Give your Trivit a name" = "Gi din Trivit et navn";
+"Got it." = "Skjønner.";
+"Green" = "Grønn";
+"I am missing some things..." = "Jeg savner noen ting...";
+"I don't get it." = "Jeg skjønner ikke.";
+"I like what I see." = "Jeg liker det jeg ser.";
+"I've seen better, I've seen worse." = "Sånn passe.";
+"No" = "Nei";
+"Off" = "Av";
+"On" = "På";
+"Open or close your new Trivit with a single tap" = "Åpne eller lukke din nye Trivit med et trykk";
+"Please finish editing the title first." = "Fullfør redigeringen av tittelen først.";
+"Red" = "Rød";
+"Remove all" = "Fjern alle";
+"Reset Trivit" = "Nullstill Trivit";
+"Reset all" = "Nullstill alle";
+"Reset all Trivits" = "Nullstill alle Trivits";
+"Tap an image to rate:" = "Trykk på et bilde for å vurdere:";
+"Tap the minus to decrease the count, hold long to reset" = "Trykk minus for å minske, hold lenge for å nullstille";
+"Tap the pen to add a new Trivit" = "Trykk på pennen for å legge til en ny Trivit";
+"Tap to increase the count" = "Trykk for å øke";
+"This is the best app ever!" = "Dette er den beste appen noensinne!";
+"Tutorial" = "Veiledning";
+"Vibration - %@" = "Vibrasjon - %@";
+"Went swimming this year" = "Svømmet i år";
+"Yes" = "Ja";
+"Your feedback (optional)" = "Din tilbakemelding (valgfritt)";

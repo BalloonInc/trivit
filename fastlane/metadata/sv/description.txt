@@ -1,0 +1,36 @@
+Trivit är en vackert enkel räknarapp som hjälper dig att hålla koll på vad som helst i ditt liv. Oavsett om du räknar vanor, träningspass, dagliga mål eller inventarier gör Trivit det enkelt och njutbart.
+
+ENKELT OCH INTUITIVT
+Tryck bara för att räkna. Ingen komplicerad inställning, ingen inlärningskurva. Skapa en ny räknare på sekunder och börja spåra omedelbart. Det rena, distraktionsfria gränssnittet håller dig fokuserad på det som betyder något.
+
+APPLE WATCH-APP
+Spåra dina räknare direkt från handleden med den helt nya Apple Watch-appen. Dina räkningar synkroniseras omedelbart mellan iPhone och Apple Watch, så att du alltid är uppdaterad oavsett vilken enhet du använder.
+
+VACKRA FÄRGTEMAN
+Välj bland 8 livfulla färgteman för att anpassa dina räknare. Varje räknare får sin egen distinkta färg, vilket gör det enkelt att identifiera med en blick. Den färgglada, platta designen är både vacker och funktionell.
+
+RÄKNA VAD SOM HELST
+- Dagliga vanor och rutiner
+- Träningsrepetitioner och set
+- Inventeringsräkningar
+- Poängräkning för spel
+- Fågelskådning eller observationer av vilda djur
+- Glas vatten som druckits
+- Steg mot ett mål
+- Allt annat du behöver räkna!
+
+SYNKRONISERING ÖVER ALLA ENHETER
+Dina räknare synkroniseras automatiskt över alla dina enheter med iCloud. Börja räkna på din iPhone och fortsätt på din Apple Watch, eller tvärtom. Din data finns alltid med dig.
+
+INTEGRITET FÖRST
+Din data stannar på dina enheter och i ditt personliga iCloud-konto. Vi samlar inte in personlig information, och det finns ingen analys eller spårning. Dina räkningar är din ensak.
+
+INGA ANNONSER, INGA PRENUMERATIONER
+Trivit är helt gratis utan annonser, inga köp i appen och inga prenumerationer. Bara en fantastisk app som gör vad den lovar.
+
+ÖPPEN KÄLLKOD
+Trivit är öppen källkod! Du kan se koden, föreslå förbättringar eller bidra på GitHub på https://github.com/BalloonInc/trivit-ios
+
+Version 5.0 är en komplett omskrivning med Apples senaste SwiftUI-teknik, som levererar förbättrad prestanda och en förfinad användarupplevelse samtidigt som enkelheten som gör Trivit fantastiskt bibehålls.
+
+Ladda ner Trivit idag och börja räkna det som betyder något för dig.

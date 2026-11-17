@@ -155,9 +155,9 @@ struct HistoryView: View {
         let formatter = DateFormatter()
 
         if calendar.isDateInToday(date) {
-            return "Today"
+            return NSLocalizedString("Today", comment: "")
         } else if calendar.isDateInYesterday(date) {
-            return "Yesterday"
+            return NSLocalizedString("Yesterday", comment: "")
         } else if let daysAgo = calendar.dateComponents([.day], from: date, to: Date()).day, daysAgo < 7 {
             formatter.dateFormat = "EEEE"  // Day name
             return formatter.string(from: date)

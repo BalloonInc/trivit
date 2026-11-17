@@ -41,6 +41,71 @@
 /* Settings - Data */
 "Reset All Trivits" = "Resetar Todos os Contadores";
 
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Ocultar contador quando expandido";
+
+/* Deleted Items */
+"Deleted Items" = "Itens apagados";
+"Recently Deleted" = "Apagados recentemente";
+"No Deleted Items" = "Nenhum item apagado";
+"Items you delete will appear here for 30 days" = "Os itens que você apagar aparecerão aqui por 30 dias";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Os itens são apagados permanentemente após 30 dias. Deslize para a direita para restaurar, para a esquerda para apagar permanentemente.";
+"Empty Trash" = "Esvaziar lixeira";
+"Restore" = "Restaurar";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Apagado \"%@\"";
+"Undo" = "Desfazer";
+
+/* Tutorial */
+"Welcome to Trivit" = "Bem-vindo ao Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Toque + para adicionar um contador. Toque nele para aumentar. Genial.";
+"That minus button? It does exactly what you think." = "O botão de menos? Faz exatamente o que você pensa.";
+"Long press anything. Secrets await." = "Segure qualquer coisa. Surpresas te esperam.";
+"Swipe left to banish a counter forever." = "Deslize para a esquerda para banir um contador para sempre.";
+"Yeah, I know how to use a counter app, thx" = "Sim, eu sei usar um app de contador, valeu";
+"Tap + to add a new counter" = "Toque + para adicionar um novo contador";
+"Long press and drag to reorder" = "Segure e arraste para reordenar";
+"Long press a counter for more options" = "Segure um contador para mais opções";
+"Got it" = "Entendi";
+
+/* Context Menu */
+"Statistics" = "Estatísticas";
+"History" = "Histórico";
+"Open Source" = "Código aberto";
+"Source Code" = "Código fonte";
+"Report Translation Issue" = "Reportar erro de tradução";
+"Support" = "Suporte";
+"Cancel" = "Cancelar";
+
+/* Watch Sync */
+"Watch Sync" = "Sincronização com relógio";
+"Watch Paired" = "Relógio emparelhado";
+"Watch Reachable" = "Relógio acessível";
+"Sync to Watch" = "Sincronizar com relógio";
+"Not reachable" = "Não acessível";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Sem histórico ainda";
+"Tally events will appear here as you use the counter." = "Os eventos aparecerão aqui conforme você usar o contador.";
+"Delete Events" = "Apagar eventos";
+"Today" = "Hoje";
+"Yesterday" = "Ontem";
+
+/* Statistics View */
+"Total" = "Total";
+"Current Streak" = "Sequência atual";
+"Longest Streak" = "Maior sequência";
+"Days Tracked" = "Dias registrados";
+"Activity by Hour" = "Atividade por hora";
+"Activity by Day of Week" = "Atividade por dia da semana";
+"Monthly Trend" = "Tendência mensal";
+"Last 30 Days" = "Últimos 30 dias";
+
 /* Color Scheme Names */
 "Vibrant" = "Vibrante";
 "Pastel" = "Pastel";
@@ -50,59 +115,6 @@
 "Forest" = "Floresta";
 "Candy" = "Doce";
 "Earth" = "Terra";
-
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "Tem certeza que deseja apagar todos os contadores?";
-"Are you sure you want to reset '%@'?" = "Tem certeza que deseja zerar '%@'?";
-"Are you sure you want to reset all counts to 0?" = "Tem certeza que deseja zerar todas as contagens?";
-"Blue" = "Azul";
-"Cannot add" = "Não é possível adicionar";
-"Color - %@" = "Cor - %@";
-"Days in prison" = "Dias na prisão";
-"Default" = "Padrão";
-"Delete all Trivits" = "Apagar todos os contadores";
-"Drinks" = "Bebidas";
-"Feedback" = "Feedback";
-"Get started!" = "Começar!";
-"Give your Trivit a name" = "Dê um nome ao seu contador";
-"Got it." = "Entendi.";
-"Green" = "Verde";
-"I am missing some things..." = "Está faltando algumas coisas...";
-"I don't get it." = "Não entendi.";
-"I like what I see." = "Gostei do que vi.";
-"I've seen better, I've seen worse." = "Já vi melhores e piores.";
-"No" = "Não";
-"Off" = "Desligado";
-"On" = "Ligado";
-"Open or close your new Trivit with a single tap" = "Abra ou feche seu contador com um toque";
-"Please finish editing the title first." = "Por favor, termine de editar o título primeiro.";
-"Red" = "Vermelho";
-"Remove all" = "Remover tudo";
-"Reset Trivit" = "Zerar Contador";
-"Reset all" = "Zerar tudo";
-"Reset all Trivits" = "Zerar todos os contadores";
-"Tap an image to rate:" = "Toque em uma imagem para avaliar:";
-"Tap the minus to decrease the count, hold long to reset" = "Toque no menos para diminuir, segure para zerar";
-"Tap the pen to add a new Trivit" = "Toque na caneta para adicionar um novo contador";
-"Tap to increase the count" = "Toque para aumentar a contagem";
-"This is the best app ever!" = "Este é o melhor app de todos!";
-"Tutorial" = "Tutorial";
-"Vibration - %@" = "Vibração - %@";
-"Went swimming this year" = "Nadei este ano";
-"Yes" = "Sim";
-"Your feedback (optional)" = "Seu feedback (opcional)";
-
-/* Tutorial */
-"Welcome to Trivit" = "Bem-vindo ao Trivit";
-"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Toque + para adicionar um contador. Toque nele para aumentar. Genial.";
-"That minus button? It does exactly what you think." = "O botão de menos? Faz exatamente o que você pensa.";
-"Long press anything. Secrets await." = "Pressione longo em qualquer coisa. Surpresas te esperam.";
-"Swipe left to banish a counter forever." = "Deslize para a esquerda para banir um contador para sempre.";
-"Yeah, I know how to use a counter app, thx" = "Sim, eu sei usar um app de contador, obrigado";
-"Tap + to add a new counter" = "Toque + para adicionar um novo contador";
-"Long press and drag to reorder" = "Pressione e arraste para reordenar";
-"Long press a counter for more options" = "Pressione um contador para mais opções";
-"Got it" = "Entendi";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Copos de água";
@@ -162,3 +174,44 @@
 "Facts discovered" = "Fatos descobertos";
 "Languages practiced" = "Idiomas praticados";
 "Puzzles solved" = "Quebra-cabeças resolvidos";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Tem certeza que deseja apagar todos os contadores?";
+"Are you sure you want to reset '%@'?" = "Tem certeza que deseja zerar '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Tem certeza que deseja zerar todas as contagens?";
+"Blue" = "Azul";
+"Cannot add" = "Não é possível adicionar";
+"Color - %@" = "Cor - %@";
+"Days in prison" = "Dias na prisão";
+"Default" = "Padrão";
+"Delete all Trivits" = "Apagar todos os contadores";
+"Drinks" = "Bebidas";
+"Feedback" = "Feedback";
+"Get started!" = "Começar!";
+"Give your Trivit a name" = "Dê um nome ao seu contador";
+"Got it." = "Entendi.";
+"Green" = "Verde";
+"I am missing some things..." = "Está faltando algumas coisas...";
+"I don't get it." = "Não entendi.";
+"I like what I see." = "Gostei do que vi.";
+"I've seen better, I've seen worse." = "Já vi melhores e piores.";
+"No" = "Não";
+"Off" = "Desligado";
+"On" = "Ligado";
+"Open or close your new Trivit with a single tap" = "Abra ou feche seu contador com um toque";
+"Please finish editing the title first." = "Por favor, termine de editar o título primeiro.";
+"Red" = "Vermelho";
+"Remove all" = "Remover tudo";
+"Reset Trivit" = "Zerar Contador";
+"Reset all" = "Zerar tudo";
+"Reset all Trivits" = "Zerar todos os contadores";
+"Tap an image to rate:" = "Toque em uma imagem para avaliar:";
+"Tap the minus to decrease the count, hold long to reset" = "Toque no menos para diminuir, segure para zerar";
+"Tap the pen to add a new Trivit" = "Toque na caneta para adicionar um novo contador";
+"Tap to increase the count" = "Toque para aumentar a contagem";
+"This is the best app ever!" = "Este é o melhor app de todos!";
+"Tutorial" = "Tutorial";
+"Vibration - %@" = "Vibração - %@";
+"Went swimming this year" = "Nadei este ano";
+"Yes" = "Sim";
+"Your feedback (optional)" = "Seu feedback (opcional)";

@@ -1,0 +1,36 @@
+A Trivit egy gyönyörűen egyszerű számláló alkalmazás, amely segít nyomon követni bármit az életedben. Legyen szó szokásokról, edzésekről, napi célokról vagy leltárról, a Trivit könnyeddé és élvezetessé teszi.
+
+EGYSZERŰ ÉS INTUITÍV
+Csak koppints a számláláshoz. Nincs bonyolult beállítás, nincs tanulási görbe. Hozz létre egy új számlálót másodpercek alatt, és azonnal kezdj el követni. A letisztult, zavarásmentes felület a lényegre összpontosít.
+
+APPLE WATCH ALKALMAZÁS
+Kövesd nyomon a számlálóidat közvetlenül a csuklódról a vadonatúj Apple Watch alkalmazással. A számaid azonnal szinkronizálódnak az iPhone és az Apple Watch között, így mindig naprakész vagy, bármilyen eszközt is használsz.
+
+GYÖNYÖRŰ SZÍNTÉMÁK
+Válassz 8 élénk színtéma közül a számlálóid személyre szabásához. Minden számláló saját megkülönböztető színt kap, így könnyű azonosítani egyetlen pillantással. A színes, lapos dizájn egyszerre szép és funkcionális.
+
+SZÁMOLJ BÁRMIT
+- Napi szokások és rutinok
+- Edzés ismétlések és sorozatok
+- Leltári számlálások
+- Pontszámok nyilvántartása játékokhoz
+- Madármegfigyelés vagy vadon élő állatok észlelése
+- Elfogyasztott pohár víz
+- Lépések egy cél felé
+- Bármi más, amit számlálnod kell!
+
+SZINKRONIZÁLÁS MINDEN ESZKÖZÖN
+Számlálóid automatikusan szinkronizálódnak minden eszközödön az iCloud segítségével. Kezdj el számlálni az iPhone-odon, és folytasd az Apple Watchodon, vagy fordítva. Az adataid mindig veled vannak.
+
+ADATVÉDELEM ELSŐSORBAN
+Az adataid az eszközeiden és a személyes iCloud-fiókodban maradnak. Nem gyűjtünk személyes adatokat, és nincsenek elemzések vagy nyomkövetés. A számlálásaid a te dolgod.
+
+NINCS REKLÁM, NINCS ELŐFIZETÉS
+A Trivit teljesen ingyenes, reklámok, alkalmazáson belüli vásárlások és előfizetések nélkül. Csak egy remek alkalmazás, ami azt csinálja, amit ígér.
+
+NYÍLT FORRÁSKÓDÚ
+A Trivit nyílt forráskódú! Megtekintheted a kódot, javaslatokat tehetsz vagy hozzájárulhatsz a GitHubon: https://github.com/BalloonInc/trivit-ios
+
+Az 5.0-s verzió teljes újraírás az Apple legújabb SwiftUI technológiájával, javított teljesítményt és finomított felhasználói élményt kínálva, miközben megőrzi az egyszerűséget, ami a Trivitet naggyá teszi.
+
+Töltsd le a Trivitet ma, és kezdj el számlálni, ami számodra fontos.

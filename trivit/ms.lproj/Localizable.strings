@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Tetapan";
+"Done" = "Selesai";
+
+/* Empty State */
+"No Trivits Yet" = "Belum Ada Trivit";
+"Tap + to create your first tally counter" = "Ketik + untuk mencipta pembilang pertama anda";
+
+/* Trivit Actions */
+"New Trivit" = "Trivit Baharu";
+"Rename" = "Namakan semula";
+"Change Color" = "Tukar Warna";
+"Reset Count" = "Set Semula Kiraan";
+"Delete" = "Padam";
+"Title" = "Tajuk";
+
+/* Settings - Sections */
+"General" = "Umum";
+"Color Scheme" = "Skema Warna";
+"Sync Info" = "Info Penyegerakan";
+"About" = "Perihal";
+"Data" = "Data";
+
+/* Settings - General */
+"Haptic Feedback" = "Maklum Balas Haptik";
+"Palette" = "Palet";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Trivit Disegerakkan";
+"Last Sync" = "Penyegerakan Terakhir";
+"Device" = "Peranti";
+
+/* Settings - About */
+"Version" = "Versi";
+"Rate on App Store" = "Nilai di App Store";
+"Send Feedback" = "Hantar Maklum Balas";
+
+/* Settings - Data */
+"Reset All Trivits" = "Set Semula Semua Trivit";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Sembunyikan Pembilang Apabila Dikembangkan";
+
+/* Deleted Items */
+"Deleted Items" = "Item Dipadam";
+"Recently Deleted" = "Baru Dipadam";
+"No Deleted Items" = "Tiada Item Dipadam";
+"Items you delete will appear here for 30 days" = "Item yang anda padam akan muncul di sini selama 30 hari";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Item dipadam secara kekal selepas 30 hari. Leret kanan untuk pulihkan, leret kiri untuk padam secara kekal.";
+"Empty Trash" = "Kosongkan Tong Sampah";
+"Restore" = "Pulihkan";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" dipadam";
+"Undo" = "Buat Asal";
+
+/* Tutorial */
+"Welcome to Trivit" = "Selamat Datang ke Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Ketik + untuk menambah pembilang. Ketik untuk menaikkan nombor. Minda = terkejut.";
+"That minus button? It does exactly what you think." = "Butang tolak itu? Ia buat tepat apa yang anda fikir.";
+"Long press anything. Secrets await." = "Tekan lama apa sahaja. Rahsia menanti.";
+"Swipe left to banish a counter forever." = "Leret kiri untuk buang pembilang selama-lamanya.";
+"Yeah, I know how to use a counter app, thx" = "Ya, saya tahu cara guna aplikasi pembilang, terima kasih";
+"Tap + to add a new counter" = "Ketik + untuk menambah pembilang baharu";
+"Long press and drag to reorder" = "Tekan lama dan seret untuk menyusun semula";
+"Long press a counter for more options" = "Tekan lama pembilang untuk pilihan lanjut";
+"Got it" = "Faham";
+
+/* Context Menu */
+"Statistics" = "Statistik";
+"History" = "Sejarah";
+"Open Source" = "Sumber Terbuka";
+"Source Code" = "Kod Sumber";
+"Report Translation Issue" = "Laporkan Isu Terjemahan";
+"Support" = "Sokongan";
+"Cancel" = "Batal";
+
+/* Watch Sync */
+"Watch Sync" = "Penyegerakan Watch";
+"Watch Paired" = "Watch Dipasangkan";
+"Watch Reachable" = "Watch Boleh Dicapai";
+"Sync to Watch" = "Segerakkan ke Watch";
+"Not reachable" = "Tidak boleh dicapai";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivit";
+
+/* History View */
+"No History Yet" = "Belum Ada Sejarah";
+"Tally events will appear here as you use the counter." = "Peristiwa pembilang akan muncul di sini semasa anda menggunakannya.";
+"Delete Events" = "Padam Peristiwa";
+"Today" = "Hari Ini";
+"Yesterday" = "Semalam";
+
+/* Statistics View */
+"Total" = "Jumlah";
+"Current Streak" = "Rentetan Semasa";
+"Longest Streak" = "Rentetan Terpanjang";
+"Days Tracked" = "Hari Dijejak";
+"Activity by Hour" = "Aktiviti mengikut Jam";
+"Activity by Day of Week" = "Aktiviti mengikut Hari";
+"Monthly Trend" = "Trend Bulanan";
+"Last 30 Days" = "30 Hari Terakhir";
+
+/* Color Scheme Names */
+"Vibrant" = "Meriah";
+"Pastel" = "Pastel";
+"Monochrome" = "Monokrom";
+"Ocean" = "Lautan";
+"Sunset" = "Matahari Terbenam";
+"Forest" = "Hutan";
+"Candy" = "Gula-gula";
+"Earth" = "Bumi";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Gelas air";
+"Fruits eaten today" = "Buah dimakan hari ini";
+"Vegetables conquered" = "Sayur ditewaskan";
+"Hours of sleep" = "Jam tidur";
+"Steps walked" = "Langkah berjalan";
+"Push-ups done" = "Tekan tubi dibuat";
+"Minutes exercised" = "Minit bersenam";
+"Healthy snacks" = "Snek sihat";
+"Deep breaths taken" = "Nafas dalam diambil";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Kali saya sebut 'wow'";
+"Cookies in my tummy" = "Biskut dalam perut saya";
+"Silly dances performed" = "Tarian bodoh dilakukan";
+"Dad jokes survived" = "Jenaka ayah ditahan";
+"Pillows fluffed" = "Bantal digebu";
+"Socks matched" = "Stokin dipadan";
+"Clouds that look like animals" = "Awan yang nampak macam haiwan";
+"Times the dog wagged its tail" = "Kali anjing goyangkan ekornya";
+"Sneezes today" = "Bersin hari ini";
+"Yawns caught from others" = "Kuap dijangkiti dari orang lain";
+"High fives given" = "Tepuk tangan tinggi diberi";
+"Bubbles blown" = "Gelembung ditiup";
+"Puddles jumped in" = "Lopak air dilompati";
+"Funny faces made" = "Muka kelakar dibuat";
+"Songs sung in shower" = "Lagu dinyanyikan dalam bilik mandi";
+"Times I forgot why I walked into a room" = "Kali saya lupa kenapa masuk bilik";
+"Dinosaur facts learned" = "Fakta dinosaur dipelajari";
+"Cards stacked before falling" = "Kad disusun sebelum jatuh";
+"Grapes caught in mouth" = "Anggur ditangkap dengan mulut";
+"Paper airplanes launched" = "Kapal terbang kertas dilancarkan";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Buku dibaca";
+"Pages finished" = "Halaman disiapkan";
+"Tasks completed" = "Tugasan diselesaikan";
+"Ideas had" = "Idea diperoleh";
+"Problems solved" = "Masalah diselesaikan";
+"Minutes of focus" = "Minit fokus";
+"Emails conquered" = "E-mel ditewaskan";
+"Meetings survived" = "Mesyuarat ditempuhi";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Pelukan diberi";
+"Thank yous said" = "Terima kasih diucapkan";
+"Smiles shared" = "Senyuman dikongsi";
+"Compliments given" = "Pujian diberi";
+"Acts of kindness" = "Perbuatan baik";
+"Friends helped" = "Kawan dibantu";
+"Doors held open" = "Pintu ditahan terbuka";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Perkataan baharu dipelajari";
+"Questions asked" = "Soalan ditanya";
+"Facts discovered" = "Fakta ditemui";
+"Languages practiced" = "Bahasa dipraktikkan";
+"Puzzles solved" = "Teka-teki diselesaikan";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Adakah anda pasti mahu memadam semua Trivit?";
+"Are you sure you want to reset '%@'?" = "Adakah anda pasti mahu meset semula '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Adakah anda pasti mahu meset semula semua kiraan kepada 0?";
+"Blue" = "Biru";
+"Cannot add" = "Tidak boleh menambah";
+"Color - %@" = "Warna - %@";
+"Days in prison" = "Hari dalam penjara";
+"Default" = "Lalai";
+"Delete all Trivits" = "Padam semua Trivit";
+"Drinks" = "Minuman";
+"Feedback" = "Maklum Balas";
+"Get started!" = "Mula sekarang!";
+"Give your Trivit a name" = "Beri nama Trivit anda";
+"Got it." = "Faham.";
+"Green" = "Hijau";
+"I am missing some things..." = "Saya rasa ada yang kurang...";
+"I don't get it." = "Saya tak faham.";
+"I like what I see." = "Saya suka apa yang saya lihat.";
+"I've seen better, I've seen worse." = "Boleh tahan.";
+"No" = "Tidak";
+"Off" = "Mati";
+"On" = "Hidup";
+"Open or close your new Trivit with a single tap" = "Buka atau tutup Trivit baharu anda dengan satu ketikan";
+"Please finish editing the title first." = "Sila selesaikan penyuntingan tajuk terlebih dahulu.";
+"Red" = "Merah";
+"Remove all" = "Buang semua";
+"Reset Trivit" = "Set Semula Trivit";
+"Reset all" = "Set semula semua";
+"Reset all Trivits" = "Set Semula Semua Trivit";
+"Tap an image to rate:" = "Ketik imej untuk menilai:";
+"Tap the minus to decrease the count, hold long to reset" = "Ketik tolak untuk kurangkan, tekan lama untuk set semula";
+"Tap the pen to add a new Trivit" = "Ketik pen untuk menambah Trivit baharu";
+"Tap to increase the count" = "Ketik untuk menambah";
+"This is the best app ever!" = "Ini aplikasi terbaik yang pernah ada!";
+"Tutorial" = "Tutorial";
+"Vibration - %@" = "Getaran - %@";
+"Went swimming this year" = "Berenang tahun ini";
+"Yes" = "Ya";
+"Your feedback (optional)" = "Maklum balas anda (pilihan)";

@@ -1,0 +1,48 @@
+Trivit היא אפליקציית מונה פשוטה ויפה שעוזרת לך לעקוב אחרי כל דבר בחייך. בין אם אתה סופר הרגלים, אימונים, יעדים יומיים או מלאי, Trivit הופך את זה לקל ומהנה.
+
+פשוט ואינטואיטיבי
+פשוט הקש כדי לספור. ללא הגדרה מסובכת, ללא עקומת למידה. צור מונה חדש בשניות והתחל לעקוב מיד. הממשק הנקי וללא הסחות דעת שומר אותך ממוקד במה שחשוב.
+
+אפליקציית APPLE WATCH
+עקוב אחרי המונים שלך ישירות מפרק כף היד עם אפליקציית Apple Watch החדשה. הספירות שלך מסתנכרנות מיידית בין iPhone ו-Apple Watch, כך שאתה תמיד מעודכן בכל מכשיר שתשתמש.
+
+ערכות נושא צבעוניות יפות
+בחר מבין 8 ערכות נושא צבעוניות תוססות כדי להתאים אישית את המונים שלך. כל מונה מקבל צבע ייחודי משלו, מה שמקל על הזיהוי במבט חטוף. העיצוב הצבעוני והשטוח הוא גם יפה וגם פונקציונלי.
+
+ספור הכל
+- הרגלים ושגרות יומיות
+- חזרות וסטים באימונים
+- ספירות מלאי
+- ניהול ניקוד במשחקים
+- צפייה בציפורים או חיות בר
+- כוסות מים ששתית
+- צעדים לקראת יעד
+- כל דבר אחר שצריך לספור!
+
+סנכרון בכל המכשירים
+המונים שלך מסתנכרנים אוטומטית בכל המכשירים באמצעות iCloud. התחל לספור ב-iPhone והמשך ב-Apple Watch, או להיפך. הנתונים שלך תמיד איתך.
+
+פרטיות קודמת
+הנתונים שלך נשארים במכשירים שלך ובחשבון ה-iCloud האישי שלך. אנחנו לא אוספים מידע אישי, ואין אנליטיקס או מעקב. הספירות שלך הן העניין שלך.
+
+ללא פרסומות, ללא מנויים
+Trivit חינמי לחלוטין ללא פרסומות, ללא רכישות בתוך האפליקציה וללא מנויים. פשוט אפליקציה מעולה שעושה מה שהיא אומרת.
+
+קוד פתוח
+Trivit הוא קוד פתוח! אתה יכול לצפות בקוד, להציע שיפורים או לתרום ב-GitHub בכתובת https://github.com/BalloonInc/trivit-ios
+
+גרסה 5.0 היא שכתוב מלא באמצעות טכנולוגיית SwiftUI העדכנית ביותר של Apple, המספקת ביצועים משופרים וחוויית משתמש מעודנת תוך שמירה על הפשטות שהופכת את Trivit למעולה.
+
+הורד את Trivit היום והתחל לספור מה שחשוב לך.
+
+That covers all 35 requested locales: da, de-DE, el, es-ES, es-MX, fi, fr-FR, hi, hu, id, it, ja, ko, ms, nl-NL, no, pl, pt-BR, pt-PT, ro, ru, sk, sv, th, tr, uk, vi, zh-Hans, zh-Hant, ar-SA, ca, hr, cs, and he.
+
+Key decisions made across all translations:
+- "Trivit" kept as-is everywhere (brand name)
+- GitHub URL preserved unchanged in all descriptions
+- All section headers translated and kept in CAPS (or equivalent emphasis for non-Latin scripts)
+- Keywords localized for each market's App Store discoverability
+- Character limits respected: name (max 30), subtitle (max 30), promotional_text (max 170), keywords (max 100)
+- es-ES vs es-MX differentiated with regional vocabulary (e.g., "puntos" vs "puntaje")
+- pt-BR vs pt-PT differentiated with regional conventions (e.g., "app/aplicativo" vs "aplicação", "baixe" vs "transfira")
+- zh-Hans vs zh-Hant use simplified vs traditional characters respectively

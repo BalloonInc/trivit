@@ -1,0 +1,36 @@
+Trivit is een prachtig eenvoudige turfteller-app die je helpt alles in je leven bij te houden. Of je nu gewoontes, workouts, dagelijkse doelen of voorraad telt, Trivit maakt het moeiteloos en plezierig.
+
+EENVOUDIG EN INTUÏTIEF
+Tik gewoon om te tellen. Geen ingewikkelde instellingen, geen leercurve. Maak in seconden een nieuwe teller aan en begin direct met bijhouden. De strakke, afleidingsvrije interface houdt je gefocust op wat belangrijk is.
+
+APPLE WATCH-APP
+Houd je tellingen bij direct vanaf je pols met de gloednieuwe Apple Watch-app. Je tellingen worden direct gesynchroniseerd tussen iPhone en Apple Watch, zodat je altijd up-to-date bent, ongeacht welk apparaat je gebruikt.
+
+PRACHTIGE KLEURTHEMA'S
+Kies uit 8 levendige kleurthema's om je tellers te personaliseren. Elke teller krijgt zijn eigen kenmerkende kleur, waardoor hij in één oogopslag herkenbaar is. Het kleurrijke, platte ontwerp is zowel mooi als functioneel.
+
+HOUD ALLES BIJ
+- Dagelijkse gewoontes en routines
+- Workout-herhalingen en sets
+- Voorraadtellingen
+- Scores bijhouden bij spelletjes
+- Vogels spotten of wilde dieren waarnemen
+- Glazen water gedronken
+- Stappen richting een doel
+- Alles wat je maar wilt tellen!
+
+SYNCHRONISEER OP AL JE APPARATEN
+Je tellers synchroniseren automatisch op al je apparaten via iCloud. Begin met tellen op je iPhone en ga verder op je Apple Watch, of andersom. Je gegevens zijn altijd bij je.
+
+PRIVACY VOOROP
+Je gegevens blijven op je apparaten en in je persoonlijke iCloud-account. We verzamelen geen persoonlijke informatie en er zijn geen analyses of tracking. Je tellingen zijn jouw zaak.
+
+GEEN ADVERTENTIES, GEEN ABONNEMENTEN
+Trivit is volledig gratis zonder advertenties, zonder in-app aankopen en zonder abonnementen. Gewoon een geweldige app die doet wat hij belooft.
+
+OPEN SOURCE
+Trivit is open source! Je kunt de code bekijken, verbeteringen voorstellen of bijdragen op GitHub via https://github.com/BalloonInc/trivit-ios
+
+Versie 5.0 is een complete herschrijving met Apples nieuwste SwiftUI-technologie, met verbeterde prestaties en een verfijnde gebruikerservaring, terwijl de eenvoud behouden blijft die Trivit geweldig maakt.
+
+Download Trivit vandaag en begin met tellen wat voor jou belangrijk is.

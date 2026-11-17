@@ -1,0 +1,36 @@
+Trivit là ứng dụng bộ đếm đẹp và đơn giản giúp bạn theo dõi mọi thứ trong cuộc sống. Dù bạn đếm thói quen, bài tập, mục tiêu hàng ngày hay hàng tồn kho, Trivit làm cho mọi thứ dễ dàng và thú vị.
+
+ĐƠN GIẢN VÀ TRỰC QUAN
+Chỉ cần chạm để đếm. Không cần thiết lập phức tạp, không có đường cong học tập. Tạo bộ đếm mới trong vài giây và bắt đầu theo dõi ngay lập tức. Giao diện sạch sẽ, không phân tâm giúp bạn tập trung vào điều quan trọng.
+
+ỨNG DỤNG APPLE WATCH
+Theo dõi bộ đếm ngay từ cổ tay với ứng dụng Apple Watch mới. Số đếm của bạn đồng bộ tức thì giữa iPhone và Apple Watch, giúp bạn luôn cập nhật bất kể thiết bị nào.
+
+CHỦ ĐỀ MÀU SẮC ĐẸP MẮT
+Chọn từ 8 chủ đề màu sắc rực rỡ để cá nhân hóa bộ đếm. Mỗi bộ đếm có màu riêng biệt, dễ nhận diện chỉ trong nháy mắt. Thiết kế nhiều màu sắc, phẳng vừa đẹp vừa thực dụng.
+
+ĐẾM MỌI THỨ
+- Thói quen và thói quen hàng ngày
+- Số lần lặp và hiệp tập luyện
+- Kiểm kê hàng tồn kho
+- Ghi điểm cho trò chơi
+- Quan sát chim hoặc động vật hoang dã
+- Cốc nước đã uống
+- Bước tiến tới mục tiêu
+- Bất cứ điều gì bạn cần đếm!
+
+ĐỒNG BỘ TRÊN MỌI THIẾT BỊ
+Bộ đếm tự động đồng bộ trên tất cả thiết bị qua iCloud. Bắt đầu đếm trên iPhone và tiếp tục trên Apple Watch, hoặc ngược lại. Dữ liệu luôn ở bên bạn.
+
+QUYỀN RIÊNG TƯ LÊN HÀNG ĐẦU
+Dữ liệu ở trên thiết bị và tài khoản iCloud cá nhân của bạn. Chúng tôi không thu thập thông tin cá nhân, không có phân tích hay theo dõi. Số đếm của bạn là việc của bạn.
+
+KHÔNG QUẢNG CÁO, KHÔNG ĐĂNG KÝ
+Trivit hoàn toàn miễn phí, không quảng cáo, không mua hàng trong ứng dụng và không đăng ký. Chỉ là một ứng dụng tuyệt vời làm đúng như lời hứa.
+
+MÃ NGUỒN MỞ
+Trivit là mã nguồn mở! Bạn có thể xem mã, đề xuất cải tiến hoặc đóng góp trên GitHub tại https://github.com/BalloonInc/trivit-ios
+
+Phiên bản 5.0 được viết lại hoàn toàn bằng công nghệ SwiftUI mới nhất của Apple, mang lại hiệu suất cải thiện và trải nghiệm người dùng tinh tế trong khi giữ nguyên sự đơn giản làm nên Trivit tuyệt vời.
+
+Tải Trivit ngay hôm nay và bắt đầu đếm những gì quan trọng với bạn.

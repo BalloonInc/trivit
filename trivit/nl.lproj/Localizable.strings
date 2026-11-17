@@ -41,57 +41,6 @@
 /* Settings - Data */
 "Reset All Trivits" = "Alle tellers resetten";
 
-/* Color Scheme Names */
-"Vibrant" = "Levendig";
-"Pastel" = "Pastel";
-"Monochrome" = "Monochroom";
-"Ocean" = "Oceaan";
-"Sunset" = "Zonsondergang";
-"Forest" = "Bos";
-"Candy" = "Snoep";
-"Earth" = "Aarde";
-
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "Weet je zeker dat je alle tellers wilt verwijderen?";
-"Are you sure you want to reset '%@'?" = "Weet je zeker dat je '%@' wilt resetten?";
-"Are you sure you want to reset all counts to 0?" = "Weet je zeker dat je alle tellers naar 0 wilt resetten?";
-"Blue" = "Blauw";
-"Cannot add" = "Kan niet toevoegen";
-"Color - %@" = "Kleur - %@";
-"Days in prison" = "Dagen in de gevangenis";
-"Default" = "Standaard";
-"Delete all Trivits" = "Alle tellers verwijderen";
-"Drinks" = "Drankjes";
-"Feedback" = "Feedback";
-"Get started!" = "Aan de slag!";
-"Give your Trivit a name" = "Geef je teller een naam";
-"Got it." = "Begrepen.";
-"Green" = "Groen";
-"I am missing some things..." = "Ik mis nog wat dingen...";
-"I don't get it." = "Ik begrijp het niet.";
-"I like what I see." = "Ik vind het leuk.";
-"I've seen better, I've seen worse." = "Redelijk.";
-"No" = "Nee";
-"Off" = "Uit";
-"On" = "Aan";
-"Open or close your new Trivit with a single tap" = "Open of sluit je teller met één tik";
-"Please finish editing the title first." = "Maak eerst de titel af.";
-"Red" = "Rood";
-"Remove all" = "Alles verwijderen";
-"Reset Trivit" = "Teller resetten";
-"Reset all" = "Alles resetten";
-"Reset all Trivits" = "Alle tellers resetten";
-"Tap an image to rate:" = "Tik op een afbeelding om te beoordelen:";
-"Tap the minus to decrease the count, hold long to reset" = "Tik op min om te verlagen, houd ingedrukt om te resetten";
-"Tap the pen to add a new Trivit" = "Tik op de pen om een nieuwe teller toe te voegen";
-"Tap to increase the count" = "Tik om te verhogen";
-"This is the best app ever!" = "Dit is de beste app ooit!";
-"Tutorial" = "Handleiding";
-"Vibration - %@" = "Trillen - %@";
-"Went swimming this year" = "Zwemmen dit jaar";
-"Yes" = "Ja";
-"Your feedback (optional)" = "Je feedback (optioneel)";
-
 /* Settings - General (new) */
 "Hide Counter When Expanded" = "Verberg teller bij uitklappen";
 
@@ -126,6 +75,46 @@
 "Open Source" = "Open source";
 "Source Code" = "Broncode";
 "Report Translation Issue" = "Vertaalfout melden";
+"Support" = "Ondersteuning";
+"Cancel" = "Annuleren";
+
+/* Watch Sync */
+"Watch Sync" = "Watch synchronisatie";
+"Watch Paired" = "Watch gekoppeld";
+"Watch Reachable" = "Watch bereikbaar";
+"Sync to Watch" = "Synchroniseren naar Watch";
+"Not reachable" = "Niet bereikbaar";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Nog geen geschiedenis";
+"Tally events will appear here as you use the counter." = "Telgebeurtenissen verschijnen hier terwijl je de teller gebruikt.";
+"Delete Events" = "Gebeurtenissen verwijderen";
+"Today" = "Vandaag";
+"Yesterday" = "Gisteren";
+
+/* Statistics View */
+"Total" = "Totaal";
+"Current Streak" = "Huidige reeks";
+"Longest Streak" = "Langste reeks";
+"Days Tracked" = "Dagen bijgehouden";
+"Activity by Hour" = "Activiteit per uur";
+"Activity by Day of Week" = "Activiteit per dag van de week";
+"Monthly Trend" = "Maandtrend";
+"Last 30 Days" = "Laatste 30 dagen";
+
+/* Color Scheme Names */
+"Vibrant" = "Levendig";
+"Pastel" = "Pastel";
+"Monochrome" = "Monochroom";
+"Ocean" = "Oceaan";
+"Sunset" = "Zonsondergang";
+"Forest" = "Bos";
+"Candy" = "Snoep";
+"Earth" = "Aarde";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Glazen water";
@@ -185,3 +174,44 @@
 "Facts discovered" = "Weetjes ontdekt";
 "Languages practiced" = "Talen geoefend";
 "Puzzles solved" = "Puzzels opgelost";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Weet je zeker dat je alle tellers wilt verwijderen?";
+"Are you sure you want to reset '%@'?" = "Weet je zeker dat je '%@' wilt resetten?";
+"Are you sure you want to reset all counts to 0?" = "Weet je zeker dat je alle tellers naar 0 wilt resetten?";
+"Blue" = "Blauw";
+"Cannot add" = "Kan niet toevoegen";
+"Color - %@" = "Kleur - %@";
+"Days in prison" = "Dagen in de gevangenis";
+"Default" = "Standaard";
+"Delete all Trivits" = "Alle tellers verwijderen";
+"Drinks" = "Drankjes";
+"Feedback" = "Feedback";
+"Get started!" = "Aan de slag!";
+"Give your Trivit a name" = "Geef je teller een naam";
+"Got it." = "Begrepen.";
+"Green" = "Groen";
+"I am missing some things..." = "Ik mis nog wat dingen...";
+"I don't get it." = "Ik begrijp het niet.";
+"I like what I see." = "Ik vind het leuk.";
+"I've seen better, I've seen worse." = "Redelijk.";
+"No" = "Nee";
+"Off" = "Uit";
+"On" = "Aan";
+"Open or close your new Trivit with a single tap" = "Open of sluit je teller met één tik";
+"Please finish editing the title first." = "Maak eerst de titel af.";
+"Red" = "Rood";
+"Remove all" = "Alles verwijderen";
+"Reset Trivit" = "Teller resetten";
+"Reset all" = "Alles resetten";
+"Reset all Trivits" = "Alle tellers resetten";
+"Tap an image to rate:" = "Tik op een afbeelding om te beoordelen:";
+"Tap the minus to decrease the count, hold long to reset" = "Tik op min om te verlagen, houd ingedrukt om te resetten";
+"Tap the pen to add a new Trivit" = "Tik op de pen om een nieuwe teller toe te voegen";
+"Tap to increase the count" = "Tik om te verhogen";
+"This is the best app ever!" = "Dit is de beste app ooit!";
+"Tutorial" = "Handleiding";
+"Vibration - %@" = "Trillen - %@";
+"Went swimming this year" = "Zwemmen dit jaar";
+"Yes" = "Ja";
+"Your feedback (optional)" = "Je feedback (optioneel)";

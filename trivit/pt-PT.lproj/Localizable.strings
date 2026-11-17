@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Definições";
+"Done" = "Concluído";
+
+/* Empty State */
+"No Trivits Yet" = "Ainda sem Trivits";
+"Tap + to create your first tally counter" = "Toca em + para criar o teu primeiro contador";
+
+/* Trivit Actions */
+"New Trivit" = "Novo Trivit";
+"Rename" = "Renomear";
+"Change Color" = "Mudar Cor";
+"Reset Count" = "Repor Contagem";
+"Delete" = "Apagar";
+"Title" = "Título";
+
+/* Settings - Sections */
+"General" = "Geral";
+"Color Scheme" = "Esquema de Cores";
+"Sync Info" = "Info de Sincronização";
+"About" = "Acerca";
+"Data" = "Dados";
+
+/* Settings - General */
+"Haptic Feedback" = "Feedback Háptico";
+"Palette" = "Paleta";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Trivits Sincronizados";
+"Last Sync" = "Última Sincronização";
+"Device" = "Dispositivo";
+
+/* Settings - About */
+"Version" = "Versão";
+"Rate on App Store" = "Avaliar na App Store";
+"Send Feedback" = "Enviar Feedback";
+
+/* Settings - Data */
+"Reset All Trivits" = "Repor Todos os Trivits";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Ocultar Contador ao Expandir";
+
+/* Deleted Items */
+"Deleted Items" = "Itens Apagados";
+"Recently Deleted" = "Apagados Recentemente";
+"No Deleted Items" = "Sem Itens Apagados";
+"Items you delete will appear here for 30 days" = "Os itens que apagares aparecem aqui durante 30 dias";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Os itens são apagados permanentemente após 30 dias. Desliza para a direita para restaurar, para a esquerda para apagar permanentemente.";
+"Empty Trash" = "Esvaziar Lixo";
+"Restore" = "Restaurar";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" apagado";
+"Undo" = "Desfazer";
+
+/* Tutorial */
+"Welcome to Trivit" = "Bem-vindo ao Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Toca em + para adicionar um contador. Toca nele para o número subir. Mente = explodida.";
+"That minus button? It does exactly what you think." = "Aquele botão de menos? Faz exatamente o que pensas.";
+"Long press anything. Secrets await." = "Prime longamente qualquer coisa. Segredos esperam.";
+"Swipe left to banish a counter forever." = "Desliza para a esquerda para banir um contador para sempre.";
+"Yeah, I know how to use a counter app, thx" = "Sim, sei como usar uma app de contagem, obg";
+"Tap + to add a new counter" = "Toca em + para adicionar um novo contador";
+"Long press and drag to reorder" = "Prime longamente e arrasta para reordenar";
+"Long press a counter for more options" = "Prime longamente um contador para mais opções";
+"Got it" = "Entendido";
+
+/* Context Menu */
+"Statistics" = "Estatísticas";
+"History" = "Histórico";
+"Open Source" = "Código aberto";
+"Source Code" = "Código Fonte";
+"Report Translation Issue" = "Reportar Erro de Tradução";
+"Support" = "Suporte";
+"Cancel" = "Cancelar";
+
+/* Watch Sync */
+"Watch Sync" = "Sincronização Watch";
+"Watch Paired" = "Watch Emparelhado";
+"Watch Reachable" = "Watch Acessível";
+"Sync to Watch" = "Sincronizar com Watch";
+"Not reachable" = "Inacessível";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Ainda sem Histórico";
+"Tally events will appear here as you use the counter." = "Os eventos do contador aparecerão aqui à medida que o usares.";
+"Delete Events" = "Apagar Eventos";
+"Today" = "Hoje";
+"Yesterday" = "Ontem";
+
+/* Statistics View */
+"Total" = "Total";
+"Current Streak" = "Sequência Atual";
+"Longest Streak" = "Maior Sequência";
+"Days Tracked" = "Dias Registados";
+"Activity by Hour" = "Atividade por Hora";
+"Activity by Day of Week" = "Atividade por Dia da Semana";
+"Monthly Trend" = "Tendência Mensal";
+"Last 30 Days" = "Últimos 30 Dias";
+
+/* Color Scheme Names */
+"Vibrant" = "Vibrante";
+"Pastel" = "Pastel";
+"Monochrome" = "Monocromático";
+"Ocean" = "Oceano";
+"Sunset" = "Pôr do Sol";
+"Forest" = "Floresta";
+"Candy" = "Rebuçados";
+"Earth" = "Terra";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Copos de água";
+"Fruits eaten today" = "Frutas comidas hoje";
+"Vegetables conquered" = "Vegetais conquistados";
+"Hours of sleep" = "Horas de sono";
+"Steps walked" = "Passos dados";
+"Push-ups done" = "Flexões feitas";
+"Minutes exercised" = "Minutos de exercício";
+"Healthy snacks" = "Snacks saudáveis";
+"Deep breaths taken" = "Respirações profundas";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Vezes que disse 'wow'";
+"Cookies in my tummy" = "Bolachas na minha barriga";
+"Silly dances performed" = "Danças parvas executadas";
+"Dad jokes survived" = "Piadas secas sobrevividas";
+"Pillows fluffed" = "Almofadas fofadas";
+"Socks matched" = "Meias combinadas";
+"Clouds that look like animals" = "Nuvens que parecem animais";
+"Times the dog wagged its tail" = "Vezes que o cão abanou a cauda";
+"Sneezes today" = "Espirros hoje";
+"Yawns caught from others" = "Bocejos apanhados de outros";
+"High fives given" = "Toques de mão dados";
+"Bubbles blown" = "Bolas de sabão sopradas";
+"Puddles jumped in" = "Poças saltadas";
+"Funny faces made" = "Caretas feitas";
+"Songs sung in shower" = "Canções cantadas no duche";
+"Times I forgot why I walked into a room" = "Vezes que esqueci porque entrei numa divisão";
+"Dinosaur facts learned" = "Factos sobre dinossauros aprendidos";
+"Cards stacked before falling" = "Cartas empilhadas antes de cair";
+"Grapes caught in mouth" = "Uvas apanhadas com a boca";
+"Paper airplanes launched" = "Aviões de papel lançados";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Livros lidos";
+"Pages finished" = "Páginas terminadas";
+"Tasks completed" = "Tarefas concluídas";
+"Ideas had" = "Ideias tidas";
+"Problems solved" = "Problemas resolvidos";
+"Minutes of focus" = "Minutos de foco";
+"Emails conquered" = "Emails conquistados";
+"Meetings survived" = "Reuniões sobrevividas";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Abraços dados";
+"Thank yous said" = "Obrigados ditos";
+"Smiles shared" = "Sorrisos partilhados";
+"Compliments given" = "Elogios dados";
+"Acts of kindness" = "Atos de bondade";
+"Friends helped" = "Amigos ajudados";
+"Doors held open" = "Portas mantidas abertas";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Palavras novas aprendidas";
+"Questions asked" = "Perguntas feitas";
+"Facts discovered" = "Factos descobertos";
+"Languages practiced" = "Línguas praticadas";
+"Puzzles solved" = "Puzzles resolvidos";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Tens a certeza de que queres apagar todos os Trivits?";
+"Are you sure you want to reset '%@'?" = "Tens a certeza de que queres repor '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Tens a certeza de que queres repor todas as contagens a 0?";
+"Blue" = "Azul";
+"Cannot add" = "Não é possível adicionar";
+"Color - %@" = "Cor - %@";
+"Days in prison" = "Dias na prisão";
+"Default" = "Predefinido";
+"Delete all Trivits" = "Apagar todos os Trivits";
+"Drinks" = "Bebidas";
+"Feedback" = "Feedback";
+"Get started!" = "Vamos começar!";
+"Give your Trivit a name" = "Dá um nome ao teu Trivit";
+"Got it." = "Entendido.";
+"Green" = "Verde";
+"I am missing some things..." = "Faltam-me algumas coisas...";
+"I don't get it." = "Não percebo.";
+"I like what I see." = "Gosto do que vejo.";
+"I've seen better, I've seen worse." = "Já vi melhor, já vi pior.";
+"No" = "Não";
+"Off" = "Desligado";
+"On" = "Ligado";
+"Open or close your new Trivit with a single tap" = "Abre ou fecha o teu novo Trivit com um toque";
+"Please finish editing the title first." = "Por favor, termina a edição do título primeiro.";
+"Red" = "Vermelho";
+"Remove all" = "Remover tudo";
+"Reset Trivit" = "Repor Trivit";
+"Reset all" = "Repor tudo";
+"Reset all Trivits" = "Repor todos os Trivits";
+"Tap an image to rate:" = "Toca numa imagem para avaliar:";
+"Tap the minus to decrease the count, hold long to reset" = "Toca no menos para diminuir, prime longamente para repor";
+"Tap the pen to add a new Trivit" = "Toca na caneta para adicionar um novo Trivit";
+"Tap to increase the count" = "Toca para aumentar";
+"This is the best app ever!" = "Esta é a melhor app de sempre!";
+"Tutorial" = "Tutorial";
+"Vibration - %@" = "Vibração - %@";
+"Went swimming this year" = "Natação este ano";
+"Yes" = "Sim";
+"Your feedback (optional)" = "O teu feedback (opcional)";

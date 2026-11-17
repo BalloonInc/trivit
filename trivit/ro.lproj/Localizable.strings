@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Setări";
+"Done" = "Gata";
+
+/* Empty State */
+"No Trivits Yet" = "Niciun Trivit încă";
+"Tap + to create your first tally counter" = "Apasă + pentru a crea primul tău contor";
+
+/* Trivit Actions */
+"New Trivit" = "Trivit nou";
+"Rename" = "Redenumire";
+"Change Color" = "Schimbă culoarea";
+"Reset Count" = "Resetează contorul";
+"Delete" = "Șterge";
+"Title" = "Titlu";
+
+/* Settings - Sections */
+"General" = "General";
+"Color Scheme" = "Schemă de culori";
+"Sync Info" = "Info sincronizare";
+"About" = "Despre";
+"Data" = "Date";
+
+/* Settings - General */
+"Haptic Feedback" = "Feedback haptic";
+"Palette" = "Paletă";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Trivituri sincronizate";
+"Last Sync" = "Ultima sincronizare";
+"Device" = "Dispozitiv";
+
+/* Settings - About */
+"Version" = "Versiune";
+"Rate on App Store" = "Evaluează în App Store";
+"Send Feedback" = "Trimite feedback";
+
+/* Settings - Data */
+"Reset All Trivits" = "Resetează toate Triviturile";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Ascunde contorul la extindere";
+
+/* Deleted Items */
+"Deleted Items" = "Elemente șterse";
+"Recently Deleted" = "Șterse recent";
+"No Deleted Items" = "Niciun element șters";
+"Items you delete will appear here for 30 days" = "Elementele pe care le ștergi vor apărea aici timp de 30 de zile";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Elementele sunt șterse permanent după 30 de zile. Glisează la dreapta pentru restaurare, la stânga pentru ștergere permanentă.";
+"Empty Trash" = "Golește coșul";
+"Restore" = "Restaurare";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" șters";
+"Undo" = "Anulare";
+
+/* Tutorial */
+"Welcome to Trivit" = "Bine ai venit în Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Apasă + pentru a adăuga un contor. Apasă pe el ca numărul să crească. Mintea = aruncată în aer.";
+"That minus button? It does exactly what you think." = "Butonul ăla de minus? Face exact ce crezi.";
+"Long press anything. Secrets await." = "Apasă lung orice. Secrete te așteaptă.";
+"Swipe left to banish a counter forever." = "Glisează la stânga pentru a alunga un contor pentru totdeauna.";
+"Yeah, I know how to use a counter app, thx" = "Da, știu cum se folosește o aplicație de contor, mersi";
+"Tap + to add a new counter" = "Apasă + pentru a adăuga un contor nou";
+"Long press and drag to reorder" = "Apasă lung și trage pentru a reordona";
+"Long press a counter for more options" = "Apasă lung un contor pentru mai multe opțiuni";
+"Got it" = "Am înțeles";
+
+/* Context Menu */
+"Statistics" = "Statistici";
+"History" = "Istoric";
+"Open Source" = "Sursă deschisă";
+"Source Code" = "Cod sursă";
+"Report Translation Issue" = "Raportează o problemă de traducere";
+"Support" = "Asistență";
+"Cancel" = "Anulare";
+
+/* Watch Sync */
+"Watch Sync" = "Sincronizare Watch";
+"Watch Paired" = "Watch asociat";
+"Watch Reachable" = "Watch accesibil";
+"Sync to Watch" = "Sincronizare pe Watch";
+"Not reachable" = "Inaccesibil";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivituri";
+
+/* History View */
+"No History Yet" = "Niciun istoric încă";
+"Tally events will appear here as you use the counter." = "Evenimentele contorului vor apărea aici pe măsură ce îl folosești.";
+"Delete Events" = "Șterge evenimentele";
+"Today" = "Astăzi";
+"Yesterday" = "Ieri";
+
+/* Statistics View */
+"Total" = "Total";
+"Current Streak" = "Serie curentă";
+"Longest Streak" = "Cea mai lungă serie";
+"Days Tracked" = "Zile urmărite";
+"Activity by Hour" = "Activitate pe oră";
+"Activity by Day of Week" = "Activitate pe zi a săptămânii";
+"Monthly Trend" = "Tendință lunară";
+"Last 30 Days" = "Ultimele 30 de zile";
+
+/* Color Scheme Names */
+"Vibrant" = "Vibrant";
+"Pastel" = "Pastel";
+"Monochrome" = "Monocrom";
+"Ocean" = "Ocean";
+"Sunset" = "Apus";
+"Forest" = "Pădure";
+"Candy" = "Bomboane";
+"Earth" = "Pământ";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Pahare de apă";
+"Fruits eaten today" = "Fructe mâncate azi";
+"Vegetables conquered" = "Legume cucerite";
+"Hours of sleep" = "Ore de somn";
+"Steps walked" = "Pași parcurși";
+"Push-ups done" = "Flotări făcute";
+"Minutes exercised" = "Minute de exerciții";
+"Healthy snacks" = "Gustări sănătoase";
+"Deep breaths taken" = "Respirații adânci luate";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "De câte ori am zis 'wow'";
+"Cookies in my tummy" = "Biscuiți în burtica mea";
+"Silly dances performed" = "Dansuri caraghioase executate";
+"Dad jokes survived" = "Glume de tată supraviețuite";
+"Pillows fluffed" = "Perne bătute";
+"Socks matched" = "Șosete asortate";
+"Clouds that look like animals" = "Nori care arată ca animale";
+"Times the dog wagged its tail" = "De câte ori câinele a dat din coadă";
+"Sneezes today" = "Strănuturi azi";
+"Yawns caught from others" = "Căscaturi luate de la alții";
+"High fives given" = "Bătăi de palme date";
+"Bubbles blown" = "Bule suflate";
+"Puddles jumped in" = "Bălți în care am sărit";
+"Funny faces made" = "Fețe amuzante făcute";
+"Songs sung in shower" = "Cântece cântate la duș";
+"Times I forgot why I walked into a room" = "De câte ori am uitat de ce am intrat în cameră";
+"Dinosaur facts learned" = "Fapte despre dinozauri învățate";
+"Cards stacked before falling" = "Cărți stivuite înainte să cadă";
+"Grapes caught in mouth" = "Struguri prinși cu gura";
+"Paper airplanes launched" = "Avioane de hârtie lansate";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Cărți citite";
+"Pages finished" = "Pagini terminate";
+"Tasks completed" = "Sarcini finalizate";
+"Ideas had" = "Idei avute";
+"Problems solved" = "Probleme rezolvate";
+"Minutes of focus" = "Minute de concentrare";
+"Emails conquered" = "E-mailuri cucerite";
+"Meetings survived" = "Ședințe supraviețuite";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Îmbrățișări oferite";
+"Thank yous said" = "Mulțumiri spuse";
+"Smiles shared" = "Zâmbete împărțite";
+"Compliments given" = "Complimente oferite";
+"Acts of kindness" = "Fapte de bunătate";
+"Friends helped" = "Prieteni ajutați";
+"Doors held open" = "Uși ținute deschise";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Cuvinte noi învățate";
+"Questions asked" = "Întrebări puse";
+"Facts discovered" = "Fapte descoperite";
+"Languages practiced" = "Limbi exersate";
+"Puzzles solved" = "Puzzle-uri rezolvate";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Ești sigur că vrei să ștergi toate Triviturile?";
+"Are you sure you want to reset '%@'?" = "Ești sigur că vrei să resetezi '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Ești sigur că vrei să resetezi toate contoarele la 0?";
+"Blue" = "Albastru";
+"Cannot add" = "Nu se poate adăuga";
+"Color - %@" = "Culoare - %@";
+"Days in prison" = "Zile la închisoare";
+"Default" = "Implicit";
+"Delete all Trivits" = "Șterge toate Triviturile";
+"Drinks" = "Băuturi";
+"Feedback" = "Feedback";
+"Get started!" = "Să începem!";
+"Give your Trivit a name" = "Dă-i un nume Trivitului tău";
+"Got it." = "Am înțeles.";
+"Green" = "Verde";
+"I am missing some things..." = "Îmi lipsesc câteva lucruri...";
+"I don't get it." = "Nu înțeleg.";
+"I like what I see." = "Îmi place ce văd.";
+"I've seen better, I've seen worse." = "Merge.";
+"No" = "Nu";
+"Off" = "Oprit";
+"On" = "Pornit";
+"Open or close your new Trivit with a single tap" = "Deschide sau închide noul tău Trivit cu o singură apăsare";
+"Please finish editing the title first." = "Te rog finalizează editarea titlului mai întâi.";
+"Red" = "Roșu";
+"Remove all" = "Elimină tot";
+"Reset Trivit" = "Resetează Trivit";
+"Reset all" = "Resetează tot";
+"Reset all Trivits" = "Resetează toate Triviturile";
+"Tap an image to rate:" = "Apasă o imagine pentru a evalua:";
+"Tap the minus to decrease the count, hold long to reset" = "Apasă minus pentru a scădea, ține apăsat pentru a reseta";
+"Tap the pen to add a new Trivit" = "Apasă pe stilou pentru a adăuga un Trivit nou";
+"Tap to increase the count" = "Apasă pentru a crește";
+"This is the best app ever!" = "Aceasta e cea mai bună aplicație din toate timpurile!";
+"Tutorial" = "Tutorial";
+"Vibration - %@" = "Vibrație - %@";
+"Went swimming this year" = "Înot anul acesta";
+"Yes" = "Da";
+"Your feedback (optional)" = "Feedbackul tău (opțional)";

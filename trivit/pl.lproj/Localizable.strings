@@ -41,56 +41,21 @@
 /* Settings - Data */
 "Reset All Trivits" = "Wyzeruj wszystkie liczniki";
 
-/* Color Scheme Names */
-"Vibrant" = "Żywe";
-"Pastel" = "Pastelowe";
-"Monochrome" = "Monochromatyczne";
-"Ocean" = "Ocean";
-"Sunset" = "Zachód słońca";
-"Forest" = "Las";
-"Candy" = "Cukierki";
-"Earth" = "Ziemia";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Ukryj licznik po rozwinięciu";
 
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "Czy na pewno chcesz usunąć wszystkie liczniki?";
-"Are you sure you want to reset '%@'?" = "Czy na pewno chcesz wyzerować '%@'?";
-"Are you sure you want to reset all counts to 0?" = "Czy na pewno chcesz wyzerować wszystkie liczniki?";
-"Blue" = "Niebieski";
-"Cannot add" = "Nie można dodać";
-"Color - %@" = "Kolor - %@";
-"Days in prison" = "Dni w więzieniu";
-"Default" = "Domyślny";
-"Delete all Trivits" = "Usuń wszystkie liczniki";
-"Drinks" = "Napoje";
-"Feedback" = "Opinia";
-"Get started!" = "Zaczynaj!";
-"Give your Trivit a name" = "Nadaj nazwę licznikowi";
-"Got it." = "Rozumiem.";
-"Green" = "Zielony";
-"I am missing some things..." = "Brakuje mi niektórych rzeczy...";
-"I don't get it." = "Nie rozumiem.";
-"I like what I see." = "Podoba mi się.";
-"I've seen better, I've seen worse." = "Widziałem lepsze i gorsze.";
-"No" = "Nie";
-"Off" = "Wył.";
-"On" = "Wł.";
-"Open or close your new Trivit with a single tap" = "Otwórz lub zamknij licznik jednym dotknięciem";
-"Please finish editing the title first." = "Najpierw zakończ edycję tytułu.";
-"Red" = "Czerwony";
-"Remove all" = "Usuń wszystko";
-"Reset Trivit" = "Wyzeruj licznik";
-"Reset all" = "Wyzeruj wszystko";
-"Reset all Trivits" = "Wyzeruj wszystkie liczniki";
-"Tap an image to rate:" = "Dotknij obrazek, aby ocenić:";
-"Tap the minus to decrease the count, hold long to reset" = "Dotknij minus, aby zmniejszyć, przytrzymaj, aby wyzerować";
-"Tap the pen to add a new Trivit" = "Dotknij pióro, aby dodać nowy licznik";
-"Tap to increase the count" = "Dotknij, aby zwiększyć";
-"This is the best app ever!" = "To najlepsza aplikacja w historii!";
-"Tutorial" = "Samouczek";
-"Vibration - %@" = "Wibracje - %@";
-"Went swimming this year" = "Pływanie w tym roku";
-"Yes" = "Tak";
-"Your feedback (optional)" = "Twoja opinia (opcjonalnie)";
+/* Deleted Items */
+"Deleted Items" = "Usunięte";
+"Recently Deleted" = "Ostatnio usunięte";
+"No Deleted Items" = "Brak usuniętych";
+"Items you delete will appear here for 30 days" = "Usunięte elementy pojawią się tutaj na 30 dni";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Elementy są trwale usuwane po 30 dniach. Przesuń w prawo, aby przywrócić, w lewo, aby usunąć na zawsze.";
+"Empty Trash" = "Opróżnij kosz";
+"Restore" = "Przywróć";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Usunięto \"%@\"";
+"Undo" = "Cofnij";
 
 /* Tutorial */
 "Welcome to Trivit" = "Witaj w Trivit";
@@ -103,6 +68,53 @@
 "Long press and drag to reorder" = "Przytrzymaj i przeciągnij, aby zmienić kolejność";
 "Long press a counter for more options" = "Przytrzymaj licznik, aby zobaczyć więcej opcji";
 "Got it" = "Rozumiem";
+
+/* Context Menu */
+"Statistics" = "Statystyki";
+"History" = "Historia";
+"Open Source" = "Otwarte źródło";
+"Source Code" = "Kod źródłowy";
+"Report Translation Issue" = "Zgłoś błąd w tłumaczeniu";
+"Support" = "Wsparcie";
+"Cancel" = "Anuluj";
+
+/* Watch Sync */
+"Watch Sync" = "Synchronizacja z zegarkiem";
+"Watch Paired" = "Zegarek sparowany";
+"Watch Reachable" = "Zegarek dostępny";
+"Sync to Watch" = "Synchronizuj z zegarkiem";
+"Not reachable" = "Niedostępny";
+
+/* Info Section */
+"Info" = "Informacje";
+"Trivits" = "Liczniki";
+
+/* History View */
+"No History Yet" = "Brak historii";
+"Tally events will appear here as you use the counter." = "Zdarzenia pojawią się tutaj w miarę korzystania z licznika.";
+"Delete Events" = "Usuń zdarzenia";
+"Today" = "Dzisiaj";
+"Yesterday" = "Wczoraj";
+
+/* Statistics View */
+"Total" = "Łącznie";
+"Current Streak" = "Aktualna seria";
+"Longest Streak" = "Najdłuższa seria";
+"Days Tracked" = "Dni śledzonych";
+"Activity by Hour" = "Aktywność wg godziny";
+"Activity by Day of Week" = "Aktywność wg dnia tygodnia";
+"Monthly Trend" = "Trend miesięczny";
+"Last 30 Days" = "Ostatnie 30 dni";
+
+/* Color Scheme Names */
+"Vibrant" = "Żywe";
+"Pastel" = "Pastelowe";
+"Monochrome" = "Monochromatyczne";
+"Ocean" = "Ocean";
+"Sunset" = "Zachód słońca";
+"Forest" = "Las";
+"Candy" = "Cukierki";
+"Earth" = "Ziemia";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Szklanki wody";
@@ -162,3 +174,44 @@
 "Facts discovered" = "Odkryte fakty";
 "Languages practiced" = "Ćwiczone języki";
 "Puzzles solved" = "Rozwiązane łamigłówki";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Czy na pewno chcesz usunąć wszystkie liczniki?";
+"Are you sure you want to reset '%@'?" = "Czy na pewno chcesz wyzerować '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Czy na pewno chcesz wyzerować wszystkie liczniki?";
+"Blue" = "Niebieski";
+"Cannot add" = "Nie można dodać";
+"Color - %@" = "Kolor - %@";
+"Days in prison" = "Dni w więzieniu";
+"Default" = "Domyślny";
+"Delete all Trivits" = "Usuń wszystkie liczniki";
+"Drinks" = "Napoje";
+"Feedback" = "Opinia";
+"Get started!" = "Zaczynaj!";
+"Give your Trivit a name" = "Nadaj nazwę licznikowi";
+"Got it." = "Rozumiem.";
+"Green" = "Zielony";
+"I am missing some things..." = "Brakuje mi niektórych rzeczy...";
+"I don't get it." = "Nie rozumiem.";
+"I like what I see." = "Podoba mi się.";
+"I've seen better, I've seen worse." = "Widziałem lepsze i gorsze.";
+"No" = "Nie";
+"Off" = "Wył.";
+"On" = "Wł.";
+"Open or close your new Trivit with a single tap" = "Otwórz lub zamknij licznik jednym dotknięciem";
+"Please finish editing the title first." = "Najpierw zakończ edycję tytułu.";
+"Red" = "Czerwony";
+"Remove all" = "Usuń wszystko";
+"Reset Trivit" = "Wyzeruj licznik";
+"Reset all" = "Wyzeruj wszystko";
+"Reset all Trivits" = "Wyzeruj wszystkie liczniki";
+"Tap an image to rate:" = "Dotknij obrazek, aby ocenić:";
+"Tap the minus to decrease the count, hold long to reset" = "Dotknij minus, aby zmniejszyć, przytrzymaj, aby wyzerować";
+"Tap the pen to add a new Trivit" = "Dotknij pióro, aby dodać nowy licznik";
+"Tap to increase the count" = "Dotknij, aby zwiększyć";
+"This is the best app ever!" = "To najlepsza aplikacja w historii!";
+"Tutorial" = "Samouczek";
+"Vibration - %@" = "Wibracje - %@";
+"Went swimming this year" = "Pływanie w tym roku";
+"Yes" = "Tak";
+"Your feedback (optional)" = "Twoja opinia (opcjonalnie)";

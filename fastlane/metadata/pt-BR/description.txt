@@ -1,0 +1,36 @@
+Trivit é um aplicativo de contagem lindamente simples que ajuda você a acompanhar qualquer coisa na sua vida. Seja contando hábitos, treinos, metas diárias ou inventário, o Trivit torna tudo fácil e agradável.
+
+SIMPLES E INTUITIVO
+Basta tocar para contar. Sem configuração complicada, sem curva de aprendizado. Crie um novo contador em segundos e comece a acompanhar imediatamente. A interface limpa e sem distrações mantém você focado no que importa.
+
+APLICATIVO APPLE WATCH
+Acompanhe suas contagens direto do pulso com o novíssimo aplicativo Apple Watch. Suas contagens sincronizam instantaneamente entre iPhone e Apple Watch, para que você esteja sempre atualizado, independentemente do dispositivo que usar.
+
+LINDOS TEMAS DE CORES
+Escolha entre 8 temas de cores vibrantes para personalizar seus contadores. Cada contador tem sua própria cor distintiva, facilitando a identificação de relance. O design colorido e plano é bonito e funcional.
+
+CONTE QUALQUER COISA
+- Hábitos e rotinas diárias
+- Repetições e séries de treino
+- Contagens de inventário
+- Placar de jogos
+- Observação de pássaros ou vida selvagem
+- Copos de água consumidos
+- Passos em direção a uma meta
+- Qualquer outra coisa que você precise contar!
+
+SINCRONIZE EM TODOS OS DISPOSITIVOS
+Seus contadores sincronizam automaticamente em todos os seus dispositivos usando iCloud. Comece a contar no iPhone e continue no Apple Watch, ou vice-versa. Seus dados estão sempre com você.
+
+PRIVACIDADE EM PRIMEIRO LUGAR
+Seus dados ficam nos seus dispositivos e na sua conta pessoal do iCloud. Não coletamos nenhuma informação pessoal, e não há análises ou rastreamento. Suas contagens são da sua conta.
+
+SEM ANÚNCIOS, SEM ASSINATURAS
+O Trivit é completamente gratuito, sem anúncios, sem compras no app e sem assinaturas. Apenas um ótimo app que faz o que promete.
+
+CÓDIGO ABERTO
+O Trivit é código aberto! Você pode ver o código, sugerir melhorias ou contribuir no GitHub em https://github.com/BalloonInc/trivit-ios
+
+A versão 5.0 é uma reescrita completa usando a mais recente tecnologia SwiftUI da Apple, oferecendo desempenho aprimorado e uma experiência do usuário refinada, mantendo a simplicidade que torna o Trivit incrível.
+
+Baixe o Trivit hoje e comece a contar o que importa para você.

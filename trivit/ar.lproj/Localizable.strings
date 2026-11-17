@@ -41,56 +41,21 @@
 /* Settings - Data */
 "Reset All Trivits" = "إعادة تعيين جميع العدادات";
 
-/* Color Scheme Names */
-"Vibrant" = "نابض بالحياة";
-"Pastel" = "باستيل";
-"Monochrome" = "أحادي اللون";
-"Ocean" = "المحيط";
-"Sunset" = "الغروب";
-"Forest" = "الغابة";
-"Candy" = "حلوى";
-"Earth" = "الأرض";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "إخفاء العداد عند التوسيع";
 
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "هل أنت متأكد من حذف جميع العدادات؟";
-"Are you sure you want to reset '%@'?" = "هل أنت متأكد من إعادة تعيين '%@'؟";
-"Are you sure you want to reset all counts to 0?" = "هل أنت متأكد من إعادة تعيين جميع الأعداد إلى 0؟";
-"Blue" = "أزرق";
-"Cannot add" = "لا يمكن الإضافة";
-"Color - %@" = "اللون - %@";
-"Days in prison" = "أيام في السجن";
-"Default" = "افتراضي";
-"Delete all Trivits" = "حذف جميع العدادات";
-"Drinks" = "مشروبات";
-"Feedback" = "ملاحظات";
-"Get started!" = "ابدأ الآن!";
-"Give your Trivit a name" = "أعط عدادك اسماً";
-"Got it." = "فهمت.";
-"Green" = "أخضر";
-"I am missing some things..." = "أشعر بنقص بعض الأشياء...";
-"I don't get it." = "لم أفهم.";
-"I like what I see." = "يعجبني ما أراه.";
-"I've seen better, I've seen worse." = "رأيت أفضل ورأيت أسوأ.";
-"No" = "لا";
-"Off" = "إيقاف";
-"On" = "تشغيل";
-"Open or close your new Trivit with a single tap" = "افتح أو أغلق عدادك بنقرة واحدة";
-"Please finish editing the title first." = "يرجى إنهاء تحرير العنوان أولاً.";
-"Red" = "أحمر";
-"Remove all" = "إزالة الكل";
-"Reset Trivit" = "إعادة تعيين العداد";
-"Reset all" = "إعادة تعيين الكل";
-"Reset all Trivits" = "إعادة تعيين جميع العدادات";
-"Tap an image to rate:" = "اضغط على صورة للتقييم:";
-"Tap the minus to decrease the count, hold long to reset" = "اضغط على الناقص لتقليل العد، اضغط مطولاً للتعيين";
-"Tap the pen to add a new Trivit" = "اضغط على القلم لإضافة عداد جديد";
-"Tap to increase the count" = "اضغط لزيادة العد";
-"This is the best app ever!" = "هذا أفضل تطبيق على الإطلاق!";
-"Tutorial" = "الدليل";
-"Vibration - %@" = "الاهتزاز - %@";
-"Went swimming this year" = "السباحة هذا العام";
-"Yes" = "نعم";
-"Your feedback (optional)" = "ملاحظاتك (اختياري)";
+/* Deleted Items */
+"Deleted Items" = "العناصر المحذوفة";
+"Recently Deleted" = "المحذوفة مؤخراً";
+"No Deleted Items" = "لا توجد عناصر محذوفة";
+"Items you delete will appear here for 30 days" = "العناصر التي تحذفها ستظهر هنا لمدة 30 يوماً";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "تُحذف العناصر نهائياً بعد 30 يوماً. اسحب لليمين للاستعادة، اسحب لليسار للحذف النهائي.";
+"Empty Trash" = "إفراغ سلة المحذوفات";
+"Restore" = "استعادة";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "تم حذف \"%@\"";
+"Undo" = "تراجع";
 
 /* Tutorial */
 "Welcome to Trivit" = "مرحباً بك في Trivit";
@@ -103,6 +68,53 @@
 "Long press and drag to reorder" = "اضغط مطولاً واسحب لإعادة الترتيب";
 "Long press a counter for more options" = "اضغط مطولاً على عداد لمزيد من الخيارات";
 "Got it" = "فهمت";
+
+/* Context Menu */
+"Statistics" = "الإحصائيات";
+"History" = "السجل";
+"Open Source" = "مفتوح المصدر";
+"Source Code" = "الكود المصدري";
+"Report Translation Issue" = "الإبلاغ عن مشكلة في الترجمة";
+"Support" = "الدعم";
+"Cancel" = "إلغاء";
+
+/* Watch Sync */
+"Watch Sync" = "مزامنة الساعة";
+"Watch Paired" = "الساعة مقترنة";
+"Watch Reachable" = "الساعة متصلة";
+"Sync to Watch" = "مزامنة مع الساعة";
+"Not reachable" = "غير متصلة";
+
+/* Info Section */
+"Info" = "معلومات";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "لا يوجد سجل بعد";
+"Tally events will appear here as you use the counter." = "ستظهر أحداث العد هنا عند استخدام العداد.";
+"Delete Events" = "حذف الأحداث";
+"Today" = "اليوم";
+"Yesterday" = "أمس";
+
+/* Statistics View */
+"Total" = "الإجمالي";
+"Current Streak" = "السلسلة الحالية";
+"Longest Streak" = "أطول سلسلة";
+"Days Tracked" = "الأيام المتتبعة";
+"Activity by Hour" = "النشاط حسب الساعة";
+"Activity by Day of Week" = "النشاط حسب يوم الأسبوع";
+"Monthly Trend" = "الاتجاه الشهري";
+"Last 30 Days" = "آخر 30 يوماً";
+
+/* Color Scheme Names */
+"Vibrant" = "نابض بالحياة";
+"Pastel" = "باستيل";
+"Monochrome" = "أحادي اللون";
+"Ocean" = "المحيط";
+"Sunset" = "الغروب";
+"Forest" = "الغابة";
+"Candy" = "حلوى";
+"Earth" = "الأرض";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "أكواب الماء";
@@ -162,3 +174,44 @@
 "Facts discovered" = "حقائق اكتشفتها";
 "Languages practiced" = "لغات تدربت عليها";
 "Puzzles solved" = "ألغاز حللتها";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "هل أنت متأكد من حذف جميع العدادات؟";
+"Are you sure you want to reset '%@'?" = "هل أنت متأكد من إعادة تعيين '%@'؟";
+"Are you sure you want to reset all counts to 0?" = "هل أنت متأكد من إعادة تعيين جميع الأعداد إلى 0؟";
+"Blue" = "أزرق";
+"Cannot add" = "لا يمكن الإضافة";
+"Color - %@" = "اللون - %@";
+"Days in prison" = "أيام في السجن";
+"Default" = "افتراضي";
+"Delete all Trivits" = "حذف جميع العدادات";
+"Drinks" = "مشروبات";
+"Feedback" = "ملاحظات";
+"Get started!" = "ابدأ الآن!";
+"Give your Trivit a name" = "أعط عدادك اسماً";
+"Got it." = "فهمت.";
+"Green" = "أخضر";
+"I am missing some things..." = "أشعر بنقص بعض الأشياء...";
+"I don't get it." = "لم أفهم.";
+"I like what I see." = "يعجبني ما أراه.";
+"I've seen better, I've seen worse." = "رأيت أفضل ورأيت أسوأ.";
+"No" = "لا";
+"Off" = "إيقاف";
+"On" = "تشغيل";
+"Open or close your new Trivit with a single tap" = "افتح أو أغلق عدادك بنقرة واحدة";
+"Please finish editing the title first." = "يرجى إنهاء تحرير العنوان أولاً.";
+"Red" = "أحمر";
+"Remove all" = "إزالة الكل";
+"Reset Trivit" = "إعادة تعيين العداد";
+"Reset all" = "إعادة تعيين الكل";
+"Reset all Trivits" = "إعادة تعيين جميع العدادات";
+"Tap an image to rate:" = "اضغط على صورة للتقييم:";
+"Tap the minus to decrease the count, hold long to reset" = "اضغط على الناقص لتقليل العد، اضغط مطولاً للتعيين";
+"Tap the pen to add a new Trivit" = "اضغط على القلم لإضافة عداد جديد";
+"Tap to increase the count" = "اضغط لزيادة العد";
+"This is the best app ever!" = "هذا أفضل تطبيق على الإطلاق!";
+"Tutorial" = "الدليل";
+"Vibration - %@" = "الاهتزاز - %@";
+"Went swimming this year" = "السباحة هذا العام";
+"Yes" = "نعم";
+"Your feedback (optional)" = "ملاحظاتك (اختياري)";

@@ -41,57 +41,6 @@
 /* Settings - Data */
 "Reset All Trivits" = "Alle Zähler zurücksetzen";
 
-/* Color Scheme Names */
-"Vibrant" = "Lebendig";
-"Pastel" = "Pastell";
-"Monochrome" = "Einfarbig";
-"Ocean" = "Ozean";
-"Sunset" = "Sonnenuntergang";
-"Forest" = "Wald";
-"Candy" = "Bonbon";
-"Earth" = "Erde";
-
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "Möchtest du wirklich alle Zähler löschen?";
-"Are you sure you want to reset '%@'?" = "Möchtest du '%@' wirklich zurücksetzen?";
-"Are you sure you want to reset all counts to 0?" = "Möchtest du wirklich alle Zähler auf 0 setzen?";
-"Blue" = "Blau";
-"Cannot add" = "Hinzufügen nicht möglich";
-"Color - %@" = "Farbe - %@";
-"Days in prison" = "Tage im Gefängnis";
-"Default" = "Standard";
-"Delete all Trivits" = "Alle Zähler löschen";
-"Drinks" = "Getränke";
-"Feedback" = "Feedback";
-"Get started!" = "Los geht's!";
-"Give your Trivit a name" = "Gib deinem Zähler einen Namen";
-"Got it." = "Verstanden.";
-"Green" = "Grün";
-"I am missing some things..." = "Mir fehlen einige Dinge...";
-"I don't get it." = "Ich verstehe es nicht.";
-"I like what I see." = "Gefällt mir.";
-"I've seen better, I've seen worse." = "Geht so.";
-"No" = "Nein";
-"Off" = "Aus";
-"On" = "An";
-"Open or close your new Trivit with a single tap" = "Öffne oder schließe deinen Zähler mit einem Tippen";
-"Please finish editing the title first." = "Bitte beende zuerst die Bearbeitung des Titels.";
-"Red" = "Rot";
-"Remove all" = "Alle entfernen";
-"Reset Trivit" = "Zähler zurücksetzen";
-"Reset all" = "Alle zurücksetzen";
-"Reset all Trivits" = "Alle Zähler zurücksetzen";
-"Tap an image to rate:" = "Tippe auf ein Bild zum Bewerten:";
-"Tap the minus to decrease the count, hold long to reset" = "Tippe auf Minus zum Verringern, halte gedrückt zum Zurücksetzen";
-"Tap the pen to add a new Trivit" = "Tippe auf den Stift für einen neuen Zähler";
-"Tap to increase the count" = "Tippen zum Erhöhen";
-"This is the best app ever!" = "Das ist die beste App überhaupt!";
-"Tutorial" = "Anleitung";
-"Vibration - %@" = "Vibration - %@";
-"Went swimming this year" = "Schwimmen dieses Jahr";
-"Yes" = "Ja";
-"Your feedback (optional)" = "Dein Feedback (optional)";
-
 /* Settings - General (new) */
 "Hide Counter When Expanded" = "Zähler ausblenden wenn erweitert";
 
@@ -126,6 +75,46 @@
 "Open Source" = "Open Source";
 "Source Code" = "Quellcode";
 "Report Translation Issue" = "Übersetzungsfehler melden";
+"Support" = "Support";
+"Cancel" = "Abbrechen";
+
+/* Watch Sync */
+"Watch Sync" = "Watch-Synchronisierung";
+"Watch Paired" = "Watch gekoppelt";
+"Watch Reachable" = "Watch erreichbar";
+"Sync to Watch" = "Zur Watch synchronisieren";
+"Not reachable" = "Nicht erreichbar";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Noch kein Verlauf";
+"Tally events will appear here as you use the counter." = "Zählereignisse erscheinen hier, wenn du den Zähler benutzt.";
+"Delete Events" = "Ereignisse löschen";
+"Today" = "Heute";
+"Yesterday" = "Gestern";
+
+/* Statistics View */
+"Total" = "Gesamt";
+"Current Streak" = "Aktuelle Serie";
+"Longest Streak" = "Längste Serie";
+"Days Tracked" = "Tage erfasst";
+"Activity by Hour" = "Aktivität nach Stunde";
+"Activity by Day of Week" = "Aktivität nach Wochentag";
+"Monthly Trend" = "Monatstrend";
+"Last 30 Days" = "Letzte 30 Tage";
+
+/* Color Scheme Names */
+"Vibrant" = "Lebendig";
+"Pastel" = "Pastell";
+"Monochrome" = "Einfarbig";
+"Ocean" = "Ozean";
+"Sunset" = "Sonnenuntergang";
+"Forest" = "Wald";
+"Candy" = "Bonbon";
+"Earth" = "Erde";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Gläser Wasser";
@@ -185,3 +174,44 @@
 "Facts discovered" = "Fakten entdeckt";
 "Languages practiced" = "Sprachen geübt";
 "Puzzles solved" = "Rätsel gelöst";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Möchtest du wirklich alle Zähler löschen?";
+"Are you sure you want to reset '%@'?" = "Möchtest du '%@' wirklich zurücksetzen?";
+"Are you sure you want to reset all counts to 0?" = "Möchtest du wirklich alle Zähler auf 0 setzen?";
+"Blue" = "Blau";
+"Cannot add" = "Hinzufügen nicht möglich";
+"Color - %@" = "Farbe - %@";
+"Days in prison" = "Tage im Gefängnis";
+"Default" = "Standard";
+"Delete all Trivits" = "Alle Zähler löschen";
+"Drinks" = "Getränke";
+"Feedback" = "Feedback";
+"Get started!" = "Los geht's!";
+"Give your Trivit a name" = "Gib deinem Zähler einen Namen";
+"Got it." = "Verstanden.";
+"Green" = "Grün";
+"I am missing some things..." = "Mir fehlen einige Dinge...";
+"I don't get it." = "Ich verstehe es nicht.";
+"I like what I see." = "Gefällt mir.";
+"I've seen better, I've seen worse." = "Geht so.";
+"No" = "Nein";
+"Off" = "Aus";
+"On" = "An";
+"Open or close your new Trivit with a single tap" = "Öffne oder schließe deinen Zähler mit einem Tippen";
+"Please finish editing the title first." = "Bitte beende zuerst die Bearbeitung des Titels.";
+"Red" = "Rot";
+"Remove all" = "Alle entfernen";
+"Reset Trivit" = "Zähler zurücksetzen";
+"Reset all" = "Alle zurücksetzen";
+"Reset all Trivits" = "Alle Zähler zurücksetzen";
+"Tap an image to rate:" = "Tippe auf ein Bild zum Bewerten:";
+"Tap the minus to decrease the count, hold long to reset" = "Tippe auf Minus zum Verringern, halte gedrückt zum Zurücksetzen";
+"Tap the pen to add a new Trivit" = "Tippe auf den Stift für einen neuen Zähler";
+"Tap to increase the count" = "Tippen zum Erhöhen";
+"This is the best app ever!" = "Das ist die beste App überhaupt!";
+"Tutorial" = "Anleitung";
+"Vibration - %@" = "Vibration - %@";
+"Went swimming this year" = "Schwimmen dieses Jahr";
+"Yes" = "Ja";
+"Your feedback (optional)" = "Dein Feedback (optional)";

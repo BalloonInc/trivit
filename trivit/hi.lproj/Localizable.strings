@@ -41,56 +41,21 @@
 /* Settings - Data */
 "Reset All Trivits" = "सभी काउंटर रीसेट करें";
 
-/* Color Scheme Names */
-"Vibrant" = "जीवंत";
-"Pastel" = "पेस्टल";
-"Monochrome" = "एकरंग";
-"Ocean" = "सागर";
-"Sunset" = "सूर्यास्त";
-"Forest" = "जंगल";
-"Candy" = "कैंडी";
-"Earth" = "धरती";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "विस्तार होने पर काउंटर छुपाएं";
 
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "क्या आप वाकई सभी काउंटर हटाना चाहते हैं?";
-"Are you sure you want to reset '%@'?" = "क्या आप वाकई '%@' रीसेट करना चाहते हैं?";
-"Are you sure you want to reset all counts to 0?" = "क्या आप वाकई सभी गिनती 0 पर रीसेट करना चाहते हैं?";
-"Blue" = "नीला";
-"Cannot add" = "जोड़ नहीं सकते";
-"Color - %@" = "रंग - %@";
-"Days in prison" = "जेल में दिन";
-"Default" = "डिफ़ॉल्ट";
-"Delete all Trivits" = "सभी काउंटर हटाएं";
-"Drinks" = "पेय";
-"Feedback" = "फीडबैक";
-"Get started!" = "शुरू करें!";
-"Give your Trivit a name" = "अपने काउंटर को नाम दें";
-"Got it." = "समझ गया।";
-"Green" = "हरा";
-"I am missing some things..." = "मुझे कुछ चीज़ें याद आ रही हैं...";
-"I don't get it." = "मुझे समझ नहीं आया।";
-"I like what I see." = "मुझे यह पसंद है।";
-"I've seen better, I've seen worse." = "ठीक-ठाक है।";
-"No" = "नहीं";
-"Off" = "बंद";
-"On" = "चालू";
-"Open or close your new Trivit with a single tap" = "एक टैप से अपना काउंटर खोलें या बंद करें";
-"Please finish editing the title first." = "कृपया पहले शीर्षक संपादन पूरा करें।";
-"Red" = "लाल";
-"Remove all" = "सभी हटाएं";
-"Reset Trivit" = "काउंटर रीसेट करें";
-"Reset all" = "सभी रीसेट करें";
-"Reset all Trivits" = "सभी काउंटर रीसेट करें";
-"Tap an image to rate:" = "रेट करने के लिए छवि टैप करें:";
-"Tap the minus to decrease the count, hold long to reset" = "गिनती कम करने के लिए माइनस टैप करें, रीसेट के लिए लंबे समय तक दबाएं";
-"Tap the pen to add a new Trivit" = "नया काउंटर जोड़ने के लिए पेन टैप करें";
-"Tap to increase the count" = "गिनती बढ़ाने के लिए टैप करें";
-"This is the best app ever!" = "यह सबसे अच्छा ऐप है!";
-"Tutorial" = "ट्यूटोरियल";
-"Vibration - %@" = "कंपन - %@";
-"Went swimming this year" = "इस साल तैराकी";
-"Yes" = "हां";
-"Your feedback (optional)" = "आपकी प्रतिक्रिया (वैकल्पिक)";
+/* Deleted Items */
+"Deleted Items" = "हटाए गए आइटम";
+"Recently Deleted" = "हाल ही में हटाए गए";
+"No Deleted Items" = "कोई हटाए गए आइटम नहीं";
+"Items you delete will appear here for 30 days" = "आपके द्वारा हटाए गए आइटम 30 दिनों तक यहां दिखाई देंगे";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "आइटम 30 दिनों के बाद स्थायी रूप से हटा दिए जाते हैं। वापस लाने के लिए दाएं स्वाइप करें, स्थायी रूप से हटाने के लिए बाएं स्वाइप करें।";
+"Empty Trash" = "ट्रैश खाली करें";
+"Restore" = "वापस लाएं";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" हटाया गया";
+"Undo" = "पूर्ववत करें";
 
 /* Tutorial */
 "Welcome to Trivit" = "Trivit में आपका स्वागत है";
@@ -103,6 +68,53 @@
 "Long press and drag to reorder" = "क्रम बदलने के लिए लॉन्ग प्रेस करें और खींचें";
 "Long press a counter for more options" = "अधिक विकल्पों के लिए काउंटर पर लॉन्ग प्रेस करें";
 "Got it" = "समझ गया";
+
+/* Context Menu */
+"Statistics" = "आंकड़े";
+"History" = "इतिहास";
+"Open Source" = "ओपन सोर्स";
+"Source Code" = "सोर्स कोड";
+"Report Translation Issue" = "अनुवाद समस्या की रिपोर्ट करें";
+"Support" = "सहायता";
+"Cancel" = "रद्द करें";
+
+/* Watch Sync */
+"Watch Sync" = "वॉच सिंक";
+"Watch Paired" = "वॉच जुड़ी हुई";
+"Watch Reachable" = "वॉच उपलब्ध";
+"Sync to Watch" = "वॉच पर सिंक करें";
+"Not reachable" = "उपलब्ध नहीं";
+
+/* Info Section */
+"Info" = "जानकारी";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "अभी कोई इतिहास नहीं";
+"Tally events will appear here as you use the counter." = "काउंटर का उपयोग करते समय गिनती के इवेंट यहां दिखाई देंगे।";
+"Delete Events" = "इवेंट हटाएं";
+"Today" = "आज";
+"Yesterday" = "कल";
+
+/* Statistics View */
+"Total" = "कुल";
+"Current Streak" = "वर्तमान स्ट्रीक";
+"Longest Streak" = "सबसे लंबी स्ट्रीक";
+"Days Tracked" = "ट्रैक किए गए दिन";
+"Activity by Hour" = "घंटे के अनुसार गतिविधि";
+"Activity by Day of Week" = "सप्ताह के दिन के अनुसार गतिविधि";
+"Monthly Trend" = "मासिक रुझान";
+"Last 30 Days" = "पिछले 30 दिन";
+
+/* Color Scheme Names */
+"Vibrant" = "जीवंत";
+"Pastel" = "पेस्टल";
+"Monochrome" = "एकरंग";
+"Ocean" = "सागर";
+"Sunset" = "सूर्यास्त";
+"Forest" = "जंगल";
+"Candy" = "कैंडी";
+"Earth" = "धरती";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "पानी के गिलास";
@@ -162,3 +174,44 @@
 "Facts discovered" = "फैक्ट्स खोजे";
 "Languages practiced" = "भाषाएं प्रैक्टिस कीं";
 "Puzzles solved" = "पहेलियां सुलझाईं";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "क्या आप वाकई सभी काउंटर हटाना चाहते हैं?";
+"Are you sure you want to reset '%@'?" = "क्या आप वाकई '%@' रीसेट करना चाहते हैं?";
+"Are you sure you want to reset all counts to 0?" = "क्या आप वाकई सभी गिनती 0 पर रीसेट करना चाहते हैं?";
+"Blue" = "नीला";
+"Cannot add" = "जोड़ नहीं सकते";
+"Color - %@" = "रंग - %@";
+"Days in prison" = "जेल में दिन";
+"Default" = "डिफ़ॉल्ट";
+"Delete all Trivits" = "सभी काउंटर हटाएं";
+"Drinks" = "पेय";
+"Feedback" = "फीडबैक";
+"Get started!" = "शुरू करें!";
+"Give your Trivit a name" = "अपने काउंटर को नाम दें";
+"Got it." = "समझ गया।";
+"Green" = "हरा";
+"I am missing some things..." = "मुझे कुछ चीज़ें याद आ रही हैं...";
+"I don't get it." = "मुझे समझ नहीं आया।";
+"I like what I see." = "मुझे यह पसंद है।";
+"I've seen better, I've seen worse." = "ठीक-ठाक है।";
+"No" = "नहीं";
+"Off" = "बंद";
+"On" = "चालू";
+"Open or close your new Trivit with a single tap" = "एक टैप से अपना काउंटर खोलें या बंद करें";
+"Please finish editing the title first." = "कृपया पहले शीर्षक संपादन पूरा करें।";
+"Red" = "लाल";
+"Remove all" = "सभी हटाएं";
+"Reset Trivit" = "काउंटर रीसेट करें";
+"Reset all" = "सभी रीसेट करें";
+"Reset all Trivits" = "सभी काउंटर रीसेट करें";
+"Tap an image to rate:" = "रेट करने के लिए छवि टैप करें:";
+"Tap the minus to decrease the count, hold long to reset" = "गिनती कम करने के लिए माइनस टैप करें, रीसेट के लिए लंबे समय तक दबाएं";
+"Tap the pen to add a new Trivit" = "नया काउंटर जोड़ने के लिए पेन टैप करें";
+"Tap to increase the count" = "गिनती बढ़ाने के लिए टैप करें";
+"This is the best app ever!" = "यह सबसे अच्छा ऐप है!";
+"Tutorial" = "ट्यूटोरियल";
+"Vibration - %@" = "कंपन - %@";
+"Went swimming this year" = "इस साल तैराकी";
+"Yes" = "हां";
+"Your feedback (optional)" = "आपकी प्रतिक्रिया (वैकल्पिक)";

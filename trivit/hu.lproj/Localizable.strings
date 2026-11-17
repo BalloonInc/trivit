@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Beállítások";
+"Done" = "Kész";
+
+/* Empty State */
+"No Trivits Yet" = "Még nincsenek Trivitek";
+"Tap + to create your first tally counter" = "Koppints a +-ra az első számláló létrehozásához";
+
+/* Trivit Actions */
+"New Trivit" = "Új Trivit";
+"Rename" = "Átnevezés";
+"Change Color" = "Szín módosítása";
+"Reset Count" = "Számláló nullázása";
+"Delete" = "Törlés";
+"Title" = "Cím";
+
+/* Settings - Sections */
+"General" = "Általános";
+"Color Scheme" = "Színséma";
+"Sync Info" = "Szinkronizálási infó";
+"About" = "Névjegy";
+"Data" = "Adatok";
+
+/* Settings - General */
+"Haptic Feedback" = "Haptikus visszajelzés";
+"Palette" = "Paletta";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Szinkronizált Trivitek";
+"Last Sync" = "Utolsó szinkronizálás";
+"Device" = "Eszköz";
+
+/* Settings - About */
+"Version" = "Verzió";
+"Rate on App Store" = "Értékelés az App Store-ban";
+"Send Feedback" = "Visszajelzés küldése";
+
+/* Settings - Data */
+"Reset All Trivits" = "Összes Trivit nullázása";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Számláló elrejtése kibontáskor";
+
+/* Deleted Items */
+"Deleted Items" = "Törölt elemek";
+"Recently Deleted" = "Nemrég törölt";
+"No Deleted Items" = "Nincsenek törölt elemek";
+"Items you delete will appear here for 30 days" = "A törölt elemek 30 napig itt jelennek meg";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Az elemek 30 nap után véglegesen törlődnek. Húzd jobbra a visszaállításhoz, balra a végleges törléshez.";
+"Empty Trash" = "Kuka ürítése";
+"Restore" = "Visszaállítás";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" törölve";
+"Undo" = "Visszavonás";
+
+/* Tutorial */
+"Welcome to Trivit" = "Üdvözöl a Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Koppints a +-ra egy számláló hozzáadásához. Koppints rá, és a szám nő. Elme = eldobva.";
+"That minus button? It does exactly what you think." = "Az a mínusz gomb? Pontosan azt csinálja, amit gondolsz.";
+"Long press anything. Secrets await." = "Nyomj hosszan bármit. Titkok várnak.";
+"Swipe left to banish a counter forever." = "Húzd balra, hogy örökre száműzz egy számlálót.";
+"Yeah, I know how to use a counter app, thx" = "Ja, tudom hogyan kell használni egy számláló appot, köszi";
+"Tap + to add a new counter" = "Koppints a +-ra új számláló hozzáadásához";
+"Long press and drag to reorder" = "Nyomd hosszan és húzd az átrendezéshez";
+"Long press a counter for more options" = "Nyomj hosszan egy számlálót a további lehetőségekért";
+"Got it" = "Értem";
+
+/* Context Menu */
+"Statistics" = "Statisztikák";
+"History" = "Előzmények";
+"Open Source" = "Nyílt forráskód";
+"Source Code" = "Forráskód";
+"Report Translation Issue" = "Fordítási hiba bejelentése";
+"Support" = "Támogatás";
+"Cancel" = "Mégsem";
+
+/* Watch Sync */
+"Watch Sync" = "Watch szinkronizálás";
+"Watch Paired" = "Watch párosítva";
+"Watch Reachable" = "Watch elérhető";
+"Sync to Watch" = "Szinkronizálás Watch-ra";
+"Not reachable" = "Nem elérhető";
+
+/* Info Section */
+"Info" = "Infó";
+"Trivits" = "Trivitek";
+
+/* History View */
+"No History Yet" = "Még nincsenek előzmények";
+"Tally events will appear here as you use the counter." = "A számlálóesemények itt jelennek meg a használat során.";
+"Delete Events" = "Események törlése";
+"Today" = "Ma";
+"Yesterday" = "Tegnap";
+
+/* Statistics View */
+"Total" = "Összesen";
+"Current Streak" = "Jelenlegi sorozat";
+"Longest Streak" = "Leghosszabb sorozat";
+"Days Tracked" = "Követett napok";
+"Activity by Hour" = "Aktivitás óránként";
+"Activity by Day of Week" = "Aktivitás a hét napjai szerint";
+"Monthly Trend" = "Havi trend";
+"Last 30 Days" = "Utolsó 30 nap";
+
+/* Color Scheme Names */
+"Vibrant" = "Élénk";
+"Pastel" = "Pasztell";
+"Monochrome" = "Egyszínű";
+"Ocean" = "Óceán";
+"Sunset" = "Naplemente";
+"Forest" = "Erdő";
+"Candy" = "Cukorka";
+"Earth" = "Föld";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Pohár víz";
+"Fruits eaten today" = "Ma megevett gyümölcsök";
+"Vegetables conquered" = "Legyőzött zöldségek";
+"Hours of sleep" = "Óra alvás";
+"Steps walked" = "Megtett lépések";
+"Push-ups done" = "Fekvőtámaszok";
+"Minutes exercised" = "Perc edzés";
+"Healthy snacks" = "Egészséges nasik";
+"Deep breaths taken" = "Mély lélegzetek";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Hányszor mondtam 'wow'-t";
+"Cookies in my tummy" = "Keksz a pocakomban";
+"Silly dances performed" = "Buta táncok előadva";
+"Dad jokes survived" = "Apaviccek túlélve";
+"Pillows fluffed" = "Párnák felrázva";
+"Socks matched" = "Zoknik párosítva";
+"Clouds that look like animals" = "Felhők amik állatokra hasonlítanak";
+"Times the dog wagged its tail" = "Hányszor csóválta a kutya a farkát";
+"Sneezes today" = "Tüsszentések ma";
+"Yawns caught from others" = "Másoktól elkapott ásítások";
+"High fives given" = "Pacsik osztva";
+"Bubbles blown" = "Buborékok fújva";
+"Puddles jumped in" = "Pocsolyákba ugrálva";
+"Funny faces made" = "Vicces arcok vágva";
+"Songs sung in shower" = "Dalok a zuhany alatt";
+"Times I forgot why I walked into a room" = "Hányszor felejtettem el miért mentem be a szobába";
+"Dinosaur facts learned" = "Dinoszaurusz-tények megtanulva";
+"Cards stacked before falling" = "Kártyák egymásra rakva az összeomlás előtt";
+"Grapes caught in mouth" = "Szájjal elkapott szőlőszemek";
+"Paper airplanes launched" = "Papírrepülők felbocsátva";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Könyvek elolvasva";
+"Pages finished" = "Oldalak befejezve";
+"Tasks completed" = "Feladatok elvégezve";
+"Ideas had" = "Ötletek születtek";
+"Problems solved" = "Problémák megoldva";
+"Minutes of focus" = "Perc koncentrálás";
+"Emails conquered" = "E-mailek legyőzve";
+"Meetings survived" = "Meetingek túlélve";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Ölelések adva";
+"Thank yous said" = "Köszönömök mondva";
+"Smiles shared" = "Mosolyok megosztva";
+"Compliments given" = "Bókok osztva";
+"Acts of kindness" = "Kedves tettek";
+"Friends helped" = "Barátoknak segítve";
+"Doors held open" = "Ajtók nyitva tartva";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Új szavak megtanulva";
+"Questions asked" = "Kérdések feltéve";
+"Facts discovered" = "Tények felfedezve";
+"Languages practiced" = "Nyelvek gyakorolva";
+"Puzzles solved" = "Fejtörők megoldva";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Biztosan törölni akarod az összes Trivitet?";
+"Are you sure you want to reset '%@'?" = "Biztosan nullázni akarod a '%@' számlálót?";
+"Are you sure you want to reset all counts to 0?" = "Biztosan nullázni akarod az összes számlálót?";
+"Blue" = "Kék";
+"Cannot add" = "Nem lehet hozzáadni";
+"Color - %@" = "Szín - %@";
+"Days in prison" = "Napok a börtönben";
+"Default" = "Alapértelmezett";
+"Delete all Trivits" = "Összes Trivit törlése";
+"Drinks" = "Italok";
+"Feedback" = "Visszajelzés";
+"Get started!" = "Kezdjünk!";
+"Give your Trivit a name" = "Adj nevet a Trivitednek";
+"Got it." = "Értem.";
+"Green" = "Zöld";
+"I am missing some things..." = "Hiányolok néhány dolgot...";
+"I don't get it." = "Nem értem.";
+"I like what I see." = "Tetszik amit látok.";
+"I've seen better, I've seen worse." = "Elmegy.";
+"No" = "Nem";
+"Off" = "Ki";
+"On" = "Be";
+"Open or close your new Trivit with a single tap" = "Nyisd ki vagy zárd be az új Trivitedet egyetlen koppintással";
+"Please finish editing the title first." = "Kérlek, először fejezd be a cím szerkesztését.";
+"Red" = "Piros";
+"Remove all" = "Összes eltávolítása";
+"Reset Trivit" = "Trivit nullázása";
+"Reset all" = "Összes nullázása";
+"Reset all Trivits" = "Összes Trivit nullázása";
+"Tap an image to rate:" = "Koppints egy képre az értékeléshez:";
+"Tap the minus to decrease the count, hold long to reset" = "Koppints a mínuszra a csökkentéshez, tartsd nyomva a nullázáshoz";
+"Tap the pen to add a new Trivit" = "Koppints a tollra új Trivit hozzáadásához";
+"Tap to increase the count" = "Koppints a növeléshez";
+"This is the best app ever!" = "Ez a legjobb app valaha!";
+"Tutorial" = "Bemutató";
+"Vibration - %@" = "Rezgés - %@";
+"Went swimming this year" = "Úszás idén";
+"Yes" = "Igen";
+"Your feedback (optional)" = "Visszajelzésed (opcionális)";

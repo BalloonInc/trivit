@@ -1,0 +1,36 @@
+Trivit este o aplicație de numărare frumos de simplă care te ajută să urmărești orice în viața ta. Fie că numeri obiceiuri, antrenamente, obiective zilnice sau inventar, Trivit face totul ușor și plăcut.
+
+SIMPLU ȘI INTUITIV
+Doar atinge pentru a număra. Fără configurare complicată, fără curbă de învățare. Creează un nou contor în câteva secunde și începe să urmărești imediat. Interfața curată și fără distracții te menține concentrat pe ceea ce contează.
+
+APLICAȚIA APPLE WATCH
+Urmărește contoarele tale direct de la încheietură cu noua aplicație Apple Watch. Numărătorile tale se sincronizează instantaneu între iPhone și Apple Watch, astfel încât ești mereu la curent indiferent de dispozitivul folosit.
+
+TEME DE CULORI FRUMOASE
+Alege din 8 teme de culori vibrante pentru a personaliza contoarele tale. Fiecare contor primește propria culoare distinctivă, făcând identificarea ușoară dintr-o privire. Designul colorat și plat este atât frumos, cât și funcțional.
+
+NUMĂRĂ ORICE
+- Obiceiuri și rutine zilnice
+- Repetări și seturi de antrenament
+- Numărători de inventar
+- Ținerea scorului la jocuri
+- Observarea păsărilor sau a faunei sălbatice
+- Pahare de apă consumate
+- Pași spre un obiectiv
+- Orice altceva ai nevoie să numeri!
+
+SINCRONIZARE PE TOATE DISPOZITIVELE
+Contoarele tale se sincronizează automat pe toate dispozitivele tale folosind iCloud. Începe să numeri pe iPhone și continuă pe Apple Watch, sau invers. Datele tale sunt mereu cu tine.
+
+CONFIDENȚIALITATE ÎN PRIMUL RÂND
+Datele tale rămân pe dispozitivele tale și în contul tău personal iCloud. Nu colectăm informații personale și nu există analiză sau urmărire. Numărătorile tale sunt treaba ta.
+
+FĂRĂ RECLAME, FĂRĂ ABONAMENTE
+Trivit este complet gratuit, fără reclame, fără achiziții în aplicație și fără abonamente. Doar o aplicație grozavă care face ceea ce promite.
+
+SURSĂ DESCHISĂ
+Trivit este open source! Poți vedea codul, sugera îmbunătățiri sau contribui pe GitHub la https://github.com/BalloonInc/trivit-ios
+
+Versiunea 5.0 este o rescriere completă folosind cea mai recentă tehnologie SwiftUI de la Apple, oferind performanță îmbunătățită și o experiență de utilizare rafinată, menținând simplitatea care face Trivit grozav.
+
+Descarcă Trivit astăzi și începe să numeri ceea ce contează pentru tine.

@@ -41,56 +41,21 @@
 /* Settings - Data */
 "Reset All Trivits" = "Azzera Tutti i Contatori";
 
-/* Color Scheme Names */
-"Vibrant" = "Vivace";
-"Pastel" = "Pastello";
-"Monochrome" = "Monocromo";
-"Ocean" = "Oceano";
-"Sunset" = "Tramonto";
-"Forest" = "Foresta";
-"Candy" = "Caramella";
-"Earth" = "Terra";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Nascondi contatore quando espanso";
 
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "Sei sicuro di voler eliminare tutti i contatori?";
-"Are you sure you want to reset '%@'?" = "Sei sicuro di voler azzerare '%@'?";
-"Are you sure you want to reset all counts to 0?" = "Sei sicuro di voler azzerare tutti i conteggi?";
-"Blue" = "Blu";
-"Cannot add" = "Impossibile aggiungere";
-"Color - %@" = "Colore - %@";
-"Days in prison" = "Giorni in prigione";
-"Default" = "Predefinito";
-"Delete all Trivits" = "Elimina tutti i contatori";
-"Drinks" = "Bevande";
-"Feedback" = "Feedback";
-"Get started!" = "Inizia!";
-"Give your Trivit a name" = "Dai un nome al tuo contatore";
-"Got it." = "Capito.";
-"Green" = "Verde";
-"I am missing some things..." = "Mi mancano alcune cose...";
-"I don't get it." = "Non capisco.";
-"I like what I see." = "Mi piace quello che vedo.";
-"I've seen better, I've seen worse." = "Ho visto di meglio e di peggio.";
-"No" = "No";
-"Off" = "Disattivato";
-"On" = "Attivato";
-"Open or close your new Trivit with a single tap" = "Apri o chiudi il contatore con un tocco";
-"Please finish editing the title first." = "Per favore, termina prima la modifica del titolo.";
-"Red" = "Rosso";
-"Remove all" = "Rimuovi tutto";
-"Reset Trivit" = "Azzera Contatore";
-"Reset all" = "Azzera tutto";
-"Reset all Trivits" = "Azzera tutti i contatori";
-"Tap an image to rate:" = "Tocca un'immagine per valutare:";
-"Tap the minus to decrease the count, hold long to reset" = "Tocca il meno per diminuire, tieni premuto per azzerare";
-"Tap the pen to add a new Trivit" = "Tocca la penna per aggiungere un contatore";
-"Tap to increase the count" = "Tocca per aumentare";
-"This is the best app ever!" = "Questa è la migliore app di sempre!";
-"Tutorial" = "Tutorial";
-"Vibration - %@" = "Vibrazione - %@";
-"Went swimming this year" = "Nuotate quest'anno";
-"Yes" = "Sì";
-"Your feedback (optional)" = "Il tuo feedback (opzionale)";
+/* Deleted Items */
+"Deleted Items" = "Elementi eliminati";
+"Recently Deleted" = "Eliminati di recente";
+"No Deleted Items" = "Nessun elemento eliminato";
+"Items you delete will appear here for 30 days" = "Gli elementi eliminati appariranno qui per 30 giorni";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Gli elementi vengono eliminati definitivamente dopo 30 giorni. Scorri a destra per ripristinare, a sinistra per eliminare definitivamente.";
+"Empty Trash" = "Svuota cestino";
+"Restore" = "Ripristina";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Eliminato \"%@\"";
+"Undo" = "Annulla";
 
 /* Tutorial */
 "Welcome to Trivit" = "Benvenuto su Trivit";
@@ -103,6 +68,53 @@
 "Long press and drag to reorder" = "Tieni premuto e trascina per riordinare";
 "Long press a counter for more options" = "Tieni premuto un contatore per più opzioni";
 "Got it" = "Capito";
+
+/* Context Menu */
+"Statistics" = "Statistiche";
+"History" = "Cronologia";
+"Open Source" = "Open Source";
+"Source Code" = "Codice Sorgente";
+"Report Translation Issue" = "Segnala errore di traduzione";
+"Support" = "Supporto";
+"Cancel" = "Annulla";
+
+/* Watch Sync */
+"Watch Sync" = "Sincronizzazione orologio";
+"Watch Paired" = "Orologio abbinato";
+"Watch Reachable" = "Orologio raggiungibile";
+"Sync to Watch" = "Sincronizza con orologio";
+"Not reachable" = "Non raggiungibile";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Nessuna cronologia";
+"Tally events will appear here as you use the counter." = "Gli eventi appariranno qui man mano che usi il contatore.";
+"Delete Events" = "Elimina eventi";
+"Today" = "Oggi";
+"Yesterday" = "Ieri";
+
+/* Statistics View */
+"Total" = "Totale";
+"Current Streak" = "Serie attuale";
+"Longest Streak" = "Serie più lunga";
+"Days Tracked" = "Giorni registrati";
+"Activity by Hour" = "Attività per ora";
+"Activity by Day of Week" = "Attività per giorno della settimana";
+"Monthly Trend" = "Tendenza mensile";
+"Last 30 Days" = "Ultimi 30 giorni";
+
+/* Color Scheme Names */
+"Vibrant" = "Vivace";
+"Pastel" = "Pastello";
+"Monochrome" = "Monocromo";
+"Ocean" = "Oceano";
+"Sunset" = "Tramonto";
+"Forest" = "Foresta";
+"Candy" = "Caramella";
+"Earth" = "Terra";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Bicchieri d'acqua";
@@ -162,3 +174,44 @@
 "Facts discovered" = "Fatti scoperti";
 "Languages practiced" = "Lingue praticate";
 "Puzzles solved" = "Puzzle risolti";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Sei sicuro di voler eliminare tutti i contatori?";
+"Are you sure you want to reset '%@'?" = "Sei sicuro di voler azzerare '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Sei sicuro di voler azzerare tutti i conteggi?";
+"Blue" = "Blu";
+"Cannot add" = "Impossibile aggiungere";
+"Color - %@" = "Colore - %@";
+"Days in prison" = "Giorni in prigione";
+"Default" = "Predefinito";
+"Delete all Trivits" = "Elimina tutti i contatori";
+"Drinks" = "Bevande";
+"Feedback" = "Feedback";
+"Get started!" = "Inizia!";
+"Give your Trivit a name" = "Dai un nome al tuo contatore";
+"Got it." = "Capito.";
+"Green" = "Verde";
+"I am missing some things..." = "Mi mancano alcune cose...";
+"I don't get it." = "Non capisco.";
+"I like what I see." = "Mi piace quello che vedo.";
+"I've seen better, I've seen worse." = "Ho visto di meglio e di peggio.";
+"No" = "No";
+"Off" = "Disattivato";
+"On" = "Attivato";
+"Open or close your new Trivit with a single tap" = "Apri o chiudi il contatore con un tocco";
+"Please finish editing the title first." = "Per favore, termina prima la modifica del titolo.";
+"Red" = "Rosso";
+"Remove all" = "Rimuovi tutto";
+"Reset Trivit" = "Azzera Contatore";
+"Reset all" = "Azzera tutto";
+"Reset all Trivits" = "Azzera tutti i contatori";
+"Tap an image to rate:" = "Tocca un'immagine per valutare:";
+"Tap the minus to decrease the count, hold long to reset" = "Tocca il meno per diminuire, tieni premuto per azzerare";
+"Tap the pen to add a new Trivit" = "Tocca la penna per aggiungere un contatore";
+"Tap to increase the count" = "Tocca per aumentare";
+"This is the best app ever!" = "Questa è la migliore app di sempre!";
+"Tutorial" = "Tutorial";
+"Vibration - %@" = "Vibrazione - %@";
+"Went swimming this year" = "Nuotate quest'anno";
+"Yes" = "Sì";
+"Your feedback (optional)" = "Il tuo feedback (opzionale)";

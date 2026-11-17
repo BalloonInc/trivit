@@ -41,56 +41,21 @@
 /* Settings - Data */
 "Reset All Trivits" = "Tüm Sayaçları Sıfırla";
 
-/* Color Scheme Names */
-"Vibrant" = "Canlı";
-"Pastel" = "Pastel";
-"Monochrome" = "Tek Renk";
-"Ocean" = "Okyanus";
-"Sunset" = "Gün Batımı";
-"Forest" = "Orman";
-"Candy" = "Şeker";
-"Earth" = "Toprak";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Genişletildiğinde Sayacı Gizle";
 
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "Tüm sayaçları silmek istediğinizden emin misiniz?";
-"Are you sure you want to reset '%@'?" = "'%@' sayacını sıfırlamak istediğinizden emin misiniz?";
-"Are you sure you want to reset all counts to 0?" = "Tüm sayaçları 0'a sıfırlamak istediğinizden emin misiniz?";
-"Blue" = "Mavi";
-"Cannot add" = "Eklenemiyor";
-"Color - %@" = "Renk - %@";
-"Days in prison" = "Hapiste geçen günler";
-"Default" = "Varsayılan";
-"Delete all Trivits" = "Tüm sayaçları sil";
-"Drinks" = "İçecekler";
-"Feedback" = "Geri Bildirim";
-"Get started!" = "Başlayın!";
-"Give your Trivit a name" = "Sayacınıza bir ad verin";
-"Got it." = "Anladım.";
-"Green" = "Yeşil";
-"I am missing some things..." = "Bazı şeyler eksik...";
-"I don't get it." = "Anlamadım.";
-"I like what I see." = "Gördüklerimi beğendim.";
-"I've seen better, I've seen worse." = "Fena değil.";
-"No" = "Hayır";
-"Off" = "Kapalı";
-"On" = "Açık";
-"Open or close your new Trivit with a single tap" = "Tek dokunuşla sayacınızı açın veya kapatın";
-"Please finish editing the title first." = "Lütfen önce başlık düzenlemeyi tamamlayın.";
-"Red" = "Kırmızı";
-"Remove all" = "Tümünü kaldır";
-"Reset Trivit" = "Sayacı Sıfırla";
-"Reset all" = "Tümünü sıfırla";
-"Reset all Trivits" = "Tüm sayaçları sıfırla";
-"Tap an image to rate:" = "Değerlendirmek için bir resme dokunun:";
-"Tap the minus to decrease the count, hold long to reset" = "Azaltmak için eksi'ye dokunun, sıfırlamak için basılı tutun";
-"Tap the pen to add a new Trivit" = "Yeni sayaç eklemek için kaleme dokunun";
-"Tap to increase the count" = "Artırmak için dokunun";
-"This is the best app ever!" = "Bu şimdiye kadarki en iyi uygulama!";
-"Tutorial" = "Rehber";
-"Vibration - %@" = "Titreşim - %@";
-"Went swimming this year" = "Bu yıl yüzme";
-"Yes" = "Evet";
-"Your feedback (optional)" = "Geri bildiriminiz (isteğe bağlı)";
+/* Deleted Items */
+"Deleted Items" = "Silinenler";
+"Recently Deleted" = "Son Silinenler";
+"No Deleted Items" = "Silinmiş Öğe Yok";
+"Items you delete will appear here for 30 days" = "Sildiğiniz öğeler burada 30 gün görünür";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Öğeler 30 gün sonra kalıcı olarak silinir. Geri yüklemek için sağa, kalıcı silmek için sola kaydırın.";
+"Empty Trash" = "Çöpü Boşalt";
+"Restore" = "Geri Yükle";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" silindi";
+"Undo" = "Geri Al";
 
 /* Tutorial */
 "Welcome to Trivit" = "Trivit'e Hoş Geldiniz";
@@ -103,6 +68,53 @@
 "Long press and drag to reorder" = "Sıralamak için uzun bas ve sürükle";
 "Long press a counter for more options" = "Daha fazla seçenek için sayaca uzun bas";
 "Got it" = "Anladım";
+
+/* Context Menu */
+"Statistics" = "İstatistikler";
+"History" = "Geçmiş";
+"Open Source" = "Açık Kaynak";
+"Source Code" = "Kaynak Kodu";
+"Report Translation Issue" = "Çeviri Hatası Bildir";
+"Support" = "Destek";
+"Cancel" = "İptal";
+
+/* Watch Sync */
+"Watch Sync" = "Saat Senkronizasyonu";
+"Watch Paired" = "Saat Eşleştirildi";
+"Watch Reachable" = "Saat Erişilebilir";
+"Sync to Watch" = "Saate Senkronize Et";
+"Not reachable" = "Erişilemiyor";
+
+/* Info Section */
+"Info" = "Bilgi";
+"Trivits" = "Sayaçlar";
+
+/* History View */
+"No History Yet" = "Henüz Geçmiş Yok";
+"Tally events will appear here as you use the counter." = "Sayacı kullandıkça olaylar burada görünecek.";
+"Delete Events" = "Olayları Sil";
+"Today" = "Bugün";
+"Yesterday" = "Dün";
+
+/* Statistics View */
+"Total" = "Toplam";
+"Current Streak" = "Mevcut Seri";
+"Longest Streak" = "En Uzun Seri";
+"Days Tracked" = "Takip Edilen Gün";
+"Activity by Hour" = "Saate Göre Aktivite";
+"Activity by Day of Week" = "Haftanın Gününe Göre Aktivite";
+"Monthly Trend" = "Aylık Trend";
+"Last 30 Days" = "Son 30 Gün";
+
+/* Color Scheme Names */
+"Vibrant" = "Canlı";
+"Pastel" = "Pastel";
+"Monochrome" = "Tek Renk";
+"Ocean" = "Okyanus";
+"Sunset" = "Gün Batımı";
+"Forest" = "Orman";
+"Candy" = "Şeker";
+"Earth" = "Toprak";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "Bardak su";
@@ -144,7 +156,7 @@
 "Ideas had" = "Akla gelen fikirler";
 "Problems solved" = "Çözülen problemler";
 "Minutes of focus" = "Odaklanma dakikaları";
-"Emails conquered" = "Hallettilen e-postalar";
+"Emails conquered" = "Halledilen e-postalar";
 "Meetings survived" = "Atlattığım toplantılar";
 
 /* Example Trivit Names - Kindness & gratitude */
@@ -162,3 +174,44 @@
 "Facts discovered" = "Keşfedilen gerçekler";
 "Languages practiced" = "Pratik yapılan diller";
 "Puzzles solved" = "Çözülen bulmacalar";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Tüm sayaçları silmek istediğinizden emin misiniz?";
+"Are you sure you want to reset '%@'?" = "'%@' sayacını sıfırlamak istediğinizden emin misiniz?";
+"Are you sure you want to reset all counts to 0?" = "Tüm sayaçları 0'a sıfırlamak istediğinizden emin misiniz?";
+"Blue" = "Mavi";
+"Cannot add" = "Eklenemiyor";
+"Color - %@" = "Renk - %@";
+"Days in prison" = "Hapiste geçen günler";
+"Default" = "Varsayılan";
+"Delete all Trivits" = "Tüm sayaçları sil";
+"Drinks" = "İçecekler";
+"Feedback" = "Geri Bildirim";
+"Get started!" = "Başlayın!";
+"Give your Trivit a name" = "Sayacınıza bir ad verin";
+"Got it." = "Anladım.";
+"Green" = "Yeşil";
+"I am missing some things..." = "Bazı şeyler eksik...";
+"I don't get it." = "Anlamadım.";
+"I like what I see." = "Gördüklerimi beğendim.";
+"I've seen better, I've seen worse." = "Fena değil.";
+"No" = "Hayır";
+"Off" = "Kapalı";
+"On" = "Açık";
+"Open or close your new Trivit with a single tap" = "Tek dokunuşla sayacınızı açın veya kapatın";
+"Please finish editing the title first." = "Lütfen önce başlık düzenlemeyi tamamlayın.";
+"Red" = "Kırmızı";
+"Remove all" = "Tümünü kaldır";
+"Reset Trivit" = "Sayacı Sıfırla";
+"Reset all" = "Tümünü sıfırla";
+"Reset all Trivits" = "Tüm sayaçları sıfırla";
+"Tap an image to rate:" = "Değerlendirmek için bir resme dokunun:";
+"Tap the minus to decrease the count, hold long to reset" = "Azaltmak için eksi'ye dokunun, sıfırlamak için basılı tutun";
+"Tap the pen to add a new Trivit" = "Yeni sayaç eklemek için kaleme dokunun";
+"Tap to increase the count" = "Artırmak için dokunun";
+"This is the best app ever!" = "Bu şimdiye kadarki en iyi uygulama!";
+"Tutorial" = "Rehber";
+"Vibration - %@" = "Titreşim - %@";
+"Went swimming this year" = "Bu yıl yüzme";
+"Yes" = "Evet";
+"Your feedback (optional)" = "Geri bildiriminiz (isteğe bağlı)";

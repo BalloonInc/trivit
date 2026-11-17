@@ -75,6 +75,36 @@
 "Open Source" = "Open Source";
 "Source Code" = "Source Code";
 "Report Translation Issue" = "Report Translation Issue";
+"Support" = "Support";
+"Cancel" = "Cancel";
+
+/* Watch Sync */
+"Watch Sync" = "Watch Sync";
+"Watch Paired" = "Watch Paired";
+"Watch Reachable" = "Watch Reachable";
+"Sync to Watch" = "Sync to Watch";
+"Not reachable" = "Not reachable";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "No History Yet";
+"Tally events will appear here as you use the counter." = "Tally events will appear here as you use the counter.";
+"Delete Events" = "Delete Events";
+"Today" = "Today";
+"Yesterday" = "Yesterday";
+
+/* Statistics View */
+"Total" = "Total";
+"Current Streak" = "Current Streak";
+"Longest Streak" = "Longest Streak";
+"Days Tracked" = "Days Tracked";
+"Activity by Hour" = "Activity by Hour";
+"Activity by Day of Week" = "Activity by Day of Week";
+"Monthly Trend" = "Monthly Trend";
+"Last 30 Days" = "Last 30 Days";
 
 /* Color Scheme Names */
 "Vibrant" = "Vibrant";

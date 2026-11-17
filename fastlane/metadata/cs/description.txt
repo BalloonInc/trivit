@@ -1,0 +1,36 @@
+Trivit je krásně jednoduchá aplikace počítadla, která vám pomáhá sledovat cokoli ve vašem životě. Ať už počítáte návyky, tréninky, denní cíle nebo inventář, Trivit to dělá snadné a příjemné.
+
+JEDNODUCHÉ A INTUITIVNÍ
+Stačí ťuknout a počítat. Žádné složité nastavení, žádná křivka učení. Vytvořte nové počítadlo za pár sekund a okamžitě začněte sledovat. Čisté rozhraní bez rušivých prvků vás drží soustředěné na to, co je důležité.
+
+APLIKACE PRO APPLE WATCH
+Sledujte svá počítadla přímo ze zápěstí s zcela novou aplikací pro Apple Watch. Vaše počty se okamžitě synchronizují mezi iPhonem a Apple Watch, takže jste vždy aktuální bez ohledu na to, jaké zařízení používáte.
+
+KRÁSNÉ BAREVNÉ MOTIVY
+Vyberte si z 8 živých barevných motivů pro přizpůsobení svých počítadel. Každé počítadlo získá svou vlastní charakteristickou barvu, což usnadňuje identifikaci na první pohled. Barevný, plochý design je krásný i funkční.
+
+POČÍTEJTE COKOLI
+- Denní návyky a rutiny
+- Opakování a série při tréninku
+- Inventární počítání
+- Vedení skóre při hrách
+- Pozorování ptáků nebo divoké zvěře
+- Vypité sklenice vody
+- Kroky k cíli
+- Cokoli jiného, co potřebujete počítat!
+
+SYNCHRONIZACE NA VŠECH ZAŘÍZENÍCH
+Vaše počítadla se automaticky synchronizují na všech zařízeních pomocí iCloudu. Začněte počítat na iPhonu a pokračujte na Apple Watch, nebo naopak. Vaše data jsou vždy s vámi.
+
+SOUKROMÍ NA PRVNÍM MÍSTĚ
+Vaše data zůstávají na vašich zařízeních a ve vašem osobním účtu iCloud. Neshromažďujeme žádné osobní informace a neexistuje žádná analytika ani sledování. Vaše počty jsou vaše věc.
+
+BEZ REKLAM, BEZ PŘEDPLATNÉHO
+Trivit je zcela zdarma bez reklam, bez nákupů v aplikaci a bez předplatného. Prostě skvělá aplikace, která dělá to, co slibuje.
+
+OTEVŘENÝ ZDROJOVÝ KÓD
+Trivit je open source! Můžete si prohlédnout kód, navrhnout vylepšení nebo přispět na GitHubu na https://github.com/BalloonInc/trivit-ios
+
+Verze 5.0 je kompletní přepsání s využitím nejnovější technologie SwiftUI od Apple, nabízející vylepšený výkon a propracovaný uživatelský zážitek při zachování jednoduchosti, která dělá Trivit výjimečným.
+
+Stáhněte si Trivit ještě dnes a začněte počítat to, na čem vám záleží.

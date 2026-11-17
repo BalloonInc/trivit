@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Configuració";
+"Done" = "Fet";
+
+/* Empty State */
+"No Trivits Yet" = "Encara no hi ha Trivits";
+"Tap + to create your first tally counter" = "Toca + per crear el teu primer comptador";
+
+/* Trivit Actions */
+"New Trivit" = "Nou Trivit";
+"Rename" = "Canvia el nom";
+"Change Color" = "Canvia el color";
+"Reset Count" = "Reinicia el comptador";
+"Delete" = "Elimina";
+"Title" = "Títol";
+
+/* Settings - Sections */
+"General" = "General";
+"Color Scheme" = "Esquema de colors";
+"Sync Info" = "Info de sincronització";
+"About" = "Quant a";
+"Data" = "Dades";
+
+/* Settings - General */
+"Haptic Feedback" = "Retroacció hàptica";
+"Palette" = "Paleta";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Trivits sincronitzats";
+"Last Sync" = "Última sincronització";
+"Device" = "Dispositiu";
+
+/* Settings - About */
+"Version" = "Versió";
+"Rate on App Store" = "Valora a l'App Store";
+"Send Feedback" = "Envia comentaris";
+
+/* Settings - Data */
+"Reset All Trivits" = "Reinicia tots els Trivits";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Amaga el comptador en expandir";
+
+/* Deleted Items */
+"Deleted Items" = "Elements eliminats";
+"Recently Deleted" = "Eliminats recentment";
+"No Deleted Items" = "Cap element eliminat";
+"Items you delete will appear here for 30 days" = "Els elements que eliminis apareixeran aquí durant 30 dies";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Els elements s'eliminen permanentment després de 30 dies. Llisca a la dreta per restaurar, a l'esquerra per eliminar permanentment.";
+"Empty Trash" = "Buida la paperera";
+"Restore" = "Restaura";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" eliminat";
+"Undo" = "Desfés";
+
+/* Tutorial */
+"Welcome to Trivit" = "Benvingut a Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Toca + per afegir un comptador. Toca'l per fer pujar el número. Ment = volada.";
+"That minus button? It does exactly what you think." = "Aquell botó de menys? Fa exactament el que penses.";
+"Long press anything. Secrets await." = "Premuda llarga a qualsevol cosa. T'esperen secrets.";
+"Swipe left to banish a counter forever." = "Llisca a l'esquerra per desterrar un comptador per sempre.";
+"Yeah, I know how to use a counter app, thx" = "Sí, sé com funciona una app de comptador, gràcies";
+"Tap + to add a new counter" = "Toca + per afegir un nou comptador";
+"Long press and drag to reorder" = "Premuda llarga i arrossega per reordenar";
+"Long press a counter for more options" = "Premuda llarga a un comptador per a més opcions";
+"Got it" = "Entès";
+
+/* Context Menu */
+"Statistics" = "Estadístiques";
+"History" = "Historial";
+"Open Source" = "Codi obert";
+"Source Code" = "Codi font";
+"Report Translation Issue" = "Informa d'un error de traducció";
+"Support" = "Suport";
+"Cancel" = "Cancel·la";
+
+/* Watch Sync */
+"Watch Sync" = "Sincronització Watch";
+"Watch Paired" = "Watch vinculat";
+"Watch Reachable" = "Watch accessible";
+"Sync to Watch" = "Sincronitza al Watch";
+"Not reachable" = "No accessible";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Encara sense historial";
+"Tally events will appear here as you use the counter." = "Els esdeveniments del comptador apareixeran aquí a mesura que l'utilitzis.";
+"Delete Events" = "Elimina els esdeveniments";
+"Today" = "Avui";
+"Yesterday" = "Ahir";
+
+/* Statistics View */
+"Total" = "Total";
+"Current Streak" = "Ratxa actual";
+"Longest Streak" = "Ratxa més llarga";
+"Days Tracked" = "Dies seguits";
+"Activity by Hour" = "Activitat per hora";
+"Activity by Day of Week" = "Activitat per dia de la setmana";
+"Monthly Trend" = "Tendència mensual";
+"Last 30 Days" = "Últims 30 dies";
+
+/* Color Scheme Names */
+"Vibrant" = "Vibrant";
+"Pastel" = "Pastel";
+"Monochrome" = "Monocrom";
+"Ocean" = "Oceà";
+"Sunset" = "Posta de sol";
+"Forest" = "Bosc";
+"Candy" = "Caramels";
+"Earth" = "Terra";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Gots d'aigua";
+"Fruits eaten today" = "Fruites menjades avui";
+"Vegetables conquered" = "Verdures conquerides";
+"Hours of sleep" = "Hores de son";
+"Steps walked" = "Passes caminades";
+"Push-ups done" = "Flexions fetes";
+"Minutes exercised" = "Minuts d'exercici";
+"Healthy snacks" = "Aperitius saludables";
+"Deep breaths taken" = "Respiracions profundes";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Vegades que he dit 'wow'";
+"Cookies in my tummy" = "Galetes a la meva panxa";
+"Silly dances performed" = "Balls ximples fets";
+"Dad jokes survived" = "Acudits de pare sobreviscudes";
+"Pillows fluffed" = "Coixins esponjats";
+"Socks matched" = "Mitjons aparellats";
+"Clouds that look like animals" = "Núvols que semblen animals";
+"Times the dog wagged its tail" = "Vegades que el gos ha mogut la cua";
+"Sneezes today" = "Esternuts avui";
+"Yawns caught from others" = "Badalls encomana d'altres";
+"High fives given" = "Xoques de mans donats";
+"Bubbles blown" = "Bombolles bufades";
+"Puddles jumped in" = "Basals on he saltat";
+"Funny faces made" = "Cares divertides fetes";
+"Songs sung in shower" = "Cançons cantades a la dutxa";
+"Times I forgot why I walked into a room" = "Vegades que he oblidat per què he entrat a una habitació";
+"Dinosaur facts learned" = "Fets sobre dinosaures apresos";
+"Cards stacked before falling" = "Cartes apilades abans de caure";
+"Grapes caught in mouth" = "Raïms atrapats amb la boca";
+"Paper airplanes launched" = "Avions de paper llançats";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Llibres llegits";
+"Pages finished" = "Pàgines acabades";
+"Tasks completed" = "Tasques completades";
+"Ideas had" = "Idees tingudes";
+"Problems solved" = "Problemes resolts";
+"Minutes of focus" = "Minuts de concentració";
+"Emails conquered" = "Correus conquerits";
+"Meetings survived" = "Reunions sobreviscudes";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Abraçades donades";
+"Thank yous said" = "Gràcies dites";
+"Smiles shared" = "Somriures compartits";
+"Compliments given" = "Compliments donats";
+"Acts of kindness" = "Actes d'amabilitat";
+"Friends helped" = "Amics ajudats";
+"Doors held open" = "Portes mantingudes obertes";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Paraules noves apreses";
+"Questions asked" = "Preguntes fetes";
+"Facts discovered" = "Fets descoberts";
+"Languages practiced" = "Llengües practicades";
+"Puzzles solved" = "Trencaclosques resolts";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Estàs segur que vols eliminar tots els Trivits?";
+"Are you sure you want to reset '%@'?" = "Estàs segur que vols reiniciar '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Estàs segur que vols reiniciar tots els comptadors a 0?";
+"Blue" = "Blau";
+"Cannot add" = "No es pot afegir";
+"Color - %@" = "Color - %@";
+"Days in prison" = "Dies a la presó";
+"Default" = "Per defecte";
+"Delete all Trivits" = "Elimina tots els Trivits";
+"Drinks" = "Begudes";
+"Feedback" = "Comentaris";
+"Get started!" = "Comencem!";
+"Give your Trivit a name" = "Dona un nom al teu Trivit";
+"Got it." = "Entès.";
+"Green" = "Verd";
+"I am missing some things..." = "Em falten algunes coses...";
+"I don't get it." = "No ho entenc.";
+"I like what I see." = "M'agrada el que veig.";
+"I've seen better, I've seen worse." = "Ni bé ni malament.";
+"No" = "No";
+"Off" = "Desactivat";
+"On" = "Activat";
+"Open or close your new Trivit with a single tap" = "Obre o tanca el teu nou Trivit amb un sol toc";
+"Please finish editing the title first." = "Si us plau, acaba d'editar el títol primer.";
+"Red" = "Vermell";
+"Remove all" = "Elimina tot";
+"Reset Trivit" = "Reinicia Trivit";
+"Reset all" = "Reinicia tot";
+"Reset all Trivits" = "Reinicia tots els Trivits";
+"Tap an image to rate:" = "Toca una imatge per valorar:";
+"Tap the minus to decrease the count, hold long to reset" = "Toca el menys per disminuir, premuda llarga per reiniciar";
+"Tap the pen to add a new Trivit" = "Toca el llapis per afegir un nou Trivit";
+"Tap to increase the count" = "Toca per augmentar";
+"This is the best app ever!" = "Aquesta és la millor app de totes!";
+"Tutorial" = "Tutorial";
+"Vibration - %@" = "Vibració - %@";
+"Went swimming this year" = "Nedat aquest any";
+"Yes" = "Sí";
+"Your feedback (optional)" = "El teu comentari (opcional)";

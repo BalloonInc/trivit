@@ -1,0 +1,36 @@
+Trivit er en smukt simpel tælleapparat-app, der hjælper dig med at holde styr på alt i dit liv. Uanset om du tæller vaner, træninger, daglige mål eller inventar, gør Trivit det ubesværet og fornøjeligt.
+
+SIMPELT OG INTUITIVT
+Bare tryk for at tælle. Ingen kompliceret opsætning, ingen indlæringskurve. Opret en ny tæller på sekunder og begynd at tracke med det samme. Det rene, distraktionsfrie interface holder dig fokuseret på det, der betyder noget.
+
+APPLE WATCH-APP
+Hold styr på dine tællere direkte fra dit håndled med den helt nye Apple Watch-app. Dine tællinger synkroniseres øjeblikkeligt mellem iPhone og Apple Watch, så du altid er opdateret, uanset hvilken enhed du bruger.
+
+SMUKKE FARVETEMAER
+Vælg mellem 8 levende farvetemaer til at personliggøre dine tællere. Hver tæller får sin egen karakteristiske farve, så den er let at identificere med et enkelt blik. Det farverige, flade design er både smukt og funktionelt.
+
+HOLD STYR PÅ ALT
+- Daglige vaner og rutiner
+- Træningsgentagelser og sæt
+- Inventaroptællinger
+- Pointoptælling til spil
+- Fuglekiggeri eller dyreobservationer
+- Glas vand drukket
+- Skridt mod et mål
+- Alt andet du har brug for at tælle!
+
+SYNKRONISER PÅ TVÆRS AF ALLE ENHEDER
+Dine tællere synkroniseres automatisk på tværs af alle dine enheder ved hjælp af iCloud. Begynd at tælle på din iPhone og fortsæt på dit Apple Watch, eller omvendt. Dine data er altid med dig.
+
+PRIVATLIV FØRST
+Dine data forbliver på dine enheder og i din personlige iCloud-konto. Vi indsamler ingen personlige oplysninger, og der er ingen analyser eller sporing. Dine tællinger er din egen sag.
+
+INGEN REKLAMER, INGEN ABONNEMENTER
+Trivit er helt gratis uden reklamer, ingen køb i appen og ingen abonnementer. Bare en fantastisk app, der gør hvad den lover.
+
+OPEN SOURCE
+Trivit er open source! Du kan se koden, foreslå forbedringer eller bidrage på GitHub på https://github.com/BalloonInc/trivit-ios
+
+Version 5.0 er en komplet omskrivning med Apples nyeste SwiftUI-teknologi, der leverer forbedret ydeevne og en forfinet brugeroplevelse, samtidig med at den bibeholder den enkelhed, der gør Trivit fantastisk.
+
+Download Trivit i dag og begynd at tælle det, der betyder noget for dig.

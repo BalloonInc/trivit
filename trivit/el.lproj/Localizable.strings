@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Ρυθμίσεις";
+"Done" = "Τέλος";
+
+/* Empty State */
+"No Trivits Yet" = "Δεν υπάρχουν Trivits ακόμα";
+"Tap + to create your first tally counter" = "Πάτα + για να δημιουργήσεις τον πρώτο σου μετρητή";
+
+/* Trivit Actions */
+"New Trivit" = "Νέο Trivit";
+"Rename" = "Μετονομασία";
+"Change Color" = "Αλλαγή Χρώματος";
+"Reset Count" = "Μηδενισμός Μέτρησης";
+"Delete" = "Διαγραφή";
+"Title" = "Τίτλος";
+
+/* Settings - Sections */
+"General" = "Γενικά";
+"Color Scheme" = "Χρωματικό Σχήμα";
+"Sync Info" = "Πληροφορίες Συγχρ.";
+"About" = "Σχετικά";
+"Data" = "Δεδομένα";
+
+/* Settings - General */
+"Haptic Feedback" = "Απτική Ανάδραση";
+"Palette" = "Παλέτα";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Συγχρονισμένα Trivits";
+"Last Sync" = "Τελευταίος Συγχρονισμός";
+"Device" = "Συσκευή";
+
+/* Settings - About */
+"Version" = "Έκδοση";
+"Rate on App Store" = "Βαθμολόγησε στο App Store";
+"Send Feedback" = "Αποστολή Σχολίων";
+
+/* Settings - Data */
+"Reset All Trivits" = "Μηδενισμός Όλων των Trivits";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Απόκρυψη Μετρητή σε Ανάπτυξη";
+
+/* Deleted Items */
+"Deleted Items" = "Διαγραμμένα Στοιχεία";
+"Recently Deleted" = "Πρόσφατα Διαγραμμένα";
+"No Deleted Items" = "Χωρίς Διαγραμμένα";
+"Items you delete will appear here for 30 days" = "Τα στοιχεία που διαγράφεις θα εμφανίζονται εδώ για 30 ημέρες";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Τα στοιχεία διαγράφονται μόνιμα μετά από 30 ημέρες. Σύρε δεξιά για επαναφορά, αριστερά για μόνιμη διαγραφή.";
+"Empty Trash" = "Άδειασμα Κάδου";
+"Restore" = "Επαναφορά";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Διαγράφηκε \"%@\"";
+"Undo" = "Αναίρεση";
+
+/* Tutorial */
+"Welcome to Trivit" = "Καλώς ήρθες στο Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Πάτα + για να προσθέσεις μετρητή. Πάτα τον για να ανεβεί ο αριθμός. Μυαλό = τιναγμένο.";
+"That minus button? It does exactly what you think." = "Αυτό το κουμπί μείον; Κάνει ακριβώς αυτό που νομίζεις.";
+"Long press anything. Secrets await." = "Πάτα παρατεταμένα οτιδήποτε. Μυστικά περιμένουν.";
+"Swipe left to banish a counter forever." = "Σύρε αριστερά για να εξορίσεις έναν μετρητή για πάντα.";
+"Yeah, I know how to use a counter app, thx" = "Ναι, ξέρω πώς να χρησιμοποιώ μια εφαρμογή μέτρησης, ευχαριστώ";
+"Tap + to add a new counter" = "Πάτα + για να προσθέσεις νέο μετρητή";
+"Long press and drag to reorder" = "Πάτα παρατεταμένα και σύρε για αναδιάταξη";
+"Long press a counter for more options" = "Πάτα παρατεταμένα έναν μετρητή για περισσότερες επιλογές";
+"Got it" = "Κατάλαβα";
+
+/* Context Menu */
+"Statistics" = "Στατιστικά";
+"History" = "Ιστορικό";
+"Open Source" = "Ανοιχτός Κώδικας";
+"Source Code" = "Πηγαίος Κώδικας";
+"Report Translation Issue" = "Αναφορά Σφάλματος Μετάφρασης";
+"Support" = "Υποστήριξη";
+"Cancel" = "Ακύρωση";
+
+/* Watch Sync */
+"Watch Sync" = "Συγχρονισμός Watch";
+"Watch Paired" = "Watch Ζευγαρωμένο";
+"Watch Reachable" = "Watch Προσβάσιμο";
+"Sync to Watch" = "Συγχρονισμός σε Watch";
+"Not reachable" = "Μη προσβάσιμο";
+
+/* Info Section */
+"Info" = "Πληροφορίες";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "Δεν υπάρχει Ιστορικό ακόμα";
+"Tally events will appear here as you use the counter." = "Τα συμβάντα μέτρησης θα εμφανίζονται εδώ καθώς χρησιμοποιείς τον μετρητή.";
+"Delete Events" = "Διαγραφή Συμβάντων";
+"Today" = "Σήμερα";
+"Yesterday" = "Χθες";
+
+/* Statistics View */
+"Total" = "Σύνολο";
+"Current Streak" = "Τρέχουσα Σειρά";
+"Longest Streak" = "Μεγαλύτερη Σειρά";
+"Days Tracked" = "Ημέρες Παρακολούθησης";
+"Activity by Hour" = "Δραστηριότητα ανά Ώρα";
+"Activity by Day of Week" = "Δραστηριότητα ανά Ημέρα Εβδομάδας";
+"Monthly Trend" = "Μηνιαία Τάση";
+"Last 30 Days" = "Τελευταίες 30 Ημέρες";
+
+/* Color Scheme Names */
+"Vibrant" = "Ζωηρό";
+"Pastel" = "Παστέλ";
+"Monochrome" = "Μονόχρωμο";
+"Ocean" = "Ωκεανός";
+"Sunset" = "Ηλιοβασίλεμα";
+"Forest" = "Δάσος";
+"Candy" = "Καραμέλα";
+"Earth" = "Γη";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Ποτήρια νερό";
+"Fruits eaten today" = "Φρούτα σήμερα";
+"Vegetables conquered" = "Λαχανικά κατακτημένα";
+"Hours of sleep" = "Ώρες ύπνου";
+"Steps walked" = "Βήματα";
+"Push-ups done" = "Κάμψεις";
+"Minutes exercised" = "Λεπτά γυμναστικής";
+"Healthy snacks" = "Υγιεινά σνακ";
+"Deep breaths taken" = "Βαθιές αναπνοές";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Φορές που είπα 'ουάου'";
+"Cookies in my tummy" = "Μπισκότα στην κοιλιά μου";
+"Silly dances performed" = "Ανόητοι χοροί";
+"Dad jokes survived" = "Μπαμπαδίστικα αστεία που επέζησα";
+"Pillows fluffed" = "Μαξιλάρια φουσκωμένα";
+"Socks matched" = "Κάλτσες ταιριασμένες";
+"Clouds that look like animals" = "Σύννεφα που μοιάζουν με ζώα";
+"Times the dog wagged its tail" = "Φορές που ο σκύλος κούνησε την ουρά";
+"Sneezes today" = "Φτερνίσματα σήμερα";
+"Yawns caught from others" = "Χασμουρητά κολλημένα από άλλους";
+"High fives given" = "High fives δοσμένα";
+"Bubbles blown" = "Φυσαλίδες φυσηγμένες";
+"Puddles jumped in" = "Λακκούβες που πήδηξα";
+"Funny faces made" = "Αστείες γκριμάτσες";
+"Songs sung in shower" = "Τραγούδια στο ντους";
+"Times I forgot why I walked into a room" = "Φορές που ξέχασα γιατί μπήκα στο δωμάτιο";
+"Dinosaur facts learned" = "Γεγονότα για δεινόσαυρους";
+"Cards stacked before falling" = "Κάρτες στοιβαγμένες πριν πέσουν";
+"Grapes caught in mouth" = "Σταφύλια πιασμένα με το στόμα";
+"Paper airplanes launched" = "Χάρτινα αεροπλανάκια εκτοξευμένα";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Βιβλία διαβασμένα";
+"Pages finished" = "Σελίδες ολοκληρωμένες";
+"Tasks completed" = "Εργασίες ολοκληρωμένες";
+"Ideas had" = "Ιδέες που είχα";
+"Problems solved" = "Προβλήματα λυμένα";
+"Minutes of focus" = "Λεπτά συγκέντρωσης";
+"Emails conquered" = "Email κατακτημένα";
+"Meetings survived" = "Συναντήσεις που επέζησα";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Αγκαλιές δοσμένες";
+"Thank yous said" = "Ευχαριστώ που ειπώθηκαν";
+"Smiles shared" = "Χαμόγελα μοιρασμένα";
+"Compliments given" = "Κοπλιμέντα δοσμένα";
+"Acts of kindness" = "Πράξεις καλοσύνης";
+"Friends helped" = "Φίλοι που βοηθήθηκαν";
+"Doors held open" = "Πόρτες κρατημένες ανοιχτές";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Νέες λέξεις που έμαθα";
+"Questions asked" = "Ερωτήσεις που έκανα";
+"Facts discovered" = "Γεγονότα ανακαλυμμένα";
+"Languages practiced" = "Γλώσσες εξασκημένες";
+"Puzzles solved" = "Γρίφοι λυμένοι";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Είσαι σίγουρος ότι θέλεις να διαγράψεις όλα τα Trivits;";
+"Are you sure you want to reset '%@'?" = "Είσαι σίγουρος ότι θέλεις να μηδενίσεις το '%@';";
+"Are you sure you want to reset all counts to 0?" = "Είσαι σίγουρος ότι θέλεις να μηδενίσεις όλους τους μετρητές;";
+"Blue" = "Μπλε";
+"Cannot add" = "Δεν μπορεί να προστεθεί";
+"Color - %@" = "Χρώμα - %@";
+"Days in prison" = "Μέρες στη φυλακή";
+"Default" = "Προεπιλογή";
+"Delete all Trivits" = "Διαγραφή όλων των Trivits";
+"Drinks" = "Ποτά";
+"Feedback" = "Σχόλια";
+"Get started!" = "Ξεκίνα!";
+"Give your Trivit a name" = "Δώσε ένα όνομα στο Trivit σου";
+"Got it." = "Κατάλαβα.";
+"Green" = "Πράσινο";
+"I am missing some things..." = "Μου λείπουν μερικά πράγματα...";
+"I don't get it." = "Δεν καταλαβαίνω.";
+"I like what I see." = "Μου αρέσει αυτό που βλέπω.";
+"I've seen better, I've seen worse." = "Έτσι κι έτσι.";
+"No" = "Όχι";
+"Off" = "Ανενεργό";
+"On" = "Ενεργό";
+"Open or close your new Trivit with a single tap" = "Άνοιξε ή κλείσε το νέο σου Trivit με ένα πάτημα";
+"Please finish editing the title first." = "Ολοκλήρωσε πρώτα την επεξεργασία του τίτλου.";
+"Red" = "Κόκκινο";
+"Remove all" = "Αφαίρεση όλων";
+"Reset Trivit" = "Μηδενισμός Trivit";
+"Reset all" = "Μηδενισμός όλων";
+"Reset all Trivits" = "Μηδενισμός όλων των Trivits";
+"Tap an image to rate:" = "Πάτα μια εικόνα για βαθμολόγηση:";
+"Tap the minus to decrease the count, hold long to reset" = "Πάτα το μείον για μείωση, κράτα παρατεταμένα για μηδενισμό";
+"Tap the pen to add a new Trivit" = "Πάτα το στυλό για να προσθέσεις νέο Trivit";
+"Tap to increase the count" = "Πάτα για αύξηση";
+"This is the best app ever!" = "Αυτή είναι η καλύτερη εφαρμογή που υπάρχει!";
+"Tutorial" = "Οδηγός";
+"Vibration - %@" = "Δόνηση - %@";
+"Went swimming this year" = "Κολύμπι φέτος";
+"Yes" = "Ναι";
+"Your feedback (optional)" = "Τα σχόλιά σου (προαιρετικά)";

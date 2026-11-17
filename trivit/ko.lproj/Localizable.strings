@@ -1,164 +1,194 @@
 /* App Name */
 "Trivit" = "Trivit";
-
 /* Navigation */
 "Settings" = "설정";
 "Done" = "완료";
-
 /* Empty State */
-"No Trivits Yet" = "아직 카운터가 없습니다";
-"Tap + to create your first tally counter" = "+를 탭하여 첫 번째 카운터를 만드세요";
-
+"No Trivits Yet" = "아직 Trivit이 없습니다";
+"Tap + to create your first tally counter" = "+ 를 눌러 첫 번째 카운터를 만들어 보세요";
 /* Trivit Actions */
-"New Trivit" = "새 카운터";
+"New Trivit" = "새 Trivit";
 "Rename" = "이름 변경";
 "Change Color" = "색상 변경";
 "Reset Count" = "카운트 초기화";
 "Delete" = "삭제";
 "Title" = "제목";
-
 /* Settings - Sections */
 "General" = "일반";
-"Color Scheme" = "색상 구성";
+"Color Scheme" = "색상 테마";
 "Sync Info" = "동기화 정보";
-"About" = "정보";
+"About" = "앱 정보";
 "Data" = "데이터";
-
 /* Settings - General */
 "Haptic Feedback" = "햅틱 피드백";
 "Palette" = "팔레트";
-
 /* Settings - Sync Info */
-"Trivits Synced" = "동기화된 카운터";
+"Trivits Synced" = "동기화된 Trivit";
 "Last Sync" = "마지막 동기화";
 "Device" = "기기";
-
 /* Settings - About */
 "Version" = "버전";
-"Rate on App Store" = "App Store에서 평가";
+"Rate on App Store" = "App Store에서 평가하기";
 "Send Feedback" = "피드백 보내기";
-
 /* Settings - Data */
-"Reset All Trivits" = "모든 카운터 초기화";
-
-/* Color Scheme Names */
-"Vibrant" = "생동감";
-"Pastel" = "파스텔";
-"Monochrome" = "단색";
-"Ocean" = "바다";
-"Sunset" = "일몰";
-"Forest" = "숲";
-"Candy" = "캔디";
-"Earth" = "대지";
-
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "모든 카운터를 삭제하시겠습니까?";
-"Are you sure you want to reset '%@'?" = "'%@'을(를) 초기화하시겠습니까?";
-"Are you sure you want to reset all counts to 0?" = "모든 카운트를 0으로 초기화하시겠습니까?";
-"Blue" = "파랑";
-"Cannot add" = "추가할 수 없음";
-"Color - %@" = "색상 - %@";
-"Days in prison" = "감옥에서 보낸 일수";
-"Default" = "기본";
-"Delete all Trivits" = "모든 카운터 삭제";
-"Drinks" = "음료";
-"Feedback" = "피드백";
-"Get started!" = "시작하기!";
-"Give your Trivit a name" = "카운터 이름 지정";
-"Got it." = "알겠습니다.";
-"Green" = "초록";
-"I am missing some things..." = "뭔가 부족한 것 같아요...";
-"I don't get it." = "이해가 안 돼요.";
-"I like what I see." = "마음에 들어요.";
-"I've seen better, I've seen worse." = "그럭저럭이에요.";
-"No" = "아니오";
-"Off" = "끔";
-"On" = "켬";
-"Open or close your new Trivit with a single tap" = "한 번 탭하여 카운터를 열거나 닫으세요";
-"Please finish editing the title first." = "먼저 제목 편집을 완료하세요.";
-"Red" = "빨강";
-"Remove all" = "모두 제거";
-"Reset Trivit" = "카운터 초기화";
-"Reset all" = "모두 초기화";
-"Reset all Trivits" = "모든 카운터 초기화";
-"Tap an image to rate:" = "이미지를 탭하여 평가:";
-"Tap the minus to decrease the count, hold long to reset" = "마이너스를 탭하여 감소, 길게 눌러 초기화";
-"Tap the pen to add a new Trivit" = "펜을 탭하여 새 카운터 추가";
-"Tap to increase the count" = "탭하여 카운트 증가";
-"This is the best app ever!" = "최고의 앱이에요!";
-"Tutorial" = "튜토리얼";
-"Vibration - %@" = "진동 - %@";
-"Went swimming this year" = "올해 수영 횟수";
-"Yes" = "예";
-"Your feedback (optional)" = "피드백 (선택사항)";
-
+"Reset All Trivits" = "모든 Trivit 초기화";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "펼쳤을 때 카운터 숨기기";
+/* Deleted Items */
+"Deleted Items" = "삭제된 항목";
+"Recently Deleted" = "최근 삭제된 항목";
+"No Deleted Items" = "삭제된 항목 없음";
+"Items you delete will appear here for 30 days" = "삭제한 항목은 30일간 여기에 표시됩니다";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "항목은 30일 후 영구 삭제됩니다. 오른쪽으로 스와이프하여 복원, 왼쪽으로 스와이프하여 영구 삭제합니다.";
+"Empty Trash" = "휴지통 비우기";
+"Restore" = "복원";
+/* Undo Toast */
+"Deleted \"%@\"" = "\"%@\" 삭제됨";
+"Undo" = "실행 취소";
 /* Tutorial */
 "Welcome to Trivit" = "Trivit에 오신 것을 환영합니다";
-"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "+ 눌러서 카운터 추가. 탭해서 숫자 올리기. 놀랍죠.";
-"That minus button? It does exactly what you think." = "마이너스 버튼? 생각하는 그대로입니다.";
-"Long press anything. Secrets await." = "아무거나 길게 누르세요. 비밀이 기다려요.";
-"Swipe left to banish a counter forever." = "왼쪽으로 스와이프하면 카운터가 영원히 사라져요.";
-"Yeah, I know how to use a counter app, thx" = "네, 카운터 앱 쓸 줄 알아요, 고마워요";
-"Tap + to add a new counter" = "+를 탭하여 새 카운터 추가";
-"Long press and drag to reorder" = "길게 누른 후 드래그하여 순서 변경";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "+ 를 눌러 카운터를 추가하세요. 탭하면 숫자가 올라갑니다. 충격적이죠.";
+"That minus button? It does exactly what you think." = "그 마이너스 버튼? 생각하시는 그대로입니다.";
+"Long press anything. Secrets await." = "아무 거나 길게 누르세요. 비밀이 기다리고 있어요.";
+"Swipe left to banish a counter forever." = "왼쪽으로 스와이프하면 카운터를 영원히 추방합니다.";
+"Yeah, I know how to use a counter app, thx" = "네, 카운터 앱 사용법은 알아요, 감사합니다";
+"Tap + to add a new counter" = "+ 를 눌러 새 카운터 추가";
+"Long press and drag to reorder" = "길게 누른 채 드래그하여 순서 변경";
 "Long press a counter for more options" = "카운터를 길게 눌러 더 많은 옵션 보기";
-"Got it" = "알겠습니다";
-
+"Got it" = "알겠어요";
+/* Context Menu */
+"Statistics" = "통계";
+"History" = "기록";
+"Open Source" = "오픈 소스";
+"Source Code" = "소스 코드";
+"Report Translation Issue" = "번역 문제 신고";
+"Support" = "지원";
+"Cancel" = "취소";
+/* Watch Sync */
+"Watch Sync" = "Watch 동기화";
+"Watch Paired" = "Watch 페어링됨";
+"Watch Reachable" = "Watch 연결 가능";
+"Sync to Watch" = "Watch로 동기화";
+"Not reachable" = "연결할 수 없음";
+/* Info Section */
+"Info" = "정보";
+"Trivits" = "Trivit";
+/* History View */
+"No History Yet" = "아직 기록이 없습니다";
+"Tally events will appear here as you use the counter." = "카운터를 사용하면 여기에 이벤트가 표시됩니다.";
+"Delete Events" = "이벤트 삭제";
+"Today" = "오늘";
+"Yesterday" = "어제";
+/* Statistics View */
+"Total" = "합계";
+"Current Streak" = "현재 연속 일수";
+"Longest Streak" = "최장 연속 일수";
+"Days Tracked" = "기록한 일수";
+"Activity by Hour" = "시간대별 활동";
+"Activity by Day of Week" = "요일별 활동";
+"Monthly Trend" = "월간 추이";
+"Last 30 Days" = "최근 30일";
+/* Color Scheme Names */
+"Vibrant" = "비비드";
+"Pastel" = "파스텔";
+"Monochrome" = "모노크롬";
+"Ocean" = "오션";
+"Sunset" = "선셋";
+"Forest" = "포레스트";
+"Candy" = "캔디";
+"Earth" = "어스";
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "물 마신 잔 수";
 "Fruits eaten today" = "오늘 먹은 과일";
 "Vegetables conquered" = "정복한 채소";
-"Hours of sleep" = "잠잔 시간";
+"Hours of sleep" = "수면 시간";
 "Steps walked" = "걸은 걸음 수";
 "Push-ups done" = "팔굽혀펴기 횟수";
 "Minutes exercised" = "운동한 시간(분)";
 "Healthy snacks" = "건강한 간식";
 "Deep breaths taken" = "심호흡 횟수";
-
 /* Example Trivit Names - Fun & silly */
-"Times I said 'wow'" = "'와우' 외친 횟수";
-"Cookies in my tummy" = "내 뱃속에 들어간 쿠키";
-"Silly dances performed" = "우스꽝스러운 춤 횟수";
-"Dad jokes survived" = "아빠 개그 버틴 횟수";
-"Pillows fluffed" = "베개 두드린 횟수";
+"Times I said 'wow'" = "'와우' 라고 말한 횟수";
+"Cookies in my tummy" = "내 배 속의 쿠키";
+"Silly dances performed" = "엉뚱한 춤을 춘 횟수";
+"Dad jokes survived" = "아재 개그에 살아남은 횟수";
+"Pillows fluffed" = "뽀송뽀송하게 만든 베개";
 "Socks matched" = "짝 맞춘 양말";
 "Clouds that look like animals" = "동물처럼 생긴 구름";
-"Times the dog wagged its tail" = "강아지가 꼬리 흔든 횟수";
-"Sneezes today" = "오늘 재채기 횟수";
-"Yawns caught from others" = "옮은 하품 횟수";
+"Times the dog wagged its tail" = "강아지가 꼬리를 흔든 횟수";
+"Sneezes today" = "오늘의 재채기";
+"Yawns caught from others" = "남한테 옮은 하품";
 "High fives given" = "하이파이브 횟수";
-"Bubbles blown" = "분 비눗방울 수";
-"Puddles jumped in" = "웅덩이 점프 횟수";
-"Funny faces made" = "재미있는 표정 횟수";
-"Songs sung in shower" = "샤워하며 부른 노래";
-"Times I forgot why I walked into a room" = "방에 왜 왔는지 잊은 횟수";
-"Dinosaur facts learned" = "배운 공룡 지식";
-"Cards stacked before falling" = "쓰러지기 전 쌓은 카드";
-"Grapes caught in mouth" = "입으로 받은 포도";
+"Bubbles blown" = "불어본 비눗방울";
+"Puddles jumped in" = "뛰어든 물웅덩이";
+"Funny faces made" = "재미있는 표정 지은 횟수";
+"Songs sung in shower" = "샤워 중 부른 노래";
+"Times I forgot why I walked into a room" = "방에 들어가서 왜 왔는지 까먹은 횟수";
+"Dinosaur facts learned" = "배운 공룡 상식";
+"Cards stacked before falling" = "무너지기 전까지 쌓은 카드";
+"Grapes caught in mouth" = "입으로 받아먹은 포도";
 "Paper airplanes launched" = "날린 종이비행기";
-
 /* Example Trivit Names - Productivity */
 "Books read" = "읽은 책";
 "Pages finished" = "읽은 페이지";
-"Tasks completed" = "완료한 할 일";
+"Tasks completed" = "완료한 작업";
 "Ideas had" = "떠오른 아이디어";
 "Problems solved" = "해결한 문제";
 "Minutes of focus" = "집중한 시간(분)";
-"Emails conquered" = "처리한 이메일";
-"Meetings survived" = "버틴 회의";
-
+"Emails conquered" = "정복한 이메일";
+"Meetings survived" = "살아남은 회의";
 /* Example Trivit Names - Kindness & gratitude */
-"Hugs given" = "안아준 횟수";
-"Thank yous said" = "감사 인사 횟수";
+"Hugs given" = "한 포옹 횟수";
+"Thank yous said" = "고마워요 라고 말한 횟수";
 "Smiles shared" = "나눈 미소";
-"Compliments given" = "건넨 칭찬";
+"Compliments given" = "한 칭찬 횟수";
 "Acts of kindness" = "친절한 행동";
 "Friends helped" = "도와준 친구";
 "Doors held open" = "문 잡아준 횟수";
-
 /* Example Trivit Names - Learning */
-"New words learned" = "배운 새 단어";
+"New words learned" = "배운 새로운 단어";
 "Questions asked" = "질문한 횟수";
 "Facts discovered" = "발견한 사실";
 "Languages practiced" = "연습한 언어";
-"Puzzles solved" = "푼 퍼즐";
+"Puzzles solved" = "풀어낸 퍼즐";
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "모든 Trivit을 삭제하시겠습니까?";
+"Are you sure you want to reset '%@'?" = "'%@'을(를) 초기화하시겠습니까?";
+"Are you sure you want to reset all counts to 0?" = "모든 카운트를 0으로 초기화하시겠습니까?";
+"Blue" = "파란색";
+"Cannot add" = "추가할 수 없음";
+"Color - %@" = "색상 - %@";
+"Days in prison" = "감옥에 있었던 일수";
+"Default" = "기본값";
+"Delete all Trivits" = "모든 Trivit 삭제";
+"Drinks" = "음료";
+"Feedback" = "피드백";
+"Get started!" = "시작해 볼까요!";
+"Give your Trivit a name" = "Trivit에 이름을 지어주세요";
+"Got it." = "알겠어요.";
+"Green" = "초록색";
+"I am missing some things..." = "몇 가지 부족한 점이 있어요...";
+"I don't get it." = "잘 모르겠어요.";
+"I like what I see." = "마음에 들어요.";
+"I've seen better, I've seen worse." = "그저 그래요.";
+"No" = "아니요";
+"Off" = "끄기";
+"On" = "켜기";
+"Open or close your new Trivit with a single tap" = "한 번 탭하여 새 Trivit을 열거나 닫으세요";
+"Please finish editing the title first." = "먼저 제목 편집을 완료해 주세요.";
+"Red" = "빨간색";
+"Remove all" = "모두 제거";
+"Reset Trivit" = "Trivit 초기화";
+"Reset all" = "모두 초기화";
+"Reset all Trivits" = "모든 Trivit 초기화";
+"Tap an image to rate:" = "이미지를 탭하여 평가:";
+"Tap the minus to decrease the count, hold long to reset" = "마이너스를 탭하여 카운트 감소, 길게 눌러 초기화";
+"Tap the pen to add a new Trivit" = "펜을 탭하여 새 Trivit 추가";
+"Tap to increase the count" = "탭하여 카운트 증가";
+"This is the best app ever!" = "역대 최고의 앱이에요!";
+"Tutorial" = "튜토리얼";
+"Vibration - %@" = "진동 - %@";
+"Went swimming this year" = "올해 수영 간 횟수";
+"Yes" = "네";
+"Your feedback (optional)" = "의견을 남겨주세요 (선택사항)";
+```

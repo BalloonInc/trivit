@@ -1,0 +1,36 @@
+O Trivit é uma aplicação de contagem lindamente simples que o ajuda a acompanhar qualquer coisa na sua vida. Quer esteja a contar hábitos, treinos, objetivos diários ou inventário, o Trivit torna tudo fácil e agradável.
+
+SIMPLES E INTUITIVO
+Basta tocar para contar. Sem configuração complicada, sem curva de aprendizagem. Crie um novo contador em segundos e comece a acompanhar imediatamente. A interface limpa e sem distrações mantém-no focado no que importa.
+
+APLICAÇÃO APPLE WATCH
+Acompanhe as suas contagens diretamente do pulso com a novíssima aplicação Apple Watch. As suas contagens sincronizam instantaneamente entre iPhone e Apple Watch, para que esteja sempre atualizado, independentemente do dispositivo que utilizar.
+
+BELOS TEMAS DE CORES
+Escolha entre 8 temas de cores vibrantes para personalizar os seus contadores. Cada contador tem a sua própria cor distintiva, facilitando a identificação num relance. O design colorido e plano é bonito e funcional.
+
+CONTE QUALQUER COISA
+- Hábitos e rotinas diárias
+- Repetições e séries de treino
+- Contagens de inventário
+- Registo de pontuações em jogos
+- Observação de aves ou vida selvagem
+- Copos de água consumidos
+- Passos em direção a um objetivo
+- Qualquer outra coisa que precise de contar!
+
+SINCRONIZE EM TODOS OS DISPOSITIVOS
+Os seus contadores sincronizam automaticamente em todos os seus dispositivos através do iCloud. Comece a contar no iPhone e continue no Apple Watch, ou vice-versa. Os seus dados estão sempre consigo.
+
+PRIVACIDADE EM PRIMEIRO LUGAR
+Os seus dados ficam nos seus dispositivos e na sua conta pessoal do iCloud. Não recolhemos informações pessoais e não há análises ou rastreamento. As suas contagens são da sua conta.
+
+SEM ANÚNCIOS, SEM SUBSCRIÇÕES
+O Trivit é completamente gratuito, sem anúncios, sem compras na app e sem subscrições. Apenas uma excelente aplicação que faz o que promete.
+
+CÓDIGO ABERTO
+O Trivit é código aberto! Pode ver o código, sugerir melhorias ou contribuir no GitHub em https://github.com/BalloonInc/trivit-ios
+
+A versão 5.0 é uma reescrita completa utilizando a mais recente tecnologia SwiftUI da Apple, oferecendo desempenho melhorado e uma experiência de utilizador refinada, mantendo a simplicidade que torna o Trivit excelente.
+
+Transfira o Trivit hoje e comece a contar o que é importante para si.

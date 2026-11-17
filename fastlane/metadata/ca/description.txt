@@ -1,0 +1,36 @@
+Trivit és una aplicació de comptatge bellament simple que t'ajuda a fer el seguiment de qualsevol cosa a la teva vida. Tant si comptes hàbits, entrenaments, objectius diaris o inventari, Trivit ho fa fàcil i agradable.
+
+SIMPLE I INTUÏTIU
+Només toca per comptar. Sense configuració complicada, sense corba d'aprenentatge. Crea un nou comptador en segons i comença a fer el seguiment immediatament. La interfície neta i sense distraccions et manté centrat en el que importa.
+
+APLICACIÓ PER A APPLE WATCH
+Fes el seguiment dels teus comptadors directament des del canell amb la nova aplicació Apple Watch. Els teusrecomptes se sincronitzen instantàniament entre iPhone i Apple Watch, de manera que sempre estàs al dia independentment del dispositiu que facis servir.
+
+BONICS TEMES DE COLORS
+Tria entre 8 temes de colors vibrants per personalitzar els teus comptadors. Cada comptador té el seu propi color distintiu, fent fàcil la identificació d'un cop d'ull. El disseny colorit i pla és tant bonic com funcional.
+
+COMPTA QUALSEVOL COSA
+- Hàbits i rutines diàries
+- Repeticions i sèries d'entrenament
+- Recomptes d'inventari
+- Registre de puntuacions en jocs
+- Observació d'ocells o fauna salvatge
+- Gots d'aigua consumits
+- Passos cap a un objectiu
+- Qualsevol altra cosa que necessitis comptar!
+
+SINCRONITZACIÓ A TOTS ELS DISPOSITIUS
+Els teus comptadors se sincronitzen automàticament a tots els teus dispositius mitjançant iCloud. Comença a comptar al teu iPhone i continua al teu Apple Watch, o viceversa. Les teves dades sempre són amb tu.
+
+PRIVACITAT PRIMER
+Les teves dades es queden als teus dispositius i al teu compte personal d'iCloud. No recopilem cap informació personal, i no hi ha analítiques ni seguiment. Els teus recomptes són cosa teva.
+
+SENSE ANUNCIS, SENSE SUBSCRIPCIONS
+Trivit és completament gratuït sense anuncis, sense compres dins l'app i sense subscripcions. Només una gran aplicació que fa el que diu.
+
+CODI OBERT
+Trivit és de codi obert! Pots veure el codi, suggerir millores o contribuir a GitHub a https://github.com/BalloonInc/trivit-ios
+
+La versió 5.0 és una reescriptura completa amb la darrera tecnologia SwiftUI d'Apple, oferint un rendiment millorat i una experiència d'usuari refinada, mantenint la simplicitat que fa gran a Trivit.
+
+Descarrega Trivit avui i comença a comptar el que t'importa.

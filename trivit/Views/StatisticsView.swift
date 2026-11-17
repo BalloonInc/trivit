@@ -67,14 +67,14 @@ struct StatisticsView: View {
         return VStack(spacing: 12) {
             HStack(spacing: 12) {
                 SummaryCard(
-                    title: "Total",
+                    title: NSLocalizedString("Total", comment: ""),
                     value: "\(trivit.count)",
                     icon: "number",
                     color: themeColor
                 )
 
                 SummaryCard(
-                    title: "Current Streak",
+                    title: NSLocalizedString("Current Streak", comment: ""),
                     value: "\(streak.currentStreak)",
                     icon: "flame.fill",
                     color: streak.currentStreak > 0 ? .orange : .gray
@@ -83,14 +83,14 @@ struct StatisticsView: View {
 
             HStack(spacing: 12) {
                 SummaryCard(
-                    title: "Longest Streak",
+                    title: NSLocalizedString("Longest Streak", comment: ""),
                     value: "\(streak.longestStreak)",
                     icon: "trophy.fill",
                     color: .yellow
                 )
 
                 SummaryCard(
-                    title: "Days Tracked",
+                    title: NSLocalizedString("Days Tracked", comment: ""),
                     value: formattedDaysSinceCreation,
                     icon: "calendar",
                     color: themeColor
@@ -111,7 +111,7 @@ struct StatisticsView: View {
         let data = statisticsService.countsByHourOfDay(for: trivit.id)
         let maxCount = data.map(\.count).max() ?? 1
 
-        return ChartCard(title: "Activity by Hour", icon: "clock") {
+        return ChartCard(title: NSLocalizedString("Activity by Hour", comment: ""), icon: "clock") {
             Chart(data) { item in
                 BarMark(
                     x: .value("Hour", formatHour(item.hour)),
@@ -149,7 +149,7 @@ struct StatisticsView: View {
         let data = statisticsService.countsByDayOfWeek(for: trivit.id)
         let maxCount = data.map(\.count).max() ?? 1
 
-        return ChartCard(title: "Activity by Day of Week", icon: "calendar.badge.clock") {
+        return ChartCard(title: NSLocalizedString("Activity by Day of Week", comment: ""), icon: "calendar.badge.clock") {
             Chart(data) { item in
                 BarMark(
                     x: .value("Day", item.dayName),
@@ -172,7 +172,7 @@ struct StatisticsView: View {
         let data = statisticsService.monthlyTotals(for: trivit.id, months: 6)
         let maxCount = data.map(\.count).max() ?? 1
 
-        return ChartCard(title: "Monthly Trend", icon: "chart.line.uptrend.xyaxis") {
+        return ChartCard(title: NSLocalizedString("Monthly Trend", comment: ""), icon: "chart.line.uptrend.xyaxis") {
             Chart(data) { item in
                 LineMark(
                     x: .value("Month", item.month, unit: .month),
@@ -214,7 +214,7 @@ struct StatisticsView: View {
         let data = statisticsService.dailyActivity(for: trivit.id, days: 30)
         let maxCount = data.map(\.count).max() ?? 1
 
-        return ChartCard(title: "Last 30 Days", icon: "chart.bar.fill") {
+        return ChartCard(title: NSLocalizedString("Last 30 Days", comment: ""), icon: "chart.bar.fill") {
             Chart(data) { item in
                 BarMark(
                     x: .value("Date", item.date, unit: .day),

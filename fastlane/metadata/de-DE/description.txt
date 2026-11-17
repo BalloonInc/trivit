@@ -1,0 +1,36 @@
+Trivit ist eine wunderschön einfache Zähler-App, die dir hilft, alles in deinem Leben zu erfassen. Ob du Gewohnheiten, Trainings, tägliche Ziele oder Inventar zählst – Trivit macht es mühelos und angenehm.
+
+EINFACH UND INTUITIV
+Einfach tippen zum Zählen. Keine komplizierte Einrichtung, keine Lernkurve. Erstelle in Sekunden einen neuen Zähler und beginne sofort mit dem Erfassen. Die übersichtliche, ablenkungsfreie Oberfläche hält dich auf das Wesentliche konzentriert.
+
+APPLE WATCH-APP
+Verfolge deine Zähler direkt von deinem Handgelenk mit der brandneuen Apple Watch-App. Deine Zählungen werden sofort zwischen iPhone und Apple Watch synchronisiert, sodass du immer auf dem neuesten Stand bist, egal welches Gerät du verwendest.
+
+WUNDERSCHÖNE FARBTHEMEN
+Wähle aus 8 lebendigen Farbthemen, um deine Zähler zu personalisieren. Jeder Zähler bekommt seine eigene unverwechselbare Farbe, sodass er auf einen Blick leicht zu erkennen ist. Das farbenfrohe, flache Design ist sowohl schön als auch funktional.
+
+ZÄHLE ALLES
+- Tägliche Gewohnheiten und Routinen
+- Trainingswiederholungen und Sätze
+- Inventurzählungen
+- Punktezählung bei Spielen
+- Vogelbeobachtung oder Wildtiersichtungen
+- Getrunkene Gläser Wasser
+- Schritte auf ein Ziel hin
+- Alles andere, was du zählen musst!
+
+SYNCHRONISATION ÜBER ALLE GERÄTE
+Deine Zähler synchronisieren sich automatisch über alle Geräte mit iCloud. Beginne auf deinem iPhone zu zählen und fahre auf deiner Apple Watch fort, oder umgekehrt. Deine Daten sind immer bei dir.
+
+PRIVATSPHÄRE ZUERST
+Deine Daten bleiben auf deinen Geräten und in deinem persönlichen iCloud-Konto. Wir sammeln keine persönlichen Informationen, und es gibt keine Analysen oder Tracking. Deine Zählungen sind deine Angelegenheit.
+
+KEINE WERBUNG, KEINE ABOS
+Trivit ist komplett kostenlos, ohne Werbung, ohne In-App-Käufe und ohne Abonnements. Einfach eine großartige App, die tut, was sie verspricht.
+
+OPEN SOURCE
+Trivit ist Open Source! Du kannst den Code einsehen, Verbesserungen vorschlagen oder auf GitHub beitragen unter https://github.com/BalloonInc/trivit-ios
+
+Version 5.0 ist eine komplette Neuentwicklung mit Apples neuester SwiftUI-Technologie und bietet verbesserte Leistung und ein verfeinertes Benutzererlebnis, wobei die Einfachheit beibehalten wird, die Trivit großartig macht.
+
+Lade Trivit heute herunter und beginne zu zählen, was dir wichtig ist.

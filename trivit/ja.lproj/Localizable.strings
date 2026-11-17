@@ -1,187 +1,194 @@
 /* App Name */
 "Trivit" = "Trivit";
-
 /* Navigation */
 "Settings" = "設定";
 "Done" = "完了";
-
 /* Empty State */
-"No Trivits Yet" = "カウンターがありません";
-"Tap + to create your first tally counter" = "+ をタップして最初のカウンターを作成";
-
+"No Trivits Yet" = "まだTrivitがありません";
+"Tap + to create your first tally counter" = "+ をタップして最初のカウンターを作りましょう";
 /* Trivit Actions */
-"New Trivit" = "新しいカウンター";
+"New Trivit" = "新しいTrivit";
 "Rename" = "名前を変更";
 "Change Color" = "色を変更";
 "Reset Count" = "カウントをリセット";
 "Delete" = "削除";
 "Title" = "タイトル";
-
 /* Settings - Sections */
 "General" = "一般";
-"Color Scheme" = "カラースキーム";
+"Color Scheme" = "カラーテーマ";
 "Sync Info" = "同期情報";
-"About" = "情報";
+"About" = "このアプリについて";
 "Data" = "データ";
-
 /* Settings - General */
 "Haptic Feedback" = "触覚フィードバック";
 "Palette" = "パレット";
-
 /* Settings - Sync Info */
-"Trivits Synced" = "同期済みカウンター";
+"Trivits Synced" = "同期済みのTrivit";
 "Last Sync" = "最終同期";
 "Device" = "デバイス";
-
 /* Settings - About */
 "Version" = "バージョン";
-"Rate on App Store" = "App Storeで評価";
+"Rate on App Store" = "App Storeで評価する";
 "Send Feedback" = "フィードバックを送信";
-
 /* Settings - Data */
-"Reset All Trivits" = "すべてのカウンターをリセット";
-
-/* Color Scheme Names */
-"Vibrant" = "鮮やか";
-"Pastel" = "パステル";
-"Monochrome" = "モノクロ";
-"Ocean" = "海";
-"Sunset" = "夕焼け";
-"Forest" = "森";
-"Candy" = "キャンディ";
-"Earth" = "大地";
-
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "すべてのカウンターを削除しますか？";
-"Are you sure you want to reset '%@'?" = "'%@'をリセットしますか？";
-"Are you sure you want to reset all counts to 0?" = "すべてのカウントを0にリセットしますか？";
-"Blue" = "青";
-"Cannot add" = "追加できません";
-"Color - %@" = "色 - %@";
-"Days in prison" = "刑務所での日数";
-"Default" = "デフォルト";
-"Delete all Trivits" = "すべてのカウンターを削除";
-"Drinks" = "飲み物";
-"Feedback" = "フィードバック";
-"Get started!" = "始めましょう！";
-"Give your Trivit a name" = "カウンターに名前をつける";
-"Got it." = "わかりました。";
-"Green" = "緑";
-"I am missing some things..." = "何か足りない気がします...";
-"I don't get it." = "わかりません。";
-"I like what I see." = "気に入りました。";
-"I've seen better, I've seen worse." = "まあまあです。";
-"No" = "いいえ";
-"Off" = "オフ";
-"On" = "オン";
-"Open or close your new Trivit with a single tap" = "ワンタップでカウンターを開閉";
-"Please finish editing the title first." = "先にタイトルの編集を完了してください。";
-"Red" = "赤";
-"Remove all" = "すべて削除";
-"Reset Trivit" = "カウンターをリセット";
-"Reset all" = "すべてリセット";
-"Reset all Trivits" = "すべてのカウンターをリセット";
-"Tap an image to rate:" = "画像をタップして評価:";
-"Tap the minus to decrease the count, hold long to reset" = "マイナスをタップで減少、長押しでリセット";
-"Tap the pen to add a new Trivit" = "ペンをタップして新しいカウンターを追加";
-"Tap to increase the count" = "タップでカウントアップ";
-"This is the best app ever!" = "最高のアプリです！";
-"Tutorial" = "チュートリアル";
-"Vibration - %@" = "振動 - %@";
-"Went swimming this year" = "今年の水泳回数";
-"Yes" = "はい";
-"Your feedback (optional)" = "フィードバック（任意）";
-
+"Reset All Trivits" = "すべてのTrivitをリセット";
 /* Settings - General (new) */
-"Hide Counter When Expanded" = "展開時にカウンターを非表示";
-
+"Hide Counter When Expanded" = "展開時にカウンターを隠す";
 /* Deleted Items */
-"Deleted Items" = "削除済み項目";
+"Deleted Items" = "削除済みアイテム";
 "Recently Deleted" = "最近削除した項目";
-"No Deleted Items" = "削除済み項目はありません";
-"Items you delete will appear here for 30 days" = "削除した項目は30日間ここに表示されます";
-"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "30日後に完全に削除されます。右にスワイプで復元、左にスワイプで完全削除。";
+"No Deleted Items" = "削除済みアイテムはありません";
+"Items you delete will appear here for 30 days" = "削除したアイテムは30日間ここに表示されます";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "アイテムは30日後に完全に削除されます。右にスワイプで復元、左にスワイプで完全に削除します。";
 "Empty Trash" = "ゴミ箱を空にする";
 "Restore" = "復元";
-
 /* Undo Toast */
-"Deleted \"%@\"" = "「%@」を削除しました";
+"Deleted \"%@\"" = "\"%@\" を削除しました";
 "Undo" = "元に戻す";
-
 /* Tutorial */
 "Welcome to Trivit" = "Trivitへようこそ";
-"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "＋をタップしてカウンターを追加。タップで数字が増えます。画期的でしょ。";
-"That minus button? It does exactly what you think." = "マイナスボタン？想像通りの機能です。";
-"Long press anything. Secrets await." = "何でも長押ししてみて。秘密が待ってるよ。";
-"Swipe left to banish a counter forever." = "左にスワイプでカウンターを永久追放。";
-"Yeah, I know how to use a counter app, thx" = "うん、カウンターアプリの使い方は知ってるよ、ありがと";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "+ をタップしてカウンターを追加。タップで数字が増える。はい、天才。";
+"That minus button? It does exactly what you think." = "あのマイナスボタン？想像通りの動きをします。";
+"Long press anything. Secrets await." = "長押ししてみて。秘密が待ってるよ。";
+"Swipe left to banish a counter forever." = "左にスワイプでカウンターを永遠に追放。";
+"Yeah, I know how to use a counter app, thx" = "カウンターアプリくらい使えるよ、どうも";
 "Tap + to add a new counter" = "+ をタップして新しいカウンターを追加";
-"Long press and drag to reorder" = "長押ししてドラッグで並べ替え";
-"Long press a counter for more options" = "長押しでオプションを表示";
-"Got it" = "わかりました";
-
+"Long press and drag to reorder" = "長押しでドラッグして並べ替え";
+"Long press a counter for more options" = "カウンターを長押しでオプションを表示";
+"Got it" = "わかった";
 /* Context Menu */
 "Statistics" = "統計";
 "History" = "履歴";
 "Open Source" = "オープンソース";
 "Source Code" = "ソースコード";
 "Report Translation Issue" = "翻訳の問題を報告";
-
+"Support" = "サポート";
+"Cancel" = "キャンセル";
+/* Watch Sync */
+"Watch Sync" = "Watch同期";
+"Watch Paired" = "Watchペアリング済み";
+"Watch Reachable" = "Watch到達可能";
+"Sync to Watch" = "Watchに同期";
+"Not reachable" = "到達不可";
+/* Info Section */
+"Info" = "情報";
+"Trivits" = "Trivit";
+/* History View */
+"No History Yet" = "まだ履歴がありません";
+"Tally events will appear here as you use the counter." = "カウンターを使うと、ここにイベントが表示されます。";
+"Delete Events" = "イベントを削除";
+"Today" = "今日";
+"Yesterday" = "昨日";
+/* Statistics View */
+"Total" = "合計";
+"Current Streak" = "現在の連続日数";
+"Longest Streak" = "最長連続日数";
+"Days Tracked" = "記録した日数";
+"Activity by Hour" = "時間帯別アクティビティ";
+"Activity by Day of Week" = "曜日別アクティビティ";
+"Monthly Trend" = "月間トレンド";
+"Last 30 Days" = "過去30日間";
+/* Color Scheme Names */
+"Vibrant" = "ビビッド";
+"Pastel" = "パステル";
+"Monochrome" = "モノクロ";
+"Ocean" = "オーシャン";
+"Sunset" = "サンセット";
+"Forest" = "フォレスト";
+"Candy" = "キャンディ";
+"Earth" = "アース";
 /* Example Trivit Names - Healthy habits */
-"Glasses of water" = "お水を飲んだ回数";
-"Fruits eaten today" = "今日食べたフルーツ";
-"Vegetables conquered" = "やっつけた野菜";
+"Glasses of water" = "水を飲んだ杯数";
+"Fruits eaten today" = "今日食べた果物";
+"Vegetables conquered" = "制覇した野菜";
 "Hours of sleep" = "睡眠時間";
 "Steps walked" = "歩いた歩数";
 "Push-ups done" = "腕立て伏せの回数";
 "Minutes exercised" = "運動した分数";
-"Healthy snacks" = "ヘルシーおやつ";
+"Healthy snacks" = "ヘルシーなおやつ";
 "Deep breaths taken" = "深呼吸した回数";
-
 /* Example Trivit Names - Fun & silly */
-"Times I said 'wow'" = "「わぁ！」って言った回数";
-"Cookies in my tummy" = "おなかの中のクッキー";
-"Silly dances performed" = "へんてこダンスした回数";
-"Dad jokes survived" = "パパのダジャレに耐えた回数";
-"Pillows fluffed" = "枕をふかふかにした回数";
-"Socks matched" = "そろえた靴下";
+"Times I said 'wow'" = "「すごい」と言った回数";
+"Cookies in my tummy" = "お腹に入ったクッキー";
+"Silly dances performed" = "おバカなダンスを踊った回数";
+"Dad jokes survived" = "おやじギャグに耐えた回数";
+"Pillows fluffed" = "ふかふかにした枕";
+"Socks matched" = "揃えた靴下のペア";
 "Clouds that look like animals" = "動物に見えた雲";
 "Times the dog wagged its tail" = "犬がしっぽを振った回数";
 "Sneezes today" = "今日のくしゃみ";
-"Yawns caught from others" = "もらいあくび";
+"Yawns caught from others" = "人からうつったあくび";
 "High fives given" = "ハイタッチした回数";
-"Bubbles blown" = "ふいたシャボン玉";
-"Puddles jumped in" = "水たまりにジャンプした回数";
+"Bubbles blown" = "吹いたシャボン玉";
+"Puddles jumped in" = "飛び込んだ水たまり";
 "Funny faces made" = "変顔した回数";
-"Songs sung in shower" = "お風呂で歌った曲";
-"Times I forgot why I walked into a room" = "なんで来たか忘れた回数";
+"Songs sung in shower" = "シャワー中に歌った曲";
+"Times I forgot why I walked into a room" = "部屋に入って用事を忘れた回数";
 "Dinosaur facts learned" = "覚えた恐竜の豆知識";
-"Cards stacked before falling" = "倒れる前に積めたトランプ";
+"Cards stacked before falling" = "崩れるまで積めたカード";
 "Grapes caught in mouth" = "口でキャッチしたぶどう";
 "Paper airplanes launched" = "飛ばした紙飛行機";
-
 /* Example Trivit Names - Productivity */
 "Books read" = "読んだ本";
-"Pages finished" = "読んだページ";
-"Tasks completed" = "終わらせたタスク";
+"Pages finished" = "読み終えたページ";
+"Tasks completed" = "完了したタスク";
 "Ideas had" = "ひらめいたアイデア";
 "Problems solved" = "解決した問題";
 "Minutes of focus" = "集中した分数";
-"Emails conquered" = "やっつけたメール";
-"Meetings survived" = "乗り切った会議";
-
+"Emails conquered" = "制覇したメール";
+"Meetings survived" = "生き延びた会議";
 /* Example Trivit Names - Kindness & gratitude */
 "Hugs given" = "ハグした回数";
-"Thank yous said" = "ありがとうの回数";
-"Smiles shared" = "にっこり笑った回数";
+"Thank yous said" = "ありがとうを言った回数";
+"Smiles shared" = "分かち合った笑顔";
 "Compliments given" = "褒めた回数";
 "Acts of kindness" = "親切にした回数";
 "Friends helped" = "助けた友達";
 "Doors held open" = "ドアを押さえてあげた回数";
-
 /* Example Trivit Names - Learning */
-"New words learned" = "覚えた新しい言葉";
+"New words learned" = "覚えた新しい単語";
 "Questions asked" = "質問した回数";
-"Facts discovered" = "発見したこと";
+"Facts discovered" = "発見した事実";
 "Languages practiced" = "練習した言語";
 "Puzzles solved" = "解いたパズル";
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "すべてのTrivitを削除してもよろしいですか？";
+"Are you sure you want to reset '%@'?" = "'%@' をリセットしてもよろしいですか？";
+"Are you sure you want to reset all counts to 0?" = "すべてのカウントを0にリセットしてもよろしいですか？";
+"Blue" = "青";
+"Cannot add" = "追加できません";
+"Color - %@" = "色 - %@";
+"Days in prison" = "刑務所にいた日数";
+"Default" = "デフォルト";
+"Delete all Trivits" = "すべてのTrivitを削除";
+"Drinks" = "飲み物";
+"Feedback" = "フィードバック";
+"Get started!" = "さあ始めよう！";
+"Give your Trivit a name" = "Trivitに名前をつけましょう";
+"Got it." = "わかった。";
+"Green" = "緑";
+"I am missing some things..." = "足りないものがある…";
+"I don't get it." = "よくわからない。";
+"I like what I see." = "いい感じ。";
+"I've seen better, I've seen worse." = "まあまあかな。";
+"No" = "いいえ";
+"Off" = "オフ";
+"On" = "オン";
+"Open or close your new Trivit with a single tap" = "ワンタップで新しいTrivitを開閉";
+"Please finish editing the title first." = "先にタイトルの編集を完了してください。";
+"Red" = "赤";
+"Remove all" = "すべて削除";
+"Reset Trivit" = "Trivitをリセット";
+"Reset all" = "すべてリセット";
+"Reset all Trivits" = "すべてのTrivitをリセット";
+"Tap an image to rate:" = "画像をタップして評価：";
+"Tap the minus to decrease the count, hold long to reset" = "マイナスをタップでカウントを減らし、長押しでリセット";
+"Tap the pen to add a new Trivit" = "ペンをタップして新しいTrivitを追加";
+"Tap to increase the count" = "タップでカウントを増やす";
+"This is the best app ever!" = "今まで最高のアプリ！";
+"Tutorial" = "チュートリアル";
+"Vibration - %@" = "振動 - %@";
+"Went swimming this year" = "今年泳ぎに行った回数";
+"Yes" = "はい";
+"Your feedback (optional)" = "ご意見（任意）";
+```

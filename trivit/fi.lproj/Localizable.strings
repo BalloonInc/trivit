@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Asetukset";
+"Done" = "Valmis";
+
+/* Empty State */
+"No Trivits Yet" = "Ei vielä Trivittejä";
+"Tap + to create your first tally counter" = "Napauta + luodaksesi ensimmäisen laskurin";
+
+/* Trivit Actions */
+"New Trivit" = "Uusi Trivit";
+"Rename" = "Nimeä uudelleen";
+"Change Color" = "Vaihda väri";
+"Reset Count" = "Nollaa laskuri";
+"Delete" = "Poista";
+"Title" = "Otsikko";
+
+/* Settings - Sections */
+"General" = "Yleiset";
+"Color Scheme" = "Väriteema";
+"Sync Info" = "Synkronointitiedot";
+"About" = "Tietoja";
+"Data" = "Tiedot";
+
+/* Settings - General */
+"Haptic Feedback" = "Haptinen palaute";
+"Palette" = "Paletti";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Synkronoidut Trivitit";
+"Last Sync" = "Viimeisin synkronointi";
+"Device" = "Laite";
+
+/* Settings - About */
+"Version" = "Versio";
+"Rate on App Store" = "Arvostele App Storessa";
+"Send Feedback" = "Lähetä palautetta";
+
+/* Settings - Data */
+"Reset All Trivits" = "Nollaa kaikki Trivitit";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Piilota laskuri laajennettuna";
+
+/* Deleted Items */
+"Deleted Items" = "Poistetut kohteet";
+"Recently Deleted" = "Äskettäin poistetut";
+"No Deleted Items" = "Ei poistettuja kohteita";
+"Items you delete will appear here for 30 days" = "Poistamasi kohteet näkyvät täällä 30 päivää";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Kohteet poistetaan pysyvästi 30 päivän jälkeen. Pyyhkäise oikealle palauttaaksesi, pyyhkäise vasemmalle poistaaksesi pysyvästi.";
+"Empty Trash" = "Tyhjennä roskakori";
+"Restore" = "Palauta";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Poistettu \"%@\"";
+"Undo" = "Kumoa";
+
+/* Tutorial */
+"Welcome to Trivit" = "Tervetuloa Trivitiin";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Napauta + lisätäksesi laskurin. Napauta sitä kasvattaaksesi lukua. Mieli = räjäytetty.";
+"That minus button? It does exactly what you think." = "Se miinusnappi? Se tekee juuri sen mitä luuletkin.";
+"Long press anything. Secrets await." = "Paina pitkään mitä tahansa. Salaisuudet odottavat.";
+"Swipe left to banish a counter forever." = "Pyyhkäise vasemmalle karkoittaaksesi laskurin ikuisesti.";
+"Yeah, I know how to use a counter app, thx" = "Joo, osaan käyttää laskurisovellusta, kiitos";
+"Tap + to add a new counter" = "Napauta + lisätäksesi uuden laskurin";
+"Long press and drag to reorder" = "Paina pitkään ja vedä järjestääksesi uudelleen";
+"Long press a counter for more options" = "Paina laskuria pitkään saadaksesi lisää vaihtoehtoja";
+"Got it" = "Selvä";
+
+/* Context Menu */
+"Statistics" = "Tilastot";
+"History" = "Historia";
+"Open Source" = "Avoin lähdekoodi";
+"Source Code" = "Lähdekoodi";
+"Report Translation Issue" = "Ilmoita käännösvirheestä";
+"Support" = "Tuki";
+"Cancel" = "Peruuta";
+
+/* Watch Sync */
+"Watch Sync" = "Watch-synkronointi";
+"Watch Paired" = "Watch yhdistetty";
+"Watch Reachable" = "Watch tavoitettavissa";
+"Sync to Watch" = "Synkronoi Watchiin";
+"Not reachable" = "Ei tavoitettavissa";
+
+/* Info Section */
+"Info" = "Tiedot";
+"Trivits" = "Trivitit";
+
+/* History View */
+"No History Yet" = "Ei vielä historiaa";
+"Tally events will appear here as you use the counter." = "Laskuritapahtumat näkyvät täällä käyttäessäsi laskuria.";
+"Delete Events" = "Poista tapahtumat";
+"Today" = "Tänään";
+"Yesterday" = "Eilen";
+
+/* Statistics View */
+"Total" = "Yhteensä";
+"Current Streak" = "Nykyinen putki";
+"Longest Streak" = "Pisin putki";
+"Days Tracked" = "Päiviä seurattu";
+"Activity by Hour" = "Aktiviteetti tunneittain";
+"Activity by Day of Week" = "Aktiviteetti viikonpäivittäin";
+"Monthly Trend" = "Kuukausittainen trendi";
+"Last 30 Days" = "Viimeiset 30 päivää";
+
+/* Color Scheme Names */
+"Vibrant" = "Eloisa";
+"Pastel" = "Pastelli";
+"Monochrome" = "Yksivärinen";
+"Ocean" = "Valtameri";
+"Sunset" = "Auringonlasku";
+"Forest" = "Metsä";
+"Candy" = "Karkki";
+"Earth" = "Maa";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Lasillista vettä";
+"Fruits eaten today" = "Hedelmiä syöty tänään";
+"Vegetables conquered" = "Vihanneksia valloitettu";
+"Hours of sleep" = "Tuntia unta";
+"Steps walked" = "Askeleita kävelty";
+"Push-ups done" = "Punnerruksia tehty";
+"Minutes exercised" = "Minuuttia liikuntaa";
+"Healthy snacks" = "Terveellisiä välipaloja";
+"Deep breaths taken" = "Syviä hengityksiä otettu";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Kertaa sanoin 'vau'";
+"Cookies in my tummy" = "Keksejä mahassani";
+"Silly dances performed" = "Hölmöjä tansseja esitetty";
+"Dad jokes survived" = "Isähuumoria selviytynyt";
+"Pillows fluffed" = "Tyynyjä kohautettu";
+"Socks matched" = "Sukkia yhdistelty";
+"Clouds that look like animals" = "Pilviä jotka näyttävät eläimiltä";
+"Times the dog wagged its tail" = "Kertaa koira heilutti häntäänsä";
+"Sneezes today" = "Aivastelua tänään";
+"Yawns caught from others" = "Haukotteluja tarttunut muilta";
+"High fives given" = "Yläfemmoja annettu";
+"Bubbles blown" = "Kuplia puhallettu";
+"Puddles jumped in" = "Lätäköihin hypätty";
+"Funny faces made" = "Hauskoja naamoja tehty";
+"Songs sung in shower" = "Lauluja laulettu suihkussa";
+"Times I forgot why I walked into a room" = "Kertaa unohdin miksi kävelin huoneeseen";
+"Dinosaur facts learned" = "Dinosaurusfaktoja opittu";
+"Cards stacked before falling" = "Kortteja pinottu ennen kaatumista";
+"Grapes caught in mouth" = "Rypäleitä naapattu suuhun";
+"Paper airplanes launched" = "Paperilentokoneita laukaistu";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Kirjoja luettu";
+"Pages finished" = "Sivuja luettu";
+"Tasks completed" = "Tehtäviä suoritettu";
+"Ideas had" = "Ideoita saatu";
+"Problems solved" = "Ongelmia ratkaistu";
+"Minutes of focus" = "Minuuttia keskittymistä";
+"Emails conquered" = "Sähköposteja valloitettu";
+"Meetings survived" = "Kokouksia selviytynyt";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Halauksia annettu";
+"Thank yous said" = "Kiitoksia sanottu";
+"Smiles shared" = "Hymyjä jaettu";
+"Compliments given" = "Kohteliaisuuksia annettu";
+"Acts of kindness" = "Ystävällisiä tekoja";
+"Friends helped" = "Ystäviä autettu";
+"Doors held open" = "Ovia pidetty auki";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Uusia sanoja opittu";
+"Questions asked" = "Kysymyksiä esitetty";
+"Facts discovered" = "Faktoja löydetty";
+"Languages practiced" = "Kieliä harjoiteltu";
+"Puzzles solved" = "Pulmia ratkaistu";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Haluatko varmasti poistaa kaikki Trivitit?";
+"Are you sure you want to reset '%@'?" = "Haluatko varmasti nollata '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Haluatko varmasti nollata kaikki laskurit nollaan?";
+"Blue" = "Sininen";
+"Cannot add" = "Ei voi lisätä";
+"Color - %@" = "Väri - %@";
+"Days in prison" = "Päiviä vankilassa";
+"Default" = "Oletus";
+"Delete all Trivits" = "Poista kaikki Trivitit";
+"Drinks" = "Juomia";
+"Feedback" = "Palaute";
+"Get started!" = "Aloita!";
+"Give your Trivit a name" = "Anna Trivitillesi nimi";
+"Got it." = "Selvä.";
+"Green" = "Vihreä";
+"I am missing some things..." = "Joitain asioita puuttuu...";
+"I don't get it." = "En ymmärrä.";
+"I like what I see." = "Pidän näkemästäni.";
+"I've seen better, I've seen worse." = "Ihan okei.";
+"No" = "Ei";
+"Off" = "Pois";
+"On" = "Päällä";
+"Open or close your new Trivit with a single tap" = "Avaa tai sulje uusi Trivitisi yhdellä napautuksella";
+"Please finish editing the title first." = "Viimeistele otsikon muokkaus ensin.";
+"Red" = "Punainen";
+"Remove all" = "Poista kaikki";
+"Reset Trivit" = "Nollaa Trivit";
+"Reset all" = "Nollaa kaikki";
+"Reset all Trivits" = "Nollaa kaikki Trivitit";
+"Tap an image to rate:" = "Napauta kuvaa arvostellaksesi:";
+"Tap the minus to decrease the count, hold long to reset" = "Napauta miinusta vähentääksesi, paina pitkään nollataksesi";
+"Tap the pen to add a new Trivit" = "Napauta kynää lisätäksesi uuden Trivitin";
+"Tap to increase the count" = "Napauta lisätäksesi";
+"This is the best app ever!" = "Tämä on paras sovellus ikinä!";
+"Tutorial" = "Opastus";
+"Vibration - %@" = "Värinä - %@";
+"Went swimming this year" = "Uinut tänä vuonna";
+"Yes" = "Kyllä";
+"Your feedback (optional)" = "Palautteesi (valinnainen)";

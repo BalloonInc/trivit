@@ -1,0 +1,36 @@
+Trivit on kauniisti yksinkertainen laskurisovellus, joka auttaa sinua seuraamaan mitä tahansa elämässäsi. Olipa kyseessä tapojen, treenien, päivittäisten tavoitteiden tai varaston laskeminen, Trivit tekee siitä vaivatonta ja nautinnollista.
+
+YKSINKERTAINEN JA INTUITIIVINEN
+Napauta vain laskeaksesi. Ei monimutkaista asennusta, ei oppimiskäyrää. Luo uusi laskuri sekunneissa ja aloita seuranta välittömästi. Selkeä, häiriötön käyttöliittymä pitää sinut keskittyneenä olennaiseen.
+
+APPLE WATCH -SOVELLUS
+Seuraa laskureitasi suoraan ranteestasi uudella Apple Watch -sovelluksella. Laskurisi synkronoituvat välittömästi iPhonen ja Apple Watchin välillä, joten olet aina ajan tasalla riippumatta siitä, mitä laitetta käytät.
+
+KAUNIIT VÄRITEEMAT
+Valitse 8 eloisasta väriteemasta laskuriesi personointiin. Jokainen laskuri saa oman erottuvan värinsä, mikä tekee tunnistamisesta helppoa yhdellä silmäyksellä. Värikäs, litteä muotoilu on sekä kaunis että toimiva.
+
+LASKE MITÄ TAHANSA
+- Päivittäiset tavat ja rutiinit
+- Treenin toistot ja sarjat
+- Varastolaskennat
+- Pisteiden pitäminen peleissä
+- Lintubongaus tai villieläinhavainnot
+- Juodut vesilasit
+- Askeleet kohti tavoitetta
+- Mitä tahansa muuta laskettavaa!
+
+SYNKRONOINTI KAIKILLA LAITTEILLA
+Laskurisi synkronoituvat automaattisesti kaikilla laitteillasi iCloudin avulla. Aloita laskeminen iPhonellasi ja jatka Apple Watchillasi tai päinvastoin. Tietosi ovat aina mukanasi.
+
+YKSITYISYYS ENSIN
+Tietosi pysyvät laitteillasi ja henkilökohtaisella iCloud-tililläsi. Emme kerää henkilökohtaisia tietoja, eikä analytiikkaa tai seurantaa ole. Laskurisi ovat sinun asiasi.
+
+EI MAINOKSIA, EI TILAUKSIA
+Trivit on täysin ilmainen ilman mainoksia, sovelluksen sisäisiä ostoja tai tilauksia. Vain loistava sovellus, joka tekee sen, mitä lupaa.
+
+AVOIN LÄHDEKOODI
+Trivit on avoimen lähdekoodin sovellus! Voit tarkastella koodia, ehdottaa parannuksia tai osallistua GitHubissa osoitteessa https://github.com/BalloonInc/trivit-ios
+
+Versio 5.0 on täydellinen uudelleenkirjoitus Applen uusimmalla SwiftUI-teknologialla, tarjoten parannetun suorituskyvyn ja hienostuneen käyttökokemuksen säilyttäen samalla yksinkertaisuuden, joka tekee Trivitistä erinomaisen.
+
+Lataa Trivit tänään ja aloita laskemaan sitä, mikä sinulle on tärkeää.

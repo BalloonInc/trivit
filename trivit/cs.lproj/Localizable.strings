@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Nastavení";
+"Done" = "Hotovo";
+
+/* Empty State */
+"No Trivits Yet" = "Zatím žádné Trivity";
+"Tap + to create your first tally counter" = "Klepněte na + a vytvořte svůj první čítač";
+
+/* Trivit Actions */
+"New Trivit" = "Nový Trivit";
+"Rename" = "Přejmenovat";
+"Change Color" = "Změnit barvu";
+"Reset Count" = "Vynulovat počet";
+"Delete" = "Smazat";
+"Title" = "Název";
+
+/* Settings - Sections */
+"General" = "Obecné";
+"Color Scheme" = "Barevné schéma";
+"Sync Info" = "Info o synchronizaci";
+"About" = "O aplikaci";
+"Data" = "Data";
+
+/* Settings - General */
+"Haptic Feedback" = "Haptická odezva";
+"Palette" = "Paleta";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Synchronizované Trivity";
+"Last Sync" = "Poslední synchronizace";
+"Device" = "Zařízení";
+
+/* Settings - About */
+"Version" = "Verze";
+"Rate on App Store" = "Ohodnotit v App Store";
+"Send Feedback" = "Odeslat zpětnou vazbu";
+
+/* Settings - Data */
+"Reset All Trivits" = "Vynulovat všechny Trivity";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Skrýt čítač při rozbalení";
+
+/* Deleted Items */
+"Deleted Items" = "Smazané položky";
+"Recently Deleted" = "Nedávno smazané";
+"No Deleted Items" = "Žádné smazané položky";
+"Items you delete will appear here for 30 days" = "Položky, které smažete, se zde zobrazí po dobu 30 dnů";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Položky jsou trvale smazány po 30 dnech. Přejeďte doprava pro obnovení, doleva pro trvalé smazání.";
+"Empty Trash" = "Vysypat koš";
+"Restore" = "Obnovit";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Smazáno \"%@\"";
+"Undo" = "Zpět";
+
+/* Tutorial */
+"Welcome to Trivit" = "Vítejte v Trivitu";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Klepněte na + pro přidání čítače. Klepněte na něj, číslo poroste. Mysl = odpálena.";
+"That minus button? It does exactly what you think." = "To tlačítko mínus? Dělá přesně to, co si myslíte.";
+"Long press anything. Secrets await." = "Dlouze stiskněte cokoliv. Tajemství čekají.";
+"Swipe left to banish a counter forever." = "Přejeďte vlevo a vyžeňte čítač navždy.";
+"Yeah, I know how to use a counter app, thx" = "Jo, vím jak používat čítač, díky";
+"Tap + to add a new counter" = "Klepněte na + pro přidání nového čítače";
+"Long press and drag to reorder" = "Dlouze stiskněte a přetáhněte pro změnu pořadí";
+"Long press a counter for more options" = "Dlouze stiskněte čítač pro další možnosti";
+"Got it" = "Rozumím";
+
+/* Context Menu */
+"Statistics" = "Statistiky";
+"History" = "Historie";
+"Open Source" = "Open source";
+"Source Code" = "Zdrojový kód";
+"Report Translation Issue" = "Nahlásit chybu překladu";
+"Support" = "Podpora";
+"Cancel" = "Zrušit";
+
+/* Watch Sync */
+"Watch Sync" = "Synchronizace Watch";
+"Watch Paired" = "Watch spárováno";
+"Watch Reachable" = "Watch dostupné";
+"Sync to Watch" = "Synchronizovat na Watch";
+"Not reachable" = "Nedostupné";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Trivity";
+
+/* History View */
+"No History Yet" = "Zatím žádná historie";
+"Tally events will appear here as you use the counter." = "Události čítače se zde zobrazí při používání.";
+"Delete Events" = "Smazat události";
+"Today" = "Dnes";
+"Yesterday" = "Včera";
+
+/* Statistics View */
+"Total" = "Celkem";
+"Current Streak" = "Aktuální série";
+"Longest Streak" = "Nejdelší série";
+"Days Tracked" = "Dní sledováno";
+"Activity by Hour" = "Aktivita podle hodiny";
+"Activity by Day of Week" = "Aktivita podle dne v týdnu";
+"Monthly Trend" = "Měsíční trend";
+"Last 30 Days" = "Posledních 30 dní";
+
+/* Color Scheme Names */
+"Vibrant" = "Živé";
+"Pastel" = "Pastelové";
+"Monochrome" = "Monochromatické";
+"Ocean" = "Oceán";
+"Sunset" = "Západ slunce";
+"Forest" = "Les";
+"Candy" = "Bonbóny";
+"Earth" = "Země";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Sklenic vody";
+"Fruits eaten today" = "Ovoce snědené dnes";
+"Vegetables conquered" = "Zelenina zdolaná";
+"Hours of sleep" = "Hodin spánku";
+"Steps walked" = "Kroků ušlých";
+"Push-ups done" = "Kliků udělaných";
+"Minutes exercised" = "Minut cvičení";
+"Healthy snacks" = "Zdravých svačin";
+"Deep breaths taken" = "Hlubokých nádechů";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Kolikrát jsem řekl/a 'wow'";
+"Cookies in my tummy" = "Sušenek v bříšku";
+"Silly dances performed" = "Hloupých tanečků předvedeno";
+"Dad jokes survived" = "Tatínkovských vtipů přežito";
+"Pillows fluffed" = "Polštářů nakypreno";
+"Socks matched" = "Ponožek spárováno";
+"Clouds that look like animals" = "Mraků co vypadají jako zvířata";
+"Times the dog wagged its tail" = "Kolikrát pes vrtěl ocáskem";
+"Sneezes today" = "Kýchnutí dnes";
+"Yawns caught from others" = "Zívání chycených od ostatních";
+"High fives given" = "Plácnutí dlaní";
+"Bubbles blown" = "Bublin nafouknutých";
+"Puddles jumped in" = "Louží, do kterých se skočilo";
+"Funny faces made" = "Legračních obličejů uděláno";
+"Songs sung in shower" = "Písniček zazpívaných ve sprše";
+"Times I forgot why I walked into a room" = "Kolikrát jsem zapomněl/a proč jsem šel/šla do pokoje";
+"Dinosaur facts learned" = "Dinosauřích faktů naučeno";
+"Cards stacked before falling" = "Karet naskládaných než spadly";
+"Grapes caught in mouth" = "Hroznů chycených pusou";
+"Paper airplanes launched" = "Papírových letadel vypuštěno";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Knih přečteno";
+"Pages finished" = "Stran dočteno";
+"Tasks completed" = "Úkolů splněno";
+"Ideas had" = "Nápadů";
+"Problems solved" = "Problémů vyřešeno";
+"Minutes of focus" = "Minut soustředění";
+"Emails conquered" = "E-mailů zdoláno";
+"Meetings survived" = "Porad přežito";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Objetí dáno";
+"Thank yous said" = "Díků řečeno";
+"Smiles shared" = "Úsměvů sdíleno";
+"Compliments given" = "Komplimentů dáno";
+"Acts of kindness" = "Dobrých skutků";
+"Friends helped" = "Přátelům pomoženo";
+"Doors held open" = "Dveří přidrženo";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Nových slov naučeno";
+"Questions asked" = "Otázek položeno";
+"Facts discovered" = "Faktů objeveno";
+"Languages practiced" = "Jazyků procvičeno";
+"Puzzles solved" = "Hádanek vyřešeno";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Opravdu chcete smazat všechny Trivity?";
+"Are you sure you want to reset '%@'?" = "Opravdu chcete vynulovat '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Opravdu chcete vynulovat všechny čítače na 0?";
+"Blue" = "Modrá";
+"Cannot add" = "Nelze přidat";
+"Color - %@" = "Barva - %@";
+"Days in prison" = "Dní ve vězení";
+"Default" = "Výchozí";
+"Delete all Trivits" = "Smazat všechny Trivity";
+"Drinks" = "Drinky";
+"Feedback" = "Zpětná vazba";
+"Get started!" = "Začněte!";
+"Give your Trivit a name" = "Pojmenujte svůj Trivit";
+"Got it." = "Rozumím.";
+"Green" = "Zelená";
+"I am missing some things..." = "Chybí mi některé věci...";
+"I don't get it." = "Nechápu.";
+"I like what I see." = "Líbí se mi to.";
+"I've seen better, I've seen worse." = "Ujde to.";
+"No" = "Ne";
+"Off" = "Vypnuto";
+"On" = "Zapnuto";
+"Open or close your new Trivit with a single tap" = "Otevřete nebo zavřete svůj nový Trivit jedním klepnutím";
+"Please finish editing the title first." = "Nejprve dokončete úpravu názvu.";
+"Red" = "Červená";
+"Remove all" = "Odebrat vše";
+"Reset Trivit" = "Vynulovat Trivit";
+"Reset all" = "Vynulovat vše";
+"Reset all Trivits" = "Vynulovat všechny Trivity";
+"Tap an image to rate:" = "Klepněte na obrázek pro hodnocení:";
+"Tap the minus to decrease the count, hold long to reset" = "Klepněte na mínus pro snížení, dlouze podržte pro vynulování";
+"Tap the pen to add a new Trivit" = "Klepněte na pero pro přidání nového Trivitu";
+"Tap to increase the count" = "Klepněte pro zvýšení";
+"This is the best app ever!" = "Tohle je nejlepší aplikace vůbec!";
+"Tutorial" = "Průvodce";
+"Vibration - %@" = "Vibrace - %@";
+"Went swimming this year" = "Zaplavání tento rok";
+"Yes" = "Ano";
+"Your feedback (optional)" = "Vaše zpětná vazba (volitelné)";

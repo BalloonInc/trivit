@@ -1,164 +1,202 @@
 /* App Name */
 "Trivit" = "Trivit";
-
 /* Navigation */
 "Settings" = "設定";
 "Done" = "完成";
-
 /* Empty State */
-"No Trivits Yet" = "還沒有計數器";
-"Tap + to create your first tally counter" = "點擊 + 創建您的第一個計數器";
-
+"No Trivits Yet" = "還沒有Trivit";
+"Tap + to create your first tally counter" = "點按 + 建立你的第一個計數器";
 /* Trivit Actions */
-"New Trivit" = "新計數器";
+"New Trivit" = "新增Trivit";
 "Rename" = "重新命名";
 "Change Color" = "更改顏色";
 "Reset Count" = "重置計數";
 "Delete" = "刪除";
 "Title" = "標題";
-
 /* Settings - Sections */
 "General" = "一般";
 "Color Scheme" = "配色方案";
 "Sync Info" = "同步資訊";
 "About" = "關於";
 "Data" = "資料";
-
 /* Settings - General */
 "Haptic Feedback" = "觸覺回饋";
 "Palette" = "調色盤";
-
 /* Settings - Sync Info */
-"Trivits Synced" = "已同步計數器";
+"Trivits Synced" = "已同步的Trivit";
 "Last Sync" = "上次同步";
 "Device" = "裝置";
-
 /* Settings - About */
 "Version" = "版本";
-"Rate on App Store" = "在 App Store 評分";
+"Rate on App Store" = "在App Store上評分";
 "Send Feedback" = "傳送回饋";
-
 /* Settings - Data */
-"Reset All Trivits" = "重置所有計數器";
-
+"Reset All Trivits" = "重置所有Trivit";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "展開時隱藏計數器";
+/* Deleted Items */
+"Deleted Items" = "已刪除項目";
+"Recently Deleted" = "最近刪除";
+"No Deleted Items" = "沒有已刪除的項目";
+"Items you delete will appear here for 30 days" = "刪除的項目會在此處保留30天";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "項目會在30天後永久刪除。向右滑動恢復，向左滑動永久刪除。";
+"Empty Trash" = "清空垃圾桶";
+"Restore" = "恢復";
+/* Undo Toast */
+"Deleted \"%@\"" = "已刪除「%@」";
+"Undo" = "還原";
+/* Tutorial */
+"Welcome to Trivit" = "歡迎使用Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "點按 + 新增計數器。點一下數字就會增加。驚不驚喜？";
+"That minus button? It does exactly what you think." = "那個減號按鈕？它的功能就是你想的那樣。";
+"Long press anything. Secrets await." = "長按任何東西，驚喜等著你。";
+"Swipe left to banish a counter forever." = "向左滑動，永遠消滅一個計數器。";
+"Yeah, I know how to use a counter app, thx" = "好啦好啦，我會用計數器，謝謝";
+"Tap + to add a new counter" = "點按 + 新增計數器";
+"Long press and drag to reorder" = "長按拖曳來調整順序";
+"Long press a counter for more options" = "長按計數器查看更多選項";
+"Got it" = "了解";
+/* Context Menu */
+"Statistics" = "統計";
+"History" = "歷史紀錄";
+"Open Source" = "開放原始碼";
+"Source Code" = "原始碼";
+"Report Translation Issue" = "回報翻譯問題";
+"Support" = "支援";
+"Cancel" = "取消";
+/* Watch Sync */
+"Watch Sync" = "Watch同步";
+"Watch Paired" = "Watch已配對";
+"Watch Reachable" = "Watch可連線";
+"Sync to Watch" = "同步至Watch";
+"Not reachable" = "無法連線";
+/* Info Section */
+"Info" = "資訊";
+"Trivits" = "Trivit";
+/* History View */
+"No History Yet" = "尚無歷史紀錄";
+"Tally events will appear here as you use the counter." = "使用計數器時，計數事件會顯示在這裡。";
+"Delete Events" = "刪除事件";
+"Today" = "今天";
+"Yesterday" = "昨天";
+/* Statistics View */
+"Total" = "總計";
+"Current Streak" = "目前連續天數";
+"Longest Streak" = "最長連續天數";
+"Days Tracked" = "已記錄天數";
+"Activity by Hour" = "按小時統計";
+"Activity by Day of Week" = "按星期統計";
+"Monthly Trend" = "月度趨勢";
+"Last 30 Days" = "近30天";
 /* Color Scheme Names */
-"Vibrant" = "鮮豔";
-"Pastel" = "柔和";
+"Vibrant" = "鮮明";
+"Pastel" = "粉彩";
 "Monochrome" = "單色";
 "Ocean" = "海洋";
 "Sunset" = "日落";
 "Forest" = "森林";
 "Candy" = "糖果";
 "Earth" = "大地";
-
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "確定要刪除所有計數器嗎？";
-"Are you sure you want to reset '%@'?" = "確定要重置 '%@' 嗎？";
-"Are you sure you want to reset all counts to 0?" = "確定要將所有計數重置為0嗎？";
-"Blue" = "藍色";
-"Cannot add" = "無法新增";
-"Color - %@" = "顏色 - %@";
-"Days in prison" = "入獄天數";
-"Default" = "預設";
-"Delete all Trivits" = "刪除所有計數器";
-"Drinks" = "飲料";
-"Feedback" = "回饋";
-"Get started!" = "開始使用！";
-"Give your Trivit a name" = "給您的計數器取個名字";
-"Got it." = "了解了。";
-"Green" = "綠色";
-"I am missing some things..." = "我覺得少了些東西...";
-"I don't get it." = "我不明白。";
-"I like what I see." = "我喜歡這個。";
-"I've seen better, I've seen worse." = "一般般。";
-"No" = "否";
-"Off" = "關";
-"On" = "開";
-"Open or close your new Trivit with a single tap" = "單擊打開或關閉您的計數器";
-"Please finish editing the title first." = "請先完成標題編輯。";
-"Red" = "紅色";
-"Remove all" = "全部刪除";
-"Reset Trivit" = "重置計數器";
-"Reset all" = "全部重置";
-"Reset all Trivits" = "重置所有計數器";
-"Tap an image to rate:" = "點擊圖片評分：";
-"Tap the minus to decrease the count, hold long to reset" = "點擊減號減少計數，長按重置";
-"Tap the pen to add a new Trivit" = "點擊筆新增計數器";
-"Tap to increase the count" = "點擊增加計數";
-"This is the best app ever!" = "這是最好的應用程式！";
-"Tutorial" = "教學";
-"Vibration - %@" = "振動 - %@";
-"Went swimming this year" = "今年游泳次數";
-"Yes" = "是";
-"Your feedback (optional)" = "您的回饋（可選）";
-
-/* Tutorial */
-"Welcome to Trivit" = "歡迎使用 Trivit";
-"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "點 + 新增計數器。點擊它增加數字。驚不驚喜。";
-"That minus button? It does exactly what you think." = "減號按鈕？功能和你想的一樣。";
-"Long press anything. Secrets await." = "長按任何東西。驚喜等著你。";
-"Swipe left to banish a counter forever." = "向左滑動永久刪除計數器。";
-"Yeah, I know how to use a counter app, thx" = "是的，我知道怎麼用計數器app，謝謝";
-"Tap + to add a new counter" = "點擊 + 新增計數器";
-"Long press and drag to reorder" = "長按拖動可重新排序";
-"Long press a counter for more options" = "長按計數器查看更多選項";
-"Got it" = "知道了";
-
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "喝了幾杯水";
 "Fruits eaten today" = "今天吃的水果";
 "Vegetables conquered" = "征服的蔬菜";
 "Hours of sleep" = "睡眠時數";
-"Steps walked" = "走了幾步";
-"Push-ups done" = "伏地挺身次數";
-"Minutes exercised" = "運動分鐘數";
+"Steps walked" = "走了多少步";
+"Push-ups done" = "做了幾下伏地挺身";
+"Minutes exercised" = "運動了幾分鐘";
 "Healthy snacks" = "健康零食";
 "Deep breaths taken" = "深呼吸次數";
-
 /* Example Trivit Names - Fun & silly */
-"Times I said 'wow'" = "說「哇」的次數";
+"Times I said 'wow'" = "說了幾次「哇」";
 "Cookies in my tummy" = "肚子裡的餅乾";
-"Silly dances performed" = "跳了幾支搞笑舞";
+"Silly dances performed" = "跳了幾次傻舞";
 "Dad jokes survived" = "撐過的冷笑話";
 "Pillows fluffed" = "拍鬆的枕頭";
-"Socks matched" = "配對成功的襪子";
+"Socks matched" = "配成對的襪子";
 "Clouds that look like animals" = "像動物的雲朵";
-"Times the dog wagged its tail" = "狗狗搖尾巴次數";
-"Sneezes today" = "今天打噴嚏次數";
+"Times the dog wagged its tail" = "狗狗搖尾巴的次數";
+"Sneezes today" = "今天打了幾個噴嚏";
 "Yawns caught from others" = "被傳染的哈欠";
 "High fives given" = "擊掌次數";
 "Bubbles blown" = "吹的泡泡";
 "Puddles jumped in" = "跳過的水坑";
-"Funny faces made" = "做的鬼臉";
+"Funny faces made" = "做了幾次鬼臉";
 "Songs sung in shower" = "洗澡時唱的歌";
-"Times I forgot why I walked into a room" = "忘記為什麼走進房間的次數";
+"Times I forgot why I walked into a room" = "走進房間卻忘了要幹嘛的次數";
 "Dinosaur facts learned" = "學到的恐龍知識";
-"Cards stacked before falling" = "倒塌前疊的卡片";
+"Cards stacked before falling" = "倒塌前疊的撲克牌";
 "Grapes caught in mouth" = "用嘴接住的葡萄";
-"Paper airplanes launched" = "發射的紙飛機";
-
+"Paper airplanes launched" = "放飛的紙飛機";
 /* Example Trivit Names - Productivity */
 "Books read" = "讀完的書";
-"Pages finished" = "看完的頁數";
+"Pages finished" = "讀完的頁數";
 "Tasks completed" = "完成的任務";
-"Ideas had" = "想到的點子";
+"Ideas had" = "冒出的點子";
 "Problems solved" = "解決的問題";
 "Minutes of focus" = "專注的分鐘數";
-"Emails conquered" = "征服的電子郵件";
-"Meetings survived" = "撐過的會議";
-
+"Emails conquered" = "消滅的郵件";
+"Meetings survived" = "熬過的會議";
 /* Example Trivit Names - Kindness & gratitude */
-"Hugs given" = "給出的擁抱";
-"Thank yous said" = "說謝謝的次數";
+"Hugs given" = "擁抱次數";
+"Thank yous said" = "說了幾次謝謝";
 "Smiles shared" = "分享的微笑";
-"Compliments given" = "給出的讚美";
-"Acts of kindness" = "善舉次數";
-"Friends helped" = "幫助的朋友";
-"Doors held open" = "幫忙開門次數";
-
+"Compliments given" = "讚美別人的次數";
+"Acts of kindness" = "善舉";
+"Friends helped" = "幫助過的朋友";
+"Doors held open" = "幫人扶門的次數";
 /* Example Trivit Names - Learning */
-"New words learned" = "學會的新單字";
-"Questions asked" = "問的問題";
+"New words learned" = "學到的新單字";
+"Questions asked" = "提出的問題";
 "Facts discovered" = "發現的事實";
 "Languages practiced" = "練習的語言";
 "Puzzles solved" = "解開的謎題";
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "確定要刪除所有Trivit嗎？";
+"Are you sure you want to reset '%@'?" = "確定要重置「%@」嗎？";
+"Are you sure you want to reset all counts to 0?" = "確定要將所有計數重置為0嗎？";
+"Blue" = "藍色";
+"Cannot add" = "無法新增";
+"Color - %@" = "顏色 - %@";
+"Days in prison" = "在監獄的天數";
+"Default" = "預設";
+"Delete all Trivits" = "刪除所有Trivit";
+"Drinks" = "飲料";
+"Feedback" = "回饋";
+"Get started!" = "開始吧！";
+"Give your Trivit a name" = "幫你的Trivit取個名字";
+"Got it." = "了解。";
+"Green" = "綠色";
+"I am missing some things..." = "我覺得還缺了些東西⋯⋯";
+"I don't get it." = "我看不懂。";
+"I like what I see." = "我喜歡。";
+"I've seen better, I've seen worse." = "還過得去吧。";
+"No" = "否";
+"Off" = "關";
+"On" = "開";
+"Open or close your new Trivit with a single tap" = "輕觸一下即可展開或收起你的Trivit";
+"Please finish editing the title first." = "請先完成標題編輯。";
+"Red" = "紅色";
+"Remove all" = "全部移除";
+"Reset Trivit" = "重置Trivit";
+"Reset all" = "全部重置";
+"Reset all Trivits" = "重置所有Trivit";
+"Tap an image to rate:" = "點按圖片來評分：";
+"Tap the minus to decrease the count, hold long to reset" = "點按減號減少計數，長按重置";
+"Tap the pen to add a new Trivit" = "點按筆的圖示新增Trivit";
+"Tap to increase the count" = "點按增加計數";
+"This is the best app ever!" = "這是最棒的App！";
+"Tutorial" = "教學";
+"Vibration - %@" = "振動 - %@";
+"Went swimming this year" = "今年去游泳的次數";
+"Yes" = "是";
+"Your feedback (optional)" = "您的回饋（選填）";
+```
+
+All four files are complete with every key from the English source translated. Key points:
+- "Trivit"/"Trivits" kept as brand name throughout
+- All `%@` placeholders preserved
+- Escaped quotes (`\"`) preserved
+- Fun/silly counter names translated with natural, playful tone in each language
+- zh-Hans uses simplified characters and mainland China terminology (e.g., "设备", "俯卧撑")
+- zh-Hant uses traditional characters and Taiwan terminology (e.g., "裝置", "伏地挺身")

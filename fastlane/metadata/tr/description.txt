@@ -1,0 +1,36 @@
+Trivit, hayatınızdaki her şeyi takip etmenize yardımcı olan güzel ve basit bir çetele sayacı uygulamasıdır. İster alışkanlıkları, antrenmanları, günlük hedefleri veya envanteri sayıyor olun, Trivit bunu zahmetsiz ve keyifli hale getirir.
+
+BASİT VE SEZGİSEL
+Saymak için dokunun yeter. Karmaşık kurulum yok, öğrenme eğrisi yok. Saniyeler içinde yeni bir sayaç oluşturun ve hemen takip etmeye başlayın. Temiz, dikkat dağıtmayan arayüz sizi önemli olana odaklı tutar.
+
+APPLE WATCH UYGULAMASI
+Yepyeni Apple Watch uygulamasıyla sayaçlarınızı doğrudan bileğinizden takip edin. Sayımlarınız iPhone ve Apple Watch arasında anında senkronize olur, böylece hangi cihazı kullanırsanız kullanın her zaman güncel olursunuz.
+
+GÜZEL RENK TEMALARI
+Sayaçlarınızı kişiselleştirmek için 8 canlı renk temasından seçim yapın. Her sayaç kendi ayırt edici rengini alır ve bir bakışta tanımayı kolaylaştırır. Renkli, düz tasarım hem güzel hem de işlevseldir.
+
+HER ŞEYİ SAYIN
+- Günlük alışkanlıklar ve rutinler
+- Antrenman tekrarları ve setleri
+- Envanter sayımları
+- Oyunlarda skor tutma
+- Kuş gözlemi veya yaban hayatı gözlemleri
+- İçilen su bardakları
+- Hedefe doğru adımlar
+- Saymanız gereken her şey!
+
+TÜM CİHAZLARDA SENKRONİZASYON
+Sayaçlarınız iCloud kullanarak tüm cihazlarınızda otomatik olarak senkronize olur. iPhone'da saymaya başlayın ve Apple Watch'ta devam edin veya tam tersi. Verileriniz her zaman yanınızda.
+
+GİZLİLİK ÖNCELİKLİ
+Verileriniz cihazlarınızda ve kişisel iCloud hesabınızda kalır. Kişisel bilgi toplamıyoruz, analitik veya izleme yok. Sayımlarınız sizin meseleniz.
+
+REKLAM YOK, ABONELİK YOK
+Trivit tamamen ücretsizdir, reklam yok, uygulama içi satın alma yok ve abonelik yok. Söylediğini yapan harika bir uygulama.
+
+AÇIK KAYNAK
+Trivit açık kaynaklıdır! Kodu görüntüleyebilir, iyileştirmeler önerebilir veya GitHub'da katkıda bulunabilirsiniz: https://github.com/BalloonInc/trivit-ios
+
+Sürüm 5.0, Apple'ın en yeni SwiftUI teknolojisi kullanılarak tamamen yeniden yazılmıştır; Trivit'i harika yapan sadeliği korurken geliştirilmiş performans ve rafine bir kullanıcı deneyimi sunar.
+
+Trivit'i bugün indirin ve sizin için önemli olanı saymaya başlayın.

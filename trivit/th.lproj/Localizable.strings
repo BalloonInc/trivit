@@ -41,56 +41,21 @@
 /* Settings - Data */
 "Reset All Trivits" = "รีเซ็ตตัวนับทั้งหมด";
 
-/* Color Scheme Names */
-"Vibrant" = "สดใส";
-"Pastel" = "พาสเทล";
-"Monochrome" = "ขาวดำ";
-"Ocean" = "มหาสมุทร";
-"Sunset" = "พระอาทิตย์ตก";
-"Forest" = "ป่า";
-"Candy" = "ลูกอม";
-"Earth" = "โลก";
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "ซ่อนตัวนับเมื่อขยาย";
 
-/* Legacy Strings */
-"Are you sure you want to delete all trivits?" = "คุณแน่ใจหรือว่าต้องการลบตัวนับทั้งหมด?";
-"Are you sure you want to reset '%@'?" = "คุณแน่ใจหรือว่าต้องการรีเซ็ต '%@'?";
-"Are you sure you want to reset all counts to 0?" = "คุณแน่ใจหรือว่าต้องการรีเซ็ตการนับทั้งหมดเป็น 0?";
-"Blue" = "น้ำเงิน";
-"Cannot add" = "ไม่สามารถเพิ่มได้";
-"Color - %@" = "สี - %@";
-"Days in prison" = "วันในคุก";
-"Default" = "ค่าเริ่มต้น";
-"Delete all Trivits" = "ลบตัวนับทั้งหมด";
-"Drinks" = "เครื่องดื่ม";
-"Feedback" = "ความคิดเห็น";
-"Get started!" = "เริ่มเลย!";
-"Give your Trivit a name" = "ตั้งชื่อตัวนับของคุณ";
-"Got it." = "เข้าใจแล้ว";
-"Green" = "เขียว";
-"I am missing some things..." = "รู้สึกว่าขาดบางอย่าง...";
-"I don't get it." = "ไม่เข้าใจ";
-"I like what I see." = "ชอบที่เห็น";
-"I've seen better, I've seen worse." = "พอใช้ได้";
-"No" = "ไม่";
-"Off" = "ปิด";
-"On" = "เปิด";
-"Open or close your new Trivit with a single tap" = "แตะครั้งเดียวเพื่อเปิดหรือปิดตัวนับ";
-"Please finish editing the title first." = "กรุณาแก้ไขชื่อให้เสร็จก่อน";
-"Red" = "แดง";
-"Remove all" = "ลบทั้งหมด";
-"Reset Trivit" = "รีเซ็ตตัวนับ";
-"Reset all" = "รีเซ็ตทั้งหมด";
-"Reset all Trivits" = "รีเซ็ตตัวนับทั้งหมด";
-"Tap an image to rate:" = "แตะรูปเพื่อให้คะแนน:";
-"Tap the minus to decrease the count, hold long to reset" = "แตะลบเพื่อลดจำนวน กดค้างเพื่อรีเซ็ต";
-"Tap the pen to add a new Trivit" = "แตะปากกาเพื่อเพิ่มตัวนับใหม่";
-"Tap to increase the count" = "แตะเพื่อเพิ่มจำนวน";
-"This is the best app ever!" = "แอปที่ดีที่สุดเลย!";
-"Tutorial" = "บทเรียน";
-"Vibration - %@" = "การสั่น - %@";
-"Went swimming this year" = "ว่ายน้ำปีนี้";
-"Yes" = "ใช่";
-"Your feedback (optional)" = "ความคิดเห็นของคุณ (ไม่บังคับ)";
+/* Deleted Items */
+"Deleted Items" = "รายการที่ลบ";
+"Recently Deleted" = "ลบล่าสุด";
+"No Deleted Items" = "ไม่มีรายการที่ลบ";
+"Items you delete will appear here for 30 days" = "รายการที่คุณลบจะปรากฏที่นี่เป็นเวลา 30 วัน";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "รายการจะถูกลบถาวรหลังจาก 30 วัน เลื่อนขวาเพื่อกู้คืน เลื่อนซ้ายเพื่อลบถาวร";
+"Empty Trash" = "ล้างถังขยะ";
+"Restore" = "กู้คืน";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "ลบ \"%@\" แล้ว";
+"Undo" = "เลิกทำ";
 
 /* Tutorial */
 "Welcome to Trivit" = "ยินดีต้อนรับสู่ Trivit";
@@ -103,6 +68,53 @@
 "Long press and drag to reorder" = "กดค้างแล้วลากเพื่อจัดเรียงใหม่";
 "Long press a counter for more options" = "กดค้างที่ตัวนับเพื่อดูตัวเลือกเพิ่มเติม";
 "Got it" = "เข้าใจแล้ว";
+
+/* Context Menu */
+"Statistics" = "สถิติ";
+"History" = "ประวัติ";
+"Open Source" = "โอเพนซอร์ส";
+"Source Code" = "ซอร์สโค้ด";
+"Report Translation Issue" = "แจ้งปัญหาการแปล";
+"Support" = "สนับสนุน";
+"Cancel" = "ยกเลิก";
+
+/* Watch Sync */
+"Watch Sync" = "ซิงค์นาฬิกา";
+"Watch Paired" = "จับคู่นาฬิกาแล้ว";
+"Watch Reachable" = "นาฬิกาเชื่อมต่อได้";
+"Sync to Watch" = "ซิงค์ไปยังนาฬิกา";
+"Not reachable" = "เชื่อมต่อไม่ได้";
+
+/* Info Section */
+"Info" = "ข้อมูล";
+"Trivits" = "Trivits";
+
+/* History View */
+"No History Yet" = "ยังไม่มีประวัติ";
+"Tally events will appear here as you use the counter." = "เหตุการณ์การนับจะปรากฏที่นี่เมื่อคุณใช้ตัวนับ";
+"Delete Events" = "ลบเหตุการณ์";
+"Today" = "วันนี้";
+"Yesterday" = "เมื่อวาน";
+
+/* Statistics View */
+"Total" = "รวม";
+"Current Streak" = "สตรีคปัจจุบัน";
+"Longest Streak" = "สตรีคยาวที่สุด";
+"Days Tracked" = "วันที่ติดตาม";
+"Activity by Hour" = "กิจกรรมตามชั่วโมง";
+"Activity by Day of Week" = "กิจกรรมตามวันในสัปดาห์";
+"Monthly Trend" = "แนวโน้มรายเดือน";
+"Last 30 Days" = "30 วันที่ผ่านมา";
+
+/* Color Scheme Names */
+"Vibrant" = "สดใส";
+"Pastel" = "พาสเทล";
+"Monochrome" = "ขาวดำ";
+"Ocean" = "มหาสมุทร";
+"Sunset" = "พระอาทิตย์ตก";
+"Forest" = "ป่า";
+"Candy" = "ลูกอม";
+"Earth" = "โลก";
 
 /* Example Trivit Names - Healthy habits */
 "Glasses of water" = "แก้วน้ำที่ดื่ม";
@@ -162,3 +174,44 @@
 "Facts discovered" = "ข้อเท็จจริงที่ค้นพบ";
 "Languages practiced" = "ภาษาที่ฝึก";
 "Puzzles solved" = "ปริศนาที่ไข";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "คุณแน่ใจหรือว่าต้องการลบตัวนับทั้งหมด?";
+"Are you sure you want to reset '%@'?" = "คุณแน่ใจหรือว่าต้องการรีเซ็ต '%@'?";
+"Are you sure you want to reset all counts to 0?" = "คุณแน่ใจหรือว่าต้องการรีเซ็ตการนับทั้งหมดเป็น 0?";
+"Blue" = "น้ำเงิน";
+"Cannot add" = "ไม่สามารถเพิ่มได้";
+"Color - %@" = "สี - %@";
+"Days in prison" = "วันในคุก";
+"Default" = "ค่าเริ่มต้น";
+"Delete all Trivits" = "ลบตัวนับทั้งหมด";
+"Drinks" = "เครื่องดื่ม";
+"Feedback" = "ความคิดเห็น";
+"Get started!" = "เริ่มเลย!";
+"Give your Trivit a name" = "ตั้งชื่อตัวนับของคุณ";
+"Got it." = "เข้าใจแล้ว";
+"Green" = "เขียว";
+"I am missing some things..." = "รู้สึกว่าขาดบางอย่าง...";
+"I don't get it." = "ไม่เข้าใจ";
+"I like what I see." = "ชอบที่เห็น";
+"I've seen better, I've seen worse." = "พอใช้ได้";
+"No" = "ไม่";
+"Off" = "ปิด";
+"On" = "เปิด";
+"Open or close your new Trivit with a single tap" = "แตะครั้งเดียวเพื่อเปิดหรือปิดตัวนับ";
+"Please finish editing the title first." = "กรุณาแก้ไขชื่อให้เสร็จก่อน";
+"Red" = "แดง";
+"Remove all" = "ลบทั้งหมด";
+"Reset Trivit" = "รีเซ็ตตัวนับ";
+"Reset all" = "รีเซ็ตทั้งหมด";
+"Reset all Trivits" = "รีเซ็ตตัวนับทั้งหมด";
+"Tap an image to rate:" = "แตะรูปเพื่อให้คะแนน:";
+"Tap the minus to decrease the count, hold long to reset" = "แตะลบเพื่อลดจำนวน กดค้างเพื่อรีเซ็ต";
+"Tap the pen to add a new Trivit" = "แตะปากกาเพื่อเพิ่มตัวนับใหม่";
+"Tap to increase the count" = "แตะเพื่อเพิ่มจำนวน";
+"This is the best app ever!" = "แอปที่ดีที่สุดเลย!";
+"Tutorial" = "บทเรียน";
+"Vibration - %@" = "การสั่น - %@";
+"Went swimming this year" = "ว่ายน้ำปีนี้";
+"Yes" = "ใช่";
+"Your feedback (optional)" = "ความคิดเห็นของคุณ (ไม่บังคับ)";

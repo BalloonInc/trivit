@@ -1,0 +1,1 @@
+contador,conteo,rastreador,hábito,contar,watch,clicker,puntos,inventario,metas

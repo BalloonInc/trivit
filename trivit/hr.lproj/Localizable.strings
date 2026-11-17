@@ -1,0 +1,217 @@
+/* App Name */
+"Trivit" = "Trivit";
+
+/* Navigation */
+"Settings" = "Postavke";
+"Done" = "Gotovo";
+
+/* Empty State */
+"No Trivits Yet" = "Još nema Trivita";
+"Tap + to create your first tally counter" = "Dodirnite + za stvaranje prvog brojača";
+
+/* Trivit Actions */
+"New Trivit" = "Novi Trivit";
+"Rename" = "Preimenuj";
+"Change Color" = "Promijeni boju";
+"Reset Count" = "Resetiraj brojač";
+"Delete" = "Obriši";
+"Title" = "Naslov";
+
+/* Settings - Sections */
+"General" = "Općenito";
+"Color Scheme" = "Shema boja";
+"Sync Info" = "Info sinkronizacije";
+"About" = "O aplikaciji";
+"Data" = "Podaci";
+
+/* Settings - General */
+"Haptic Feedback" = "Haptička povratna informacija";
+"Palette" = "Paleta";
+
+/* Settings - Sync Info */
+"Trivits Synced" = "Sinkronizirani Triviti";
+"Last Sync" = "Zadnja sinkronizacija";
+"Device" = "Uređaj";
+
+/* Settings - About */
+"Version" = "Verzija";
+"Rate on App Store" = "Ocijeni na App Storeu";
+"Send Feedback" = "Pošalji povratnu informaciju";
+
+/* Settings - Data */
+"Reset All Trivits" = "Resetiraj sve Trivite";
+
+/* Settings - General (new) */
+"Hide Counter When Expanded" = "Sakrij brojač kad je proširen";
+
+/* Deleted Items */
+"Deleted Items" = "Obrisani predmeti";
+"Recently Deleted" = "Nedavno obrisano";
+"No Deleted Items" = "Nema obrisanih predmeta";
+"Items you delete will appear here for 30 days" = "Predmeti koje obrišete pojavit će se ovdje na 30 dana";
+"Items are permanently deleted after 30 days. Swipe right to restore, swipe left to delete permanently." = "Predmeti se trajno brišu nakon 30 dana. Povucite desno za vraćanje, lijevo za trajno brisanje.";
+"Empty Trash" = "Isprazni smeće";
+"Restore" = "Vrati";
+
+/* Undo Toast */
+"Deleted \"%@\"" = "Obrisano \"%@\"";
+"Undo" = "Poništi";
+
+/* Tutorial */
+"Welcome to Trivit" = "Dobrodošli u Trivit";
+"Tap + to add a counter. Tap it to make the number go up. Mind = blown." = "Dodirnite + za dodavanje brojača. Dodirnite ga da broj poraste. Um = raspucan.";
+"That minus button? It does exactly what you think." = "Onaj gumb minus? Radi točno ono što mislite.";
+"Long press anything. Secrets await." = "Dugo pritisnite bilo što. Tajne čekaju.";
+"Swipe left to banish a counter forever." = "Povucite lijevo da zauvijek protjerate brojač.";
+"Yeah, I know how to use a counter app, thx" = "Da, znam kako koristiti aplikaciju za brojanje, hvala";
+"Tap + to add a new counter" = "Dodirnite + za dodavanje novog brojača";
+"Long press and drag to reorder" = "Dugo pritisnite i povucite za promjenu redoslijeda";
+"Long press a counter for more options" = "Dugo pritisnite brojač za više opcija";
+"Got it" = "Razumijem";
+
+/* Context Menu */
+"Statistics" = "Statistike";
+"History" = "Povijest";
+"Open Source" = "Otvoreni kod";
+"Source Code" = "Izvorni kod";
+"Report Translation Issue" = "Prijavi grešku u prijevodu";
+"Support" = "Podrška";
+"Cancel" = "Otkaži";
+
+/* Watch Sync */
+"Watch Sync" = "Watch sinkronizacija";
+"Watch Paired" = "Watch uparen";
+"Watch Reachable" = "Watch dostupan";
+"Sync to Watch" = "Sinkroniziraj na Watch";
+"Not reachable" = "Nije dostupan";
+
+/* Info Section */
+"Info" = "Info";
+"Trivits" = "Triviti";
+
+/* History View */
+"No History Yet" = "Još nema povijesti";
+"Tally events will appear here as you use the counter." = "Događaji brojanja pojavit će se ovdje dok koristite brojač.";
+"Delete Events" = "Obriši događaje";
+"Today" = "Danas";
+"Yesterday" = "Jučer";
+
+/* Statistics View */
+"Total" = "Ukupno";
+"Current Streak" = "Trenutni niz";
+"Longest Streak" = "Najduži niz";
+"Days Tracked" = "Praćeni dani";
+"Activity by Hour" = "Aktivnost po satu";
+"Activity by Day of Week" = "Aktivnost po danu u tjednu";
+"Monthly Trend" = "Mjesečni trend";
+"Last 30 Days" = "Zadnjih 30 dana";
+
+/* Color Scheme Names */
+"Vibrant" = "Živahno";
+"Pastel" = "Pastelno";
+"Monochrome" = "Jednobojno";
+"Ocean" = "Ocean";
+"Sunset" = "Zalazak sunca";
+"Forest" = "Šuma";
+"Candy" = "Bomboni";
+"Earth" = "Zemlja";
+
+/* Example Trivit Names - Healthy habits */
+"Glasses of water" = "Čaša vode";
+"Fruits eaten today" = "Voća pojedno danas";
+"Vegetables conquered" = "Povrća pokoreno";
+"Hours of sleep" = "Sati sna";
+"Steps walked" = "Koraka pređeno";
+"Push-ups done" = "Sklekova napravljeno";
+"Minutes exercised" = "Minuta vježbanja";
+"Healthy snacks" = "Zdravih grickalica";
+"Deep breaths taken" = "Dubokih udisaja";
+
+/* Example Trivit Names - Fun & silly */
+"Times I said 'wow'" = "Puta kad sam rekao/la 'wow'";
+"Cookies in my tummy" = "Keksa u mom trbuhu";
+"Silly dances performed" = "Ludih plesova izvedeno";
+"Dad jokes survived" = "Tatinih viceva preživljeno";
+"Pillows fluffed" = "Jastuka narahljeno";
+"Socks matched" = "Čarapa upareno";
+"Clouds that look like animals" = "Oblaka koji izgledaju kao životinje";
+"Times the dog wagged its tail" = "Puta kad je pas mahnuo repom";
+"Sneezes today" = "Kihanja danas";
+"Yawns caught from others" = "Zijevanja pokupljenih od drugih";
+"High fives given" = "Petki dano";
+"Bubbles blown" = "Mjehurića napuhano";
+"Puddles jumped in" = "Lokvi u koje sam skočio/la";
+"Funny faces made" = "Smiješnih grimasa napravljeno";
+"Songs sung in shower" = "Pjesama otpjevano pod tušem";
+"Times I forgot why I walked into a room" = "Puta kad sam zaboravio/la zašto sam ušao/la u sobu";
+"Dinosaur facts learned" = "Činjenica o dinosaurima naučeno";
+"Cards stacked before falling" = "Karata složeno prije pada";
+"Grapes caught in mouth" = "Grožđa uhvaćeno ustima";
+"Paper airplanes launched" = "Papirnatih aviona lansirano";
+
+/* Example Trivit Names - Productivity */
+"Books read" = "Knjiga pročitano";
+"Pages finished" = "Stranica završeno";
+"Tasks completed" = "Zadataka dovršeno";
+"Ideas had" = "Ideja imano";
+"Problems solved" = "Problema riješeno";
+"Minutes of focus" = "Minuta fokusa";
+"Emails conquered" = "Emailova pokoreno";
+"Meetings survived" = "Sastanaka preživljeno";
+
+/* Example Trivit Names - Kindness & gratitude */
+"Hugs given" = "Zagrljaja dano";
+"Thank yous said" = "Hvala izrečeno";
+"Smiles shared" = "Osmjeha podijeljeno";
+"Compliments given" = "Komplimenata dano";
+"Acts of kindness" = "Dobrih djela";
+"Friends helped" = "Prijateljima pomoženo";
+"Doors held open" = "Vrata držano otvoreno";
+
+/* Example Trivit Names - Learning */
+"New words learned" = "Novih riječi naučeno";
+"Questions asked" = "Pitanja postavljeno";
+"Facts discovered" = "Činjenica otkriveno";
+"Languages practiced" = "Jezika vježbano";
+"Puzzles solved" = "Zagonetki riješeno";
+
+/* Legacy Strings (kept for compatibility) */
+"Are you sure you want to delete all trivits?" = "Jeste li sigurni da želite obrisati sve Trivite?";
+"Are you sure you want to reset '%@'?" = "Jeste li sigurni da želite resetirati '%@'?";
+"Are you sure you want to reset all counts to 0?" = "Jeste li sigurni da želite resetirati sve brojače na 0?";
+"Blue" = "Plava";
+"Cannot add" = "Ne može se dodati";
+"Color - %@" = "Boja - %@";
+"Days in prison" = "Dana u zatvoru";
+"Default" = "Zadano";
+"Delete all Trivits" = "Obriši sve Trivite";
+"Drinks" = "Pića";
+"Feedback" = "Povratna informacija";
+"Get started!" = "Započnimo!";
+"Give your Trivit a name" = "Dajte svom Trivitu ime";
+"Got it." = "Razumijem.";
+"Green" = "Zelena";
+"I am missing some things..." = "Nedostaju mi neke stvari...";
+"I don't get it." = "Ne razumijem.";
+"I like what I see." = "Sviđa mi se što vidim.";
+"I've seen better, I've seen worse." = "Može proći.";
+"No" = "Ne";
+"Off" = "Isključeno";
+"On" = "Uključeno";
+"Open or close your new Trivit with a single tap" = "Otvorite ili zatvorite novi Trivit jednim dodirom";
+"Please finish editing the title first." = "Molimo prvo dovršite uređivanje naslova.";
+"Red" = "Crvena";
+"Remove all" = "Ukloni sve";
+"Reset Trivit" = "Resetiraj Trivit";
+"Reset all" = "Resetiraj sve";
+"Reset all Trivits" = "Resetiraj sve Trivite";
+"Tap an image to rate:" = "Dodirnite sliku za ocjenu:";
+"Tap the minus to decrease the count, hold long to reset" = "Dodirnite minus za smanjenje, držite dugo za reset";
+"Tap the pen to add a new Trivit" = "Dodirnite olovku za dodavanje novog Trivita";
+"Tap to increase the count" = "Dodirnite za povećanje";
+"This is the best app ever!" = "Ovo je najbolja aplikacija ikad!";
+"Tutorial" = "Vodič";
+"Vibration - %@" = "Vibracija - %@";
+"Went swimming this year" = "Plivanje ove godine";
+"Yes" = "Da";
+"Your feedback (optional)" = "Vaša povratna informacija (neobavezno)";
